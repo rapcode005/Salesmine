@@ -1,0 +1,105 @@
+﻿/*.button { background:  url(../Images/btn-over.jpg) repeat-x top left; color:#fff; font-weight:bold; font-size:10px; height:20px; border:none!important; line-height:20px; padding-bottom:3px;padding-left:3px;padding-right:3px;}*/
+
+.button
+{
+    background: url('../Images/btn-over_2.jpg') repeat-x 50% top;
+    color: #fff;
+    font-weight: bold;
+    font-size: 10px;
+    border: 1px solid Gray !important;
+    line-height: 20px;
+    height: 20px;
+    padding-bottom: 20px;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-top: 0px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    text-align: center;
+    
+}
+
+.button:hover { 
+	
+	background: #1fb3dc url(images/btn-hover.jpg) repeat-x top;
+	cursor: pointer;
+}
+
+
+.BackButton
+{
+    background-color: transparent;
+    background-repeat: no-repeat;
+ 
+    background-image: url(../Images/logout-logo.gif);
+    color: #ffffff;
+    font-weight: bold;
+    font-size:large;
+}
+
+
+.headingTable_Master
+{
+	background: #fff url('../images/sub-header-right-bg.gif') repeat-x 50% top;
+    height: 7px;
+    width:1262px;
+    
+}
+
+ .headingCell_MasterBox
+{
+	background: #F79C3F url(   '../Images/top-curve.gif' ) no-repeat top right;
+	width:260px;	
+	height:35px;
+	 margin: -3px 0 0 -9px;
+	float:left;
+	
+}
+.headingCell_MasterLogo
+{
+   font-size: 20px;
+	font-weight: bold;
+	line-height: normal;
+	color: #fff;
+	margin: 1px 0 0 11px;
+	
+	width: 310px;
+	text-align:left;
+	height:35px; 
+	margin-top:3px;
+}
+.headingTable_Master .headingCell_Master 
+{
+	font-size: 22px;
+	font-weight: bold;
+	line-height: normal;
+	color: #fff;
+	
+	*width:260px;
+	width: 310px;
+	text-align:left;
+	height:35px;
+}
+
+
+
+.ResetButton{
+    background:url("../Images/Reset_original_r.png") no-repeat;
+   width:86px;
+   height:31px;
+}
+.ResetButton:hover{
+    background:url("../Images/Reset_hover_r.png");
+
+}
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,117 @@
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="DATE" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="CREATED_x0020_BY" type="xs:string" minOccurs="0" />
+                <xs:element name="NOTE_x0020_TYPE" type="xs:string" minOccurs="0" />
+                <xs:element name="NOTES" type="xs:string" minOccurs="0" />
+                <xs:element name="SCHEDULED_x0020_DATE" type="xs:string" minOccurs="0" />
+                <xs:element name="ACCOUNT_x0020_NUMBER" type="xs:double" minOccurs="0" />
+                <xs:element name="CONTACT_x0020_NAME" type="xs:string" minOccurs="0" />
+                <xs:element name="CONTACT_x0020_NUMBER" type="xs:double" minOccurs="0" />
+                <xs:element name="DISPOSITION_x0020_CODE" type="xs:string" minOccurs="0" />
+                <xs:element name="DISPOSITION_x0020_DESCRIPTION" type="xs:string" minOccurs="0" />
+                <xs:element name="AGENT_x0020_NAME" type="xs:string" minOccurs="0" />
+                <xs:element name="PHONE_x0020_NUMBER" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <DATE>2013-01-04T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>STDE006</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DISPOSITION NOTES</NOTE_x0020_TYPE>
+    <ACCOUNT_x0020_NUMBER>6244109</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>NFU</DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>No follow up action required                                                                                                    </DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2013-08-12T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>STDE006</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DISPOSITION NOTES</NOTE_x0020_TYPE>
+    <ACCOUNT_x0020_NUMBER>6244109</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>NFU</DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>No follow up action required                                                                                                    </DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2013-08-15T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>STDE003</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DISPOSITION NOTES</NOTE_x0020_TYPE>
+    <ACCOUNT_x0020_NUMBER>6244109</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>NFU</DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>No follow up action required                                                                                                    </DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2013-11-15T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>STDE002</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DISPOSITION NOTES</NOTE_x0020_TYPE>
+    <ACCOUNT_x0020_NUMBER>6244109</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>NFU</DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>No follow up action required                                                                                                    </DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2014-07-16T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>STDE002</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DISPOSITION NOTES</NOTE_x0020_TYPE>
+    <ACCOUNT_x0020_NUMBER>6244109</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>LOS</DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Opportunity lost                                                                                                                </DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2014-11-12T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>STDE002</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DISPOSITION NOTES</NOTE_x0020_TYPE>
+    <ACCOUNT_x0020_NUMBER>6244109</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>OPN</DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Opportunity open / pending / received                                                                                           </DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2015-01-15T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>STDE003</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DISPOSITION NOTES</NOTE_x0020_TYPE>
+    <ACCOUNT_x0020_NUMBER>6244109</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>NFU</DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>No follow up action required                                                                                                    </DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2015-01-20T02:21:09+08:00</DATE>
+    <CREATED_x0020_BY>LANGEAN   </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>Mit Fr. Habereder gespr.Sie &amp; Hr. Schwaninger sind Hauptasp im selben Büro. Fr. Stoiber bestellt unter umständen als Leiterin.KM mit TR an beide.                                                                                                                                                                                                                                                                                                                                                                   </NOTES>
+    <SCHEDULED_x0020_DATE>01/20/2015</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>6244109</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME>HABEREDER, CHRISTINA</CONTACT_x0020_NAME>
+    <CONTACT_x0020_NUMBER>12971535</CONTACT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+</NewDataSet>

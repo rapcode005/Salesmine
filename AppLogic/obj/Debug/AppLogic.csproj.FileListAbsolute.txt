@@ -1,0 +1,126 @@
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\AppLogic\bin\AppLogic.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\AppLogic\bin\AppLogic.pdb
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\AppLogic\bin\DataAccess.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\AppLogic\bin\LoggerLibrary.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\AppLogic\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\AppLogic\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\AppLogic\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\AppLogic\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\AppLogic\bin\Microsoft.Practices.Unity.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\AppLogic\bin\DataAccess.pdb
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\AppLogic\bin\LoggerLibrary.pdb
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\AppLogic\bin\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\AppLogic\bin\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\AppLogic\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\AppLogic\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\AppLogic\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\AppLogic\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\AppLogic\bin\Microsoft.Practices.Unity.pdb
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\AppLogic\obj\Debug\AppLogic.csprojResolveAssemblyReference.cache
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\AppLogic\obj\Debug\AppLogic.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\AppLogic\obj\Debug\AppLogic.pdb
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\AppLogic\bin\AppLogic.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\AppLogic\bin\AppLogic.pdb
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\AppLogic\bin\DataAccess.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\AppLogic\bin\LoggerLibrary.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\AppLogic\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\AppLogic\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\AppLogic\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\AppLogic\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\AppLogic\bin\Microsoft.Practices.Unity.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\AppLogic\bin\DataAccess.pdb
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\AppLogic\bin\LoggerLibrary.pdb
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\AppLogic\bin\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\AppLogic\bin\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\AppLogic\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\AppLogic\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\AppLogic\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\AppLogic\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\AppLogic\bin\Microsoft.Practices.Unity.pdb
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\AppLogic\obj\Debug\AppLogic.csprojResolveAssemblyReference.cache
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\AppLogic\obj\Debug\AppLogic.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\AppLogic\obj\Debug\AppLogic.pdb
+C:\Users\OngRa\Documents\Web Salesmine\AppLogic\bin\AppLogic.dll
+C:\Users\OngRa\Documents\Web Salesmine\AppLogic\bin\AppLogic.pdb
+C:\Users\OngRa\Documents\Web Salesmine\AppLogic\bin\DataAccess.dll
+C:\Users\OngRa\Documents\Web Salesmine\AppLogic\bin\LoggerLibrary.dll
+C:\Users\OngRa\Documents\Web Salesmine\AppLogic\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\OngRa\Documents\Web Salesmine\AppLogic\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\OngRa\Documents\Web Salesmine\AppLogic\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\OngRa\Documents\Web Salesmine\AppLogic\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\OngRa\Documents\Web Salesmine\AppLogic\bin\Microsoft.Practices.Unity.dll
+C:\Users\OngRa\Documents\Web Salesmine\AppLogic\bin\DataAccess.pdb
+C:\Users\OngRa\Documents\Web Salesmine\AppLogic\bin\LoggerLibrary.pdb
+C:\Users\OngRa\Documents\Web Salesmine\AppLogic\bin\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+C:\Users\OngRa\Documents\Web Salesmine\AppLogic\bin\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\OngRa\Documents\Web Salesmine\AppLogic\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\OngRa\Documents\Web Salesmine\AppLogic\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\OngRa\Documents\Web Salesmine\AppLogic\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\OngRa\Documents\Web Salesmine\AppLogic\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\OngRa\Documents\Web Salesmine\AppLogic\bin\Microsoft.Practices.Unity.pdb
+C:\Users\OngRa\Documents\Web Salesmine\AppLogic\obj\Debug\AppLogic.csprojResolveAssemblyReference.cache
+C:\Users\OngRa\Documents\Web Salesmine\AppLogic\obj\Debug\AppLogic.dll
+C:\Users\OngRa\Documents\Web Salesmine\AppLogic\obj\Debug\AppLogic.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\AppLogic\bin\AppLogic.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\AppLogic\bin\AppLogic.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\AppLogic\bin\DataAccess.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\AppLogic\bin\LoggerLibrary.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\AppLogic\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\AppLogic\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\AppLogic\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\AppLogic\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\AppLogic\bin\Microsoft.Practices.Unity.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\AppLogic\bin\DataAccess.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\AppLogic\bin\LoggerLibrary.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\AppLogic\bin\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\AppLogic\bin\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\AppLogic\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\AppLogic\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\AppLogic\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\AppLogic\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\AppLogic\bin\Microsoft.Practices.Unity.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\AppLogic\obj\Debug\AppLogic.csprojResolveAssemblyReference.cache
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\AppLogic\obj\Debug\AppLogic.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\AppLogic\obj\Debug\AppLogic.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\AppLogic\bin\AppLogic.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\AppLogic\bin\AppLogic.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\AppLogic\bin\DataAccess.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\AppLogic\bin\LoggerLibrary.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\AppLogic\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\AppLogic\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\AppLogic\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\AppLogic\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\AppLogic\bin\Microsoft.Practices.Unity.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\AppLogic\bin\DataAccess.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\AppLogic\bin\LoggerLibrary.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\AppLogic\bin\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\AppLogic\bin\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\AppLogic\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\AppLogic\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\AppLogic\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\AppLogic\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\AppLogic\bin\Microsoft.Practices.Unity.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\AppLogic\obj\Debug\AppLogic.csprojResolveAssemblyReference.cache
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\AppLogic\obj\Debug\AppLogic.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\AppLogic\obj\Debug\AppLogic.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\AppLogic\bin\AppLogic.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\AppLogic\bin\AppLogic.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\AppLogic\bin\DataAccess.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\AppLogic\bin\LoggerLibrary.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\AppLogic\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\AppLogic\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\AppLogic\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\AppLogic\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\AppLogic\bin\Microsoft.Practices.Unity.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\AppLogic\bin\DataAccess.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\AppLogic\bin\LoggerLibrary.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\AppLogic\bin\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\AppLogic\bin\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\AppLogic\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\AppLogic\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\AppLogic\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\AppLogic\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\AppLogic\bin\Microsoft.Practices.Unity.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\AppLogic\obj\Debug\AppLogic.csprojResolveAssemblyReference.cache
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\AppLogic\obj\Debug\AppLogic.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\AppLogic\obj\Debug\AppLogic.pdb

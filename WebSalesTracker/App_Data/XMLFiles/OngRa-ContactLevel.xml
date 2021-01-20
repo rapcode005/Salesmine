@@ -1,0 +1,1388 @@
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="contmerg" type="xs:double" minOccurs="0" />
+                <xs:element name="name" type="xs:string" minOccurs="0" />
+                <xs:element name="contact_type" type="xs:string" minOccurs="0" />
+                <xs:element name="rec_mo" type="xs:double" minOccurs="0" />
+                <xs:element name="Sales12M" type="xs:double" minOccurs="0" />
+                <xs:element name="CONTACT_STATUS" type="xs:string" minOccurs="0" />
+                <xs:element name="Function" type="xs:string" minOccurs="0" />
+                <xs:element name="REP_CONTSTAT" type="xs:string" minOccurs="0" />
+                <xs:element name="REP_JOBAREA" type="xs:string" minOccurs="0" />
+                <xs:element name="OrderQuote" type="xs:int" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <contmerg>13075552</contmerg>
+    <name>TEST, TEST</name>
+    <contact_type>BUYER</contact_type>
+    <rec_mo>2</rec_mo>
+    <Sales12M>-54.949999999999989</Sales12M>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Account Manager</Function>
+    <REP_CONTSTAT />
+    <REP_JOBAREA />
+    <OrderQuote>7</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13083042</contmerg>
+    <name>BAUMGARDNER, SAMANTHA</name>
+    <contact_type>BUYER</contact_type>
+    <rec_mo>22</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Manager</Function>
+    <OrderQuote>2</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>10112885</contmerg>
+    <name>HANSEN, NICK</name>
+    <contact_type>BUYER</contact_type>
+    <rec_mo>55</rec_mo>
+    <CONTACT_STATUS>NO LONGER WITH COMPANY</CONTACT_STATUS>
+    <Function>Administrator</Function>
+    <REP_CONTSTAT>No Longer there</REP_CONTSTAT>
+    <OrderQuote>1</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>12812340</contmerg>
+    <name>MCCARTY, GARY</name>
+    <contact_type>BUYER</contact_type>
+    <rec_mo>29</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <REP_CONTSTAT />
+    <REP_JOBAREA />
+    <OrderQuote>1</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13083172</contmerg>
+    <name>KRYZKOWSKI, LINDA</name>
+    <contact_type>BUYER</contact_type>
+    <rec_mo>23</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Manager</Function>
+    <OrderQuote>1</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13112941</contmerg>
+    <name>GORDON, MIKE</name>
+    <contact_type>BUYER</contact_type>
+    <rec_mo>22</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Manager</Function>
+    <OrderQuote>1</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13212048</contmerg>
+    <name>SMITH, MARCO</name>
+    <contact_type>BUYER</contact_type>
+    <rec_mo>22</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Manager</Function>
+    <OrderQuote>1</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>14443595</contmerg>
+    <name>TESTING, TEST</name>
+    <contact_type>BUYER</contact_type>
+    <rec_mo>2</rec_mo>
+    <Sales12M>0</Sales12M>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Account Manager</Function>
+    <REP_CONTSTAT />
+    <REP_JOBAREA />
+    <OrderQuote>1</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>1463101</contmerg>
+    <name>BRANTNER, BEAU</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>8</rec_mo>
+    <Sales12M>42.95</Sales12M>
+    <CONTACT_STATUS>ADDED WRONG CUSTOMER</CONTACT_STATUS>
+    <REP_CONTSTAT />
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>1463101</contmerg>
+    <name>BRANTNER, BEAU</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>8</rec_mo>
+    <Sales12M>42.95</Sales12M>
+    <CONTACT_STATUS>ADDED WRONG CUSTOMER</CONTACT_STATUS>
+    <REP_CONTSTAT />
+    <REP_JOBAREA />
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>1463101</contmerg>
+    <name>BRANTNER, BEAU</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>8</rec_mo>
+    <Sales12M>42.95</Sales12M>
+    <CONTACT_STATUS>ADDED WRONG CUSTOMER</CONTACT_STATUS>
+    <REP_CONTSTAT>Added wrong Customer</REP_CONTSTAT>
+    <REP_JOBAREA xml:space="preserve">                                                                </REP_JOBAREA>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>1463101</contmerg>
+    <name>BRANTNER, BEAU</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>8</rec_mo>
+    <Sales12M>42.95</Sales12M>
+    <CONTACT_STATUS>ADDED WRONG CUSTOMER</CONTACT_STATUS>
+    <REP_CONTSTAT>No Longer there</REP_CONTSTAT>
+    <REP_JOBAREA xml:space="preserve">                                                                </REP_JOBAREA>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>1463101</contmerg>
+    <name>BRANTNER, BEAU</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>8</rec_mo>
+    <Sales12M>42.95</Sales12M>
+    <CONTACT_STATUS>ADDED WRONG CUSTOMER</CONTACT_STATUS>
+    <REP_CONTSTAT>Purchasing Agent</REP_CONTSTAT>
+    <REP_JOBAREA xml:space="preserve">                                                                </REP_JOBAREA>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>4288578</contmerg>
+    <name>MOLINA, MAURICIO</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>44</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Buyer</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>6087831</contmerg>
+    <name>TESTER, MIKE</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>68</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Attorney</Function>
+    <REP_CONTSTAT xml:space="preserve"> </REP_CONTSTAT>
+    <REP_JOBAREA xml:space="preserve">                                                                </REP_JOBAREA>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>6087831</contmerg>
+    <name>TESTER, MIKE</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>68</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Attorney</Function>
+    <REP_CONTSTAT xml:space="preserve"> </REP_CONTSTAT>
+    <REP_JOBAREA>HR                                                              </REP_JOBAREA>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>6087831</contmerg>
+    <name>TESTER, MIKE</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>68</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Attorney</Function>
+    <REP_CONTSTAT xml:space="preserve"> </REP_CONTSTAT>
+    <REP_JOBAREA>OTHER                                                           </REP_JOBAREA>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>6087831</contmerg>
+    <name>TESTER, MIKE</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>68</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Attorney</Function>
+    <REP_CONTSTAT>Deceased</REP_CONTSTAT>
+    <REP_JOBAREA>HR</REP_JOBAREA>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>8406334</contmerg>
+    <name>SCOTT, URIAH</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>76</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <REP_CONTSTAT />
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>8495609</contmerg>
+    <name>HANDY, LYNN</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>52</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Analyst</Function>
+    <REP_CONTSTAT>No Longer there</REP_CONTSTAT>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>9508205</contmerg>
+    <name>HUG, RACHEL</name>
+    <contact_type>BUYER</contact_type>
+    <rec_mo>25</rec_mo>
+    <CONTACT_STATUS>NO LONGER WITH COMPANY</CONTACT_STATUS>
+    <Function>CFO</Function>
+    <REP_CONTSTAT xml:space="preserve"> </REP_CONTSTAT>
+    <REP_JOBAREA xml:space="preserve">                                                                </REP_JOBAREA>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>9508236</contmerg>
+    <name>PAYER, BILL</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>68</rec_mo>
+    <CONTACT_STATUS>DECEASED</CONTACT_STATUS>
+    <Function>Accounts Payable</Function>
+    <REP_CONTSTAT>Deceased</REP_CONTSTAT>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>9508241</contmerg>
+    <name>PAIN, LYNN</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>68</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <REP_CONTSTAT>Primary Decision Maker</REP_CONTSTAT>
+    <REP_JOBAREA>Facilities                                                      </REP_JOBAREA>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>9534079</contmerg>
+    <name>VANSELOW, BECKY</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>68</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Project Manager</Function>
+    <REP_CONTSTAT>Added wrong Customer</REP_CONTSTAT>
+    <REP_JOBAREA xml:space="preserve">                                                                </REP_JOBAREA>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>9547993</contmerg>
+    <name>HUGG, RICHARD</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>68</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>10112584</contmerg>
+    <name>BROUSSARD, AZURI</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>59</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <REP_CONTSTAT />
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>10292349</contmerg>
+    <name>MCLEAN, MICKY</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>59</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Accountant</Function>
+    <REP_CONTSTAT>Decision Influencer</REP_CONTSTAT>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>10353927</contmerg>
+    <name>PRATTS, JEDD</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>58</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Security</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>10362612</contmerg>
+    <name>JONES, JOHN</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>58</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>10368890</contmerg>
+    <name>DOE2, JOHN</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>58</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>10372730</contmerg>
+    <name>JONES, DAVY</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>57</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Administrator</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>10458387</contmerg>
+    <name>CRUZ, MIKE</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>48</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Assistant</Function>
+    <REP_CONTSTAT xml:space="preserve"> </REP_CONTSTAT>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>10491040</contmerg>
+    <name>ENAJE, MARLON</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>56</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>10498147</contmerg>
+    <name>THEONE, NEO</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>56</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Security</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>10498809</contmerg>
+    <name>BAUTISTA, NINO</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>56</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>10498827</contmerg>
+    <name>ABREU, RENZ</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>56</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Project Manager</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>10730252</contmerg>
+    <name>MANDY, AIMEE</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>52</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Buyer</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>10730270</contmerg>
+    <name>FANTOZZI, JASON</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>52</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <REP_CONTSTAT xml:space="preserve"> </REP_CONTSTAT>
+    <REP_JOBAREA xml:space="preserve">                                                                </REP_JOBAREA>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>10735021</contmerg>
+    <name>AMI, DICELL</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>51</rec_mo>
+    <CONTACT_STATUS>DECEASED</CONTACT_STATUS>
+    <REP_CONTSTAT xml:space="preserve"> </REP_CONTSTAT>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>10735022</contmerg>
+    <name>WAPAK, ARDIN</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>51</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>10735023</contmerg>
+    <name>TUSCANO, MARGARETTE</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>51</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>10742683</contmerg>
+    <name>TEST, MIKE</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>51</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <REP_CONTSTAT xml:space="preserve"> </REP_CONTSTAT>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>10742685</contmerg>
+    <name>BALDONIDO, KURT MATTHEW</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>51</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>10742686</contmerg>
+    <name>SUBSCRIPTION, POSTER</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>51</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>11327816</contmerg>
+    <name>ESCANO, AIMEE</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>49</rec_mo>
+    <CONTACT_STATUS>ADDED WRONG CUSTOMER</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>11327817</contmerg>
+    <name>CUYUGAN, DAHLIA</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>49</rec_mo>
+    <CONTACT_STATUS>ADDED WRONG CUSTOMER</CONTACT_STATUS>
+    <Function>Project Manager</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>11327818</contmerg>
+    <name>SUPELANA, JAY-AR</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>49</rec_mo>
+    <CONTACT_STATUS>ADDED WRONG CUSTOMER</CONTACT_STATUS>
+    <Function>Project Manager</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>11466194</contmerg>
+    <name>GRIMALDO, ROB</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>48</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>11466195</contmerg>
+    <name>BAÑAGA, MARENESS</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>48</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>11466196</contmerg>
+    <name>ROSALES, MAC</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>48</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>11466197</contmerg>
+    <name>LEAL, MICHAEL</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>48</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>11466198</contmerg>
+    <name>EVANGELISTA, IYA</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>48</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>11602769</contmerg>
+    <name>LOGGINS, BETH</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>46</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Purchasing Agent</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>11602770</contmerg>
+    <name>MALIT, PAULO</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>46</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>11602772</contmerg>
+    <name>PASTRANA, FRANK</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>46</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Purchasing Agent</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>11602773</contmerg>
+    <name>GONZALES, JOHN</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>46</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Manager</Function>
+    <REP_CONTSTAT>Primary Decision Maker</REP_CONTSTAT>
+    <REP_JOBAREA>OTHER</REP_JOBAREA>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>11946445</contmerg>
+    <name>WAYNE, JOHN</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>38</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Owner / Partner</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>11971123</contmerg>
+    <name>STINSON, BARNEY</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>42</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>11971124</contmerg>
+    <name>HUNT, VICTORIA</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>42</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Account Manager</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>11971125</contmerg>
+    <name>BOB, SPONGE</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>42</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>11971126</contmerg>
+    <name>PETE, BRADLY</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>42</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>11971129</contmerg>
+    <name>SAFUKI, KINITA</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>42</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>11971574</contmerg>
+    <name> BOYD, KURT</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>13</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>12215590</contmerg>
+    <name>FRAZIER, JOHN</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>24</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Account Manager</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>12215591</contmerg>
+    <name>FRAIZER, JOHN</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>36</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Account Manager</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>12298954</contmerg>
+    <name>FRASIER, JOHN</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>36</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Account Manager</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>12463302</contmerg>
+    <name>FRAZIER, RACHEL</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>34</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Account Manager</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>12463327</contmerg>
+    <name>FRASIER, BRANDON</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>34</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Account Manager</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>12463328</contmerg>
+    <name>FRAIZER, RACHEL</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>34</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Account Manager</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>12465508</contmerg>
+    <name>RRAZIER, RACHEL</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>34</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Account Manager</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>12681810</contmerg>
+    <name>VAN DER WOODSEN, LIZZIE</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>31</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Account Manager</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>12681811</contmerg>
+    <name>SMITH, AJ</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>31</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Accountant</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>12681812</contmerg>
+    <name>DELA CRUZ, YESA</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>31</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Project Manager</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>12681813</contmerg>
+    <name>CRISOSTOMO, NINO</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>31</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Account Manager</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>12681814</contmerg>
+    <name>PHANTOM, DANNY</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>31</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Account Manager</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>12681815</contmerg>
+    <name>AGNARSSON, GEE</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>31</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Account Manager</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>12681816</contmerg>
+    <name>STA CRUZ, PAULO</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>31</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>12681817</contmerg>
+    <name>SARMIENTO, CJHEY</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>31</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>CEO</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>12681818</contmerg>
+    <name>RANESES, JANN</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>31</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Account Manager</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>12681819</contmerg>
+    <name>PEREZ, HONEYLYN</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>31</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Account Manager</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>12741406</contmerg>
+    <name>TESTL, TESTF</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>30</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>12741434</contmerg>
+    <name>TESTLA, TESTFA</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>30</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>12794874</contmerg>
+    <name>TRINIDAD, JOYCE</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>29</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>12812317</contmerg>
+    <contact_type>BUYER</contact_type>
+    <rec_mo>71</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>12812323</contmerg>
+    <name>CABRERA, MASSIEL</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>29</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>12812324</contmerg>
+    <name>CLAIRE, JENNIFER</name>
+    <contact_type>BUYER</contact_type>
+    <rec_mo>29</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>12812325</contmerg>
+    <name>CONCEPTS, PERSONNEL</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>29</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Office Manager</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>12812329</contmerg>
+    <name>GARCIA, MARIELA</name>
+    <contact_type>BUYER</contact_type>
+    <rec_mo>29</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>12812330</contmerg>
+    <name>GONZALEZ, LIANA</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>29</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>12812335</contmerg>
+    <name>KIMPTON, MARILYN</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>74</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>12812337</contmerg>
+    <name>KYLE, JOHN</name>
+    <contact_type>BUYER</contact_type>
+    <rec_mo>29</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>12812339</contmerg>
+    <name>MAESTRADO, JOANA</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>29</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>12812342</contmerg>
+    <name>NGUYEN, ANN</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>57</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Admin Assistant</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>12812344</contmerg>
+    <name>PEREZ, NANCY</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>25</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Manager</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>12812346</contmerg>
+    <name>RAGUERO, JERICO</name>
+    <contact_type>SHIP TO</contact_type>
+    <rec_mo>29</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>12812348</contmerg>
+    <name>REYNOLDS, DONNA</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>29</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>12812349</contmerg>
+    <name>SALCIDO, PRISCILLA</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>29</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>12812353</contmerg>
+    <name>WALKER, JEFF</name>
+    <contact_type>BUYER</contact_type>
+    <rec_mo>29</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>12985736</contmerg>
+    <name>CUTLER, BEN</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>15</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Administrator</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>12998010</contmerg>
+    <name>SHIMISTU, KYOHEI</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>23</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Manager</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13004928</contmerg>
+    <name>SMITH, GEORGIA</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>26</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Manager</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13027648</contmerg>
+    <name>LAPUZ, JOHN</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>25</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Manager</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13027649</contmerg>
+    <name>RATRLIFF, THELMA</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>23</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Owner / Partner</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13027650</contmerg>
+    <name>MORRISON, DARLENE</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>23</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Owner / Partner</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13027651</contmerg>
+    <name>MOORE, CINDY</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>25</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Owner / Partner</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13027652</contmerg>
+    <name>TOWNS, CORRINE</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>23</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Manager</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13027654</contmerg>
+    <name>WALK, TERESA</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>25</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Manager</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13027655</contmerg>
+    <name>GAGLIARDI, JOHN</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>25</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Manager</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13029440</contmerg>
+    <name>NORMAND, JENNIFER</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>25</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>CFO</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13033727</contmerg>
+    <name>RADNEY, JONATHAN</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>25</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Manager</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13038253</contmerg>
+    <name>LASITER, DONNIE</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>25</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>CFO</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13041559</contmerg>
+    <name>SANTIAGO, MIGDALIA</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>25</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Manager</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13057269</contmerg>
+    <name>GOMEZ, CELINE</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>25</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Business Manager</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13061914</contmerg>
+    <name>TEST, BEN</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>15</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13063732</contmerg>
+    <name>NORMAN, JEAN</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>25</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Account Manager</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13075554</contmerg>
+    <name>RANADA FF, BETH</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>25</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13075559</contmerg>
+    <name>RANADA CHROME, BETH</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>25</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13075560</contmerg>
+    <name>RANADA IETEN VISA, BETH</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>25</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13075561</contmerg>
+    <name>RANADA SAFARI DISC, BETH</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>25</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13075562</contmerg>
+    <name>RANADA IENINE AMEX, BETH</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>25</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13075563</contmerg>
+    <name>RANADA IE, BETH</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>25</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13075564</contmerg>
+    <name>RANADA IEELEVEN DISC, BETH</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>25</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13075567</contmerg>
+    <name>FASTNESS, FREDDY</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>25</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Accountant</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13075611</contmerg>
+    <name>TAVARES, DEVANTE</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>25</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Admin Assistant</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13075660</contmerg>
+    <name>ASDFASD, ASDFASD</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>25</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Accounts Payable</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13076124</contmerg>
+    <name>LEAMAN, VALORIE</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>25</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Accountant</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13083044</contmerg>
+    <name>SEXTON, BUB</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>23</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Account Manager</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13083600</contmerg>
+    <name>REY, JEFF</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>24</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Account Manager</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13112878</contmerg>
+    <name>ADARSH, MOHAN</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>24</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13113493</contmerg>
+    <name>TOWNS, JENNIFER</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>24</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Bookkeeper</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13211774</contmerg>
+    <name>MILLER, THOMAS</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>23</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Manager</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13211775</contmerg>
+    <name>BEALL, ERIC</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>23</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Manager</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13211776</contmerg>
+    <name>HEIZNS, SHERRY</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>23</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Account Manager</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13211777</contmerg>
+    <name>NORMAN, LARRY</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>23</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Manager</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13211779</contmerg>
+    <name>GONZALES, RUBEN</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>23</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Manager</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13211781</contmerg>
+    <name>GARRATON, MARTA</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>23</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Manager</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13211782</contmerg>
+    <name>CAIN, SUSAN</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>23</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Vice President</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13211784</contmerg>
+    <name>PEREZ, JENNIE</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>23</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Store Manager</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13211791</contmerg>
+    <name>MORRISON, VICTORIA</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>23</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Manager</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13212050</contmerg>
+    <name>SMITH, SHERRY</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>23</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Funeral Director</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13214023</contmerg>
+    <name>SMITH, JENNIFER</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>23</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Bookkeeper</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13411501</contmerg>
+    <name>CUTLER, JAMES</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>20</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Admin Assistant</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13668127</contmerg>
+    <name>RANADA, LILYBETH</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>15</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Account Manager</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13669851</contmerg>
+    <name>WILLIAMS, GUY</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>15</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13754842</contmerg>
+    <name>CHASE, TODD</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>13</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13759808</contmerg>
+    <name>COSAY, CHIE</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>13</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Account Manager</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13856828</contmerg>
+    <name>BRADY, TEST</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>12</rec_mo>
+    <Sales12M>64.95</Sales12M>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Account Manager</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13857770</contmerg>
+    <name>TESTER, TEST</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>12</rec_mo>
+    <Sales12M>0.01</Sales12M>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <REP_CONTSTAT />
+    <REP_JOBAREA />
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>13933545</contmerg>
+    <name>ANTAKI, CAROLINE</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>11</rec_mo>
+    <Sales12M>399.91999999999996</Sales12M>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>14211108</contmerg>
+    <name>BRADY, TEST</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>6</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <REP_CONTSTAT />
+    <REP_JOBAREA />
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>14211113</contmerg>
+    <name>LEO, TEST</name>
+    <contact_type>ORDERS REJECTED</contact_type>
+    <rec_mo>4</rec_mo>
+    <Sales12M>689.7</Sales12M>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <REP_CONTSTAT />
+    <REP_JOBAREA />
+    <OrderQuote>0</OrderQuote>
+  </Table>
+  <Table>
+    <contmerg>14500951</contmerg>
+    <name>NICHOLSON, JACK</name>
+    <contact_type>NO ACTIVITY</contact_type>
+    <rec_mo>1</rec_mo>
+    <CONTACT_STATUS>ACTIVE</CONTACT_STATUS>
+    <Function>Office Manager</Function>
+    <OrderQuote>0</OrderQuote>
+  </Table>
+</NewDataSet>

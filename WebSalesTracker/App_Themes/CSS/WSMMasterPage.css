@@ -1,0 +1,406 @@
+﻿body
+{
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #fff;
+	padding: 0;
+	margin: 0;
+}
+
+
+.headerTable_Master td
+{
+	padding: 2px 0 2px 0;
+	vertical-align: middle;
+	
+}
+
+.headerTable_Master .headerLogo_Master img
+{
+	margin: 0 10px 0 15px;
+}
+
+
+
+.headerTable_Master .headerDivider_Master
+{
+	width: 2%;
+}
+
+.headerTable_Master .logoutIcon_Master
+{
+	
+	text-align:right;
+	padding-right:20px;
+}
+
+.lbluser_Master
+{
+	font-family: Arial;
+	font-size: 9pt;
+	font-weight: NORMAL;
+	color: #FFFFFF;
+}
+
+.lblReset_Master
+{
+	font-family: Arial;
+	font-size: 7pt;
+	font-weight: NORMAL;
+	color: Blue;
+	
+}
+
+/*---------------------Heading---------------------*/
+
+.headingTable_Master
+{
+	background: #fff url('../images/sub-header-right-bg.gif') repeat-x 50% top;
+    height: 7px;
+    width:1260px;
+    
+}
+
+ .headingCell_MasterBox
+{
+	background: #F79C3F url(   '../Images/top-curve.gif' ) no-repeat top right;
+	width:310px;	
+	height:35px;
+	margin:-3px 0 0 -3px;
+	float:left;
+	
+}
+.headingCell_MasterLogo
+{
+   font-size: 22px;
+	font-weight: bold;
+	line-height: normal;
+	color: #fff;
+	margin: 0px 0 0 8px;
+	width:260px;
+	width: 310px;
+	text-align:left;
+	height:35px; 
+}
+.headingTable_Master .headingCell_Master 
+{
+	font-size: 22px;
+	font-weight: bold;
+	line-height: normal;
+	color: #fff;
+	margin: -10px 0 0 2px;
+	width:260px;
+	width: 310px;
+	text-align:left;
+	height:35px;
+}
+.logoBox
+{
+ margin-top:2px;   
+ 
+}
+
+.headingTable_Master .headingCell_Master h2
+{
+	font-size: 11px;
+	line-height: normal;
+	font-weight: normal;
+	color: #064287;
+	margin: 0 0 0 26px;
+	padding: 0;
+}
+
+.headingTable_Master .headerCurve_Master
+{
+	padding: 0;
+	margin: 0;
+	width: 103px;
+}
+
+.headingTable_Master .searchDetails_Master
+{
+	text-align:right;
+	width: 70%;
+	float: right;
+	font-size: 12px;
+    font-weight:normal; 
+	Font-Size:18pt;
+	
+}
+
+.headingTable_Master .searchDetails_Master td
+{
+	width: 100%;
+	padding: 5px 5px 0 0px;
+}
+
+.headingTable_Master .searchDetails_Master img
+{
+	margin: 0 4px 0 4px;
+}
+
+.headingTable_Master .searchIcon_Master img
+{
+	margin: 0 20px 0 4px;
+}
+
+.TDheight_Master
+{
+	height: 20px;
+}
+
+.MenuBackGround_Master
+{
+	font-family: Arial;
+	font-size: 10pt;
+	text-align: center;
+	color: #FFFFFF;
+	text-decoration: none;
+	background-image: url(  '../Images/bg2.gif' );
+	background-repeat: repeat-x;
+}
+
+.Menu_Master
+{
+	font-family: Arial;
+	font-size: 10pt;
+	text-align: center;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.Menu_Master A
+{
+	display: block;
+	text-decoration: none;
+	color: #FFFFFF;
+}
+.Menu_Master A:hover
+{
+	color: White;
+	height: 23px;
+	background-image: url(  '../Images/bg1.gif' );
+	background-repeat: repeat-x;
+}
+
+.TDBackgroungLine_Master
+{
+	background-image: url(  '../Images/line.gif' );
+	background-repeat: repeat-x;
+	height: 2px;
+}
+
+.LableProjectTextWithBold_Master
+{
+	font-family: Arial;
+	font-size: 10pt;
+	text-align: center;
+	text-decoration: none;
+}
+
+.SmallMenuBackGround_Master
+{
+	font-family: Arial;
+	font-size: 10pt;
+	text-align: center;
+	color: #FFFFFF;
+	text-decoration: none;
+	background-color: #7b7b7b;
+	border: 1px solid #dddddd;
+	border-width: 0px 0px 2px 0px;
+}
+
+.TdMenuBorder_Master
+{
+	border: 1px solid #dddddd;
+	border-width: 0px 0px 2px 0px;
+}
+
+.style1
+{
+	border-left: 0px solid #dddddd;
+	border-right: 0px solid #dddddd;
+	border-top: 0px solid #dddddd;
+	border-bottom: 2px solid #dddddd;
+	font-family: Arial;
+	font-size: 10pt;
+	text-align: center;
+	color: #FFFFFF;
+	text-decoration: none;
+	background-color: #7b7b7b;
+	width: 111px;
+}
+
+.style2_Master
+{
+	border-left: 0px solid #dddddd;
+	border-right: 0px solid #dddddd;
+	border-top: 0px solid #dddddd;
+	border-bottom: 2px solid #dddddd;
+	font-family: Arial;
+	font-size: 10pt;
+	text-align: center;
+	color: #FFFFFF;
+	text-decoration: none;
+	background-color: #7b7b7b;
+	width: 110px;
+}
+
+/*---------------------Footer---------------------*/
+
+.footer_Master
+{
+	background: #5297ca url('../Images/footer-bg.gif' ) repeat-x top;
+	margin-left: 0;
+	margin-right: 0;
+	margin-top: 0px;
+	margin-bottom: 0 /*End change*/;
+	height: 37px;
+	width:1260px;
+	
+	}
+.push
+{
+	height: 410px;
+}
+.footer_Master td
+{
+	padding: 17px 6px 9px 0;
+	font-size: 10px;
+	color: #fff;
+	text-align: right;
+}
+
+.SelectMenuBackGround
+{
+	font-family: Arial;
+	font-size: 10pt;
+	text-align: center;
+	color: #FFFFFF;
+	text-decoration: none;
+	background-image: url(       '../Images/bg1.gif' );
+	background-repeat: repeat-x;
+}
+
+.SmallMenuBackGround
+{
+	font-family: Arial;
+	font-size: 10pt;
+	text-align: center;
+	color: #FFFFFF;
+	text-decoration: none;
+	background-color: #7b7b7b;
+	border: 1px solid #dddddd;
+	border-width: 0px 0px 2px 0px;
+}
+.SmallSelectMenuBackGround
+{
+	font-family: Arial;
+	font-size: 10pt;
+	text-align: center;
+	color: black;
+	text-decoration: none;
+	background-color: #f6f5f5;
+	border: 1px solid #dddddd;
+	border-width: 1px 1px 0px 1px;
+}
+
+.ButtonBackGround
+{
+	font-family: Arial;
+	font-size: 10pt;
+	text-align: center;
+	color: #FFFFFF;
+	text-decoration: none;
+	background-image: url('../Images/bg2.gif' );
+	background-repeat: repeat-x;
+	border: 0px;
+}
+.SelectButtonBackGround
+{
+	font-family: Arial;
+	font-size: 10pt;
+	text-align: center;
+	color: #FFFFFF;
+	text-decoration: none;
+	background-image: url(       '../Images/bg1.gif' );
+	background-repeat: repeat-x;
+	border: 0px;
+}
+
+.SmallMenu
+{
+	color: #000000;
+	font-style: normal;
+	text-decoration: none;
+}
+
+.wrapper
+{
+	min-height: 100%;
+	height: auto !important; /* For IE6 */
+	height: 100%; /* For IE6 */
+	margin: 0px auto -350px; /* the bottom margin is the negative value of the footer's height */
+}
+
+.headingTable_Master .timesubmitlabel
+{
+	text-align:right;
+	width: 70%;
+	float: right;
+	font-size: 12px;
+    font-weight:normal; 
+	Font-Size:18pt;
+	
+}
+
+.headingTable_Master .timesubmitlabel td
+{
+	width: 100%;
+	padding: 5px 5px 0 0px;
+}
+
+/*.......................Text Font CSS in Master Pages ..................*/
+
+.Words{
+color:#FFFFFF;
+  font-size:13px;
+  
+   
+}
+
+.GridNameHeader{
+  font-size:12px;
+  font-family: Arial;
+  font-weight:bold; 
+   
+}
+.ButtonLayoutMaster
+{
+    border-bottom: 1px solid #fff;
+	background: #064287 url('../images/header-bg.gif' ) repeat-x top;
+	width:1240px;
+}
+
+.CssLabel{
+  font-family: Arial;
+	font-size: 13px;
+	color: Black;	
+	font-weight: bold;
+}
+.CssErrorLabel{
+  font-family: Arial, Verdana;
+	font-size: 12px;
+	color: Red;
+	font-weight: bold;
+   
+}
+
+.button { background:  url(../Images/btn-over.jpg) repeat-x top left; color:#fff; font-weight:bold; font-size:10px; height:20px; border:none!important; line-height:20px; padding-bottom:3px;padding-left:3px;padding-right:3px;}
+.LableWithBold
+{
+  padding-top: 3px;
+  font-family: Arial;
+  font-size: 10pt;
+  text-align: right;
+  color: #000000;
+  text-decoration: none;
+}

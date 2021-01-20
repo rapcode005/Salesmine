@@ -1,0 +1,303 @@
+﻿body
+{
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #fff;
+	padding: 0;
+	margin: 0;
+}
+
+
+/*html,
+body
+{
+    font-size: 12px;
+    font-family: Arial;
+    margin: 0px;
+    padding: 0px;
+    color: #000000;
+    height: 100%;
+}*/
+
+#footer
+{
+    /*position: absolute; /*position: absolute; 
+    bottom: 0;
+    width: 100%;*/
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    clear: both;
+}
+
+
+/*---------------------Header---------------------*/
+.outerBox
+{
+    width: 1216px;
+	margin:auto;
+	border:2px solid #000000;
+}
+.headerTable_Master
+{
+	border-left: 0px solid #fff;
+	border-right: 0px solid #fff;
+	border-top: 0px solid #fff;
+	/*border-bottom: 1px solid #fff;*/
+	background: #064287 url(   '../images/header-bg.gif' ) repeat-x top;
+}
+.logoText
+{
+  font-size: 22px;
+  font-weight: bold;
+  line-height : normal;
+  color: #fff;
+ 
+}
+
+.headerTable_Master td
+{
+	padding: 2px 0 1px 0;
+	vertical-align: middle;
+}
+
+.headerTable_Master .headerLogo_Master img
+{
+	margin: 0 3px 0 25px;
+}
+
+
+.headerTable_Master .headerDivider_Master
+{
+	width: 2%;
+}
+
+.headerTable_Master .logoutIcon_Master
+{
+	width: 40%;
+}
+
+.lbluser_Master
+{
+	font-family: Arial;
+	font-size: 9pt;
+	font-weight: NORMAL;
+	color: #FFFFFF;
+}
+
+.lblReset_Master
+{
+	font-family: Arial;
+	font-size: 7pt;
+	font-weight: NORMAL;
+	color: Blue;
+	
+}
+
+.footer_Master
+{
+	background: #5297ca url('../Images/footer-bg2.gif' ) repeat-x top;
+	margin-left: 0;
+	margin-right: 0;
+	margin-top: 0px;
+	margin-bottom: 0px /*End change*/;
+	height: 37px;
+	width:1275px;
+	
+}
+.footer_Master td
+{
+	padding: 17px 6px 9px 0;
+	font-size: 10px;
+	color: #fff;
+	text-align: right;
+}
+.headingTable_Master
+{
+	background: #fff url('../images/sub-header-right-bg.gif') repeat-x 50% top;
+    height: 5px;
+    width:1275px;
+    
+}
+
+ .headingCell_MasterBox
+{
+	background: #F79C3F url(   '../Images/top-curve.gif' ) no-repeat top right;
+	width:270px;	
+	height:35px;
+	 margin: -3px 0 0 -3px;
+	float:left;
+	
+}
+.headingCell_MasterLogo
+{
+   font-size: 20px;
+	font-weight: bold;
+	line-height: normal;
+	color: #fff;
+	margin: 1px 0 0 11px;
+	
+	width: 310px;
+	text-align:left;
+	height:35px; 
+	margin-top:3px;
+}
+.headingTable_Master .headingCell_Master 
+{
+	font-size: 22px;
+	font-weight: bold;
+	line-height: normal;
+	color: #fff;
+	
+	*width:260px;
+	width: 310px;
+	text-align:left;
+	height:35px;
+}
+
+
+/*--New---^-_-^---Login--*/
+
+.btnLayout
+{
+    width:50px;
+    text-align:center;
+    border-top-left-radius: 10px 5px;
+    border-bottom-right-radius: 10% 5%;
+    border-top-right-radius: 10px; 
+}
+
+.logtxtbox
+{
+min-width: 200px;
+	border: #ccc solid 1px;
+	/*background: #fff url(../Images/bg-txtbox_03.jpg) repeat-x 50% top;*/
+	float: left;
+	padding: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color:#333333;
+	height:9px;
+}
+
+.loginBanner
+{
+    background-color:#CED1D1;
+    font-size: 14px;
+	font-weight:normal;
+	line-height: normal;
+	color: #2E2E2E;
+	height:25px;
+}
+
+/*.btnsample
+{
+background-image: linear-gradient(bottom, rgb(60,115,163) 49%, rgb(59,106,168) 77%, rgb(174,188,214) 100%);
+background-image: -o-linear-gradient(bottom, rgb(60,115,163) 49%, rgb(59,106,168) 77%, rgb(174,188,214) 100%);
+background-image: -moz-linear-gradient(bottom, rgb(60,115,163) 49%, rgb(59,106,168) 77%, rgb(174,188,214) 100%);
+background-image: -webkit-linear-gradient(bottom, rgb(60,115,163) 49%, rgb(59,106,168) 77%, rgb(174,188,214) 100%);
+background-image: -ms-linear-gradient(bottom, rgb(60,115,163) 49%, rgb(59,106,168) 77%, rgb(174,188,214) 100%);
+
+background-image: -webkit-gradient(
+	linear,
+	left bottom,
+	left top,
+	color-stop(0.49, rgb(60,115,163)),
+	color-stop(0.77, rgb(59,106,168)),
+	color-stop(1, rgb(174,188,214))
+);
+	width:70px;
+    text-align:center;
+    border-top-left-radius: 3px 5px;
+    border-bottom-right-radius: 3px 5px;
+    border-bottom-left-radius: 3px 5px;
+    border-top-right-radius: 3px 5px; 
+    height:25px;
+    color:White;
+    border: 1px solid black;
+}*/
+
+ .btnsample {
+    /*   margin-left: 50px;
+     background-image: linear-gradient(bottom, rgb(60,115,163) 49%, rgb(59,106,168) 77%, rgb(174,188,214) 100%);
+background-image: -o-linear-gradient(bottom, rgb(60,115,163) 49%, rgb(59,106,168) 77%, rgb(174,188,214) 100%);
+background-image: -moz-linear-gradient(bottom, rgb(60,115,163) 49%, rgb(59,106,168) 77%, rgb(174,188,214) 100%);
+background-image: -webkit-linear-gradient(bottom, rgb(60,115,163) 49%, rgb(59,106,168) 77%, rgb(174,188,214) 100%);
+background-image: -ms-linear-gradient(bottom, rgb(60,115,163) 49%, rgb(59,106,168) 77%, rgb(174,188,214) 100%);
+
+background-image: -webkit-gradient(
+	linear,
+	left bottom,
+	left top,
+	color-stop(0.49, rgb(60,115,163)),
+	color-stop(0.77, rgb(59,106,168)),
+	color-stop(1, rgb(174,188,214))
+);
+	width:70px;
+    text-align:center;
+    border-top-left-radius: 3px 5px;
+    border-bottom-right-radius: 3px 5px;
+    border-bottom-left-radius: 3px 5px;
+    border-top-right-radius: 3px 5px; 
+    height:25px;
+    color:White;
+    border: 1px solid black;*/
+    
+/* padding: 6px 10px;
+-webkit-border-radius: 2px 2px;
+border: solid 1px rgb(153, 153, 153);
+background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(rgb(255, 255, 255)), to(rgb(221, 221, 221)));
+background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(rgb(142, 182, 243)), to(rgb(109, 161, 242)));
+color: #333;
+text-decoration: none;
+cursor: pointer;
+display: inline-block;
+text-align: center;
+text-shadow: 0px 1px 1px rgba(255,255,255,1);
+line-height: 1; */
+
+ }
+ 
+ 
+ /*.btnsample:hover {
+     font-weight: bold;
+     color: #FFFFFF;
+     background-color: #999999;
+     border-style: outset;*/
+     /*background-position: 0px 0px;
+    
+ }*/
+ 
+ .btnbtn
+ {
+    /*border-style: none;*/
+    border-color: inherit;
+    border-width: 0;
+    min-width: 36px;
+	height: 30px;
+	background: url(../Images/btnlogin.png) no-repeat 0px;
+	float: right;
+    width: 90px;
+    text-align:center;
+    color:White;
+ }
+ 
+ .btnbtn:hover {
+	/*background-position: 0px 0px;*/
+	cursor:pointer;
+   background : url(../Images/btnlogin_hover.png) no-repeat 0px;
+   border-color: inherit;
+    border-width: 0;
+    min-width: 36px;
+	height: 30px;
+	float: right;
+    width: 90px;
+    text-align:center;
+    color:White;
+}
+
+.btnbtn:active {
+	margin-left: -1px;
+}
+
+

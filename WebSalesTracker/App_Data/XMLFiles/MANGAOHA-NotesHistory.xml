@@ -1,0 +1,200 @@
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="DATE" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="CREATED_x0020_BY" type="xs:string" minOccurs="0" />
+                <xs:element name="NOTE_x0020_TYPE" type="xs:string" minOccurs="0" />
+                <xs:element name="NOTES" type="xs:string" minOccurs="0" />
+                <xs:element name="SCHEDULED_x0020_DATE" type="xs:string" minOccurs="0" />
+                <xs:element name="ACCOUNT_x0020_NUMBER" type="xs:double" minOccurs="0" />
+                <xs:element name="CONTACT_x0020_NAME" type="xs:string" minOccurs="0" />
+                <xs:element name="CONTACT_x0020_NUMBER" type="xs:double" minOccurs="0" />
+                <xs:element name="DISPOSITION_x0020_CODE" type="xs:string" minOccurs="0" />
+                <xs:element name="DISPOSITION_x0020_DESCRIPTION" type="xs:string" minOccurs="0" />
+                <xs:element name="AGENT_x0020_NAME" type="xs:string" minOccurs="0" />
+                <xs:element name="PHONE_x0020_NUMBER" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <DATE>2015-01-20T15:45:57+08:00</DATE>
+    <CREATED_x0020_BY>MANGAOHA  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES> no employees                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       </NOTES>
+    <SCHEDULED_x0020_DATE>01/21/2015</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>4460717</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2012-01-03T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>SabianMa                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC 12 Month Subs Jan A T30310                                   </NOTES>
+    <ACCOUNT_x0020_NUMBER>4460717</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>VMN             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>DM Not Available</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Mark Sabiano                                                    </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2012-01-04T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>SabianMa                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC 12 Month Subs Jan A T30310                                   </NOTES>
+    <ACCOUNT_x0020_NUMBER>4460717</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>AOS             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Upsell - Already Shipped</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Mark Sabiano                                                    </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2012-08-22T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>verdanje                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Cross Sell and Upsell August                                 </NOTES>
+    <ACCOUNT_x0020_NUMBER>4460717</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>VMN             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>DM Not Available</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Junnell Verdan                                                  </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2012-08-28T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>EnriquNo                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Cross Sell and Upsell August                                 </NOTES>
+    <ACCOUNT_x0020_NUMBER>4460717</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>NIG             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Not Interested - General</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Noelle Enriquez                                                 </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2013-02-15T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>VerduzLe                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Customer Service DNC                                         </NOTES>
+    <ACCOUNT_x0020_NUMBER>4460717</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>LM1             </DISPOSITION_x0020_CODE>
+    <AGENT_x0020_NAME>Leticia Verduzco                                                </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2011-12-15T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>OrtegaA1                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC 11 Month Subs Dec A T30280                                   </NOTES>
+    <ACCOUNT_x0020_NUMBER>4460717</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>NIN             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Not Interested - Contact Closer to Subscription Expiration Date</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Alisha Ortega                                                   </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2012-01-03T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>SabianMa                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC 12 Month Subs Jan A T30310                                   </NOTES>
+    <ACCOUNT_x0020_NUMBER>4460717</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>MSG             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Left Message - Follow Up</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Mark Sabiano                                                    </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2012-03-16T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>ManzoRo                         </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Buyers 1-2x Sub Mar T30378                                   </NOTES>
+    <ACCOUNT_x0020_NUMBER>4460717</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>NIG             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Not Interested - General</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Roldan Manzo                                                    </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2012-08-14T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>PapaJu                          </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Cross Sell and Upsell August                                 </NOTES>
+    <ACCOUNT_x0020_NUMBER>4460717</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>VMN             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>DM Not Available</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Justin Papa                                                     </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2012-06-04T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>RosanoCr                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Cross Sell and Upsell June A                                 </NOTES>
+    <ACCOUNT_x0020_NUMBER>4460717</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>VMN             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>DM Not Available</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Crystal Rosano                                                  </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2012-06-07T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>DumalaDa                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Cross Sell and Upsell June A                                 </NOTES>
+    <ACCOUNT_x0020_NUMBER>4460717</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>BNA             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Busy</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Dann Dumalay                                                    </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2012-06-08T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>BelloSh                         </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Cross Sell and Upsell June A                                 </NOTES>
+    <ACCOUNT_x0020_NUMBER>4460717</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>VMN             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>DM Not Available</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>SheilaMarie Bello                                               </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2012-09-17T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>ricahuan                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Panel Shipment September T30581 C                            </NOTES>
+    <ACCOUNT_x0020_NUMBER>4460717</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>DDR             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Dead Record</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Ana Ricahuerta                                                  </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2013-12-16T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>ClarkGa                         </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC 11 Month Subs Regular December T31395 D                      </NOTES>
+    <ACCOUNT_x0020_NUMBER>4460717</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>SAL             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Made A Sale</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Gary Clark                                                      </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2015-01-19T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>SitchoCe                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Reactivation Sub Jan T32450                                  </NOTES>
+    <ACCOUNT_x0020_NUMBER>4460717</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>LVM             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>DM - No Pitch</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Cesar Sitchon                                                   </AGENT_x0020_NAME>
+  </Table>
+</NewDataSet>

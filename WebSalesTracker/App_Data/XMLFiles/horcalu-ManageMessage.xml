@@ -1,0 +1,473 @@
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Campaign" type="xs:string" minOccurs="0" />
+                <xs:element name="State" type="xs:string" minOccurs="0" />
+                <xs:element name="Message" type="xs:string" minOccurs="0" />
+                <xs:element name="Valid_From" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="Username" type="xs:string" minOccurs="0" />
+                <xs:element name="EffDate" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="Id" type="xs:int" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <Campaign xml:space="preserve"> </Campaign>
+    <State />
+    <Message>The WHD has ordered an employer in Tuscon to pay over $300,000 to employees for back pay. We are notifying our valued Arizona employers about this significant enforcement statistic to remind you of the importance of complying with federal wage &amp; hour laws.</Message>
+    <Valid_From>2014-03-05T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>476</Id>
+  </Table>
+  <Table>
+    <Campaign>CL</Campaign>
+    <State>TS</State>
+    <Message>For Testing.</Message>
+    <Valid_From>2016-03-10T00:00:00+08:00</Valid_From>
+    <Username>OngRa</Username>
+    <EffDate>9999-12-31T00:00:00+08:00</EffDate>
+    <Id>1332</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>AK</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 5,560 AK workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our AK employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1520</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>AL</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 60,000 AL workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our AL employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1519</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>AR</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 52,055 AR workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our AR employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1525</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>AZ</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 90,179 AZ workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our AZ employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1524</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>CA</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 392,094 workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our CA employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1526</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>CO</State>
+    <Message>OSHA has cited a Colorado employer for 1 repeat and 10 serious safety violations after an inspection. Proposed penalties total $103,820. We are notifying our CO employers about this significant penalty to remind you of the importance of complying with OSHA safety regulations.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1497</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>CT</State>
+    <Message>OSHA has cited a CT employer for 10 failure to abate, 3 repeat and 3 serious safety violations. Proposed penalties total $422,680. We are notifying our CT employers about this penalty to remind you of the importance of complying with OSHA safety regulations.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1498</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>DC</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 11,000 DC workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our DC employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1522</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>DE</State>
+    <Message>OSHA has reached a settlement in a DE whistleblower case after the employer fired employees who reported injuries. The employees will receive back pay. We are notifying our DE employers about this penalty to remind you of the importance of complying with OSHA whistleblower regulations.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1499</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>FL</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 330,870 FL workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our FL employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1528</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>GA</State>
+    <Message>OSHA has cited a Georgia employer for 2 willful and 1 repeat safety violation for failing to provide fall protection equipment. Proposed penalties total $65,120. We are notifying our GA employers about this significant penalty to remind you of the importance of complying with OSHA safety regulations</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1500</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>HI</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 15,723 HI workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our HI employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1521</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>IA</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 43,615 IA workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our IA employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1523</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>ID</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 19,764 Idaho workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our ID employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1487</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>IL</State>
+    <Message>OSHA has cited an Illinois employer for 33 serious safety violations after workers were exposed to hazardous conditions. Proposed penalties total $133K. We are notifying our valued IL employers about this significant penalty to remind you of the importance of complying with OSHA safety regulations.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1501</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>IN</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 87,000 IN workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our IN employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1527</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>KS</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 39,619 KS workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our KS employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1529</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>KY</State>
+    <Message>A KY employer will pay $135K in compensatory damages and attorney's fees for discriminating against 2 pregnant employees. We are notifying our KY employers about this significant penalty to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1486</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>LA</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 60,974 LA workers, who will need to be paid at least $47,476 annually to be exempt from overtime rules. We are notifying our LA employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1530</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>MA</State>
+    <Message>In Fiscal Year 2016, the Massachusetts Fair Labor Division received more than 6,000 complaints – up 33 percent from the prior year. We are notifying our valued MA employers about this significant increase in wage &amp; hour complaints to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1532</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>MD</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 79,630 MD workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our MD employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1531</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>ME</State>
+    <Message>A Maine employer was cited for 6 serious safety violations. Proposed penalties total $307,000. We are notifying our valued Maine employers about this significant penalty to remind you of the importance of complying with OSHA safety regulations.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1537</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>MI</State>
+    <Message>A Michigan employer will pay $42,500 to settle an EEOC disability discrimination suit after it fired an employee with epilepsy. We are notifying our valued Michigan employers about this significant penalty to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1502</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>MN</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 79,000 MN workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our MN employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1533</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>MO</State>
+    <Message>OSHA has cited a Missouri employer for 15 serious safety violations after workers were exposed to fall and trip hazards. Proposed penalties total $69,300. We are notifying our MO employers about this significant penalty to remind you of the importance of complying with OSHA safety regulations.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1490</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>MS</State>
+    <Message>A Mississippi employer has been sued by the EEOC for allegedly failing to hire 34 qualified women because of their sex. We are notifying our valued Mississippi employers about this significant legal action to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1503</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>MT</State>
+    <Message>A Montana employer has been sued by the Montana Human Rights Commission for age discrimination in its hiring process. We are notifying our valued Montana employers about this significant legal action to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1488</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>NC</State>
+    <Message>A NC employer will pay $30K to settle an EEOC disability discrimination suit after it made an illegal inquiry about medical information. We are notifying our NC employers about this legal action to remind you of the importance of complying with EEO discrimination laws. </Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1492</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>ND</State>
+    <Message>OSHA has cited a North Dakota employer for 6 willful and 8 serious citations after a worker was injured in a grain silo. Proposed penalties total $104K. We are notifying our valued ND employers about this significant penalty to remind you of the importance of complying with OSHA safety regulations.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1505</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>NE</State>
+    <Message>OSHA has cited 5 employers at 1 Nebraska worksite for a total of 2 willful and 18 serious safety violations. Proposed penalties total $115K. We are notifying our NE employers about this significant penalty to remind you of the importance of complying with OSHA safety regulations.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1491</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>NH</State>
+    <Message>A New Hampshire employer will pay more than $31.2 million in compensatory and punitive damages for 4 state and federal workplace discrimination claims. We are notifying our NH employers about this significant penalty to remind you of the importance of complying with discrimination laws.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1504</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>NJ</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 131,854 NJ workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our NJ employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1534</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>NM</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 20,049 NM workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our NM employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1536</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>NV</State>
+    <Message>A Nevada employer will pay $50K to settle an EEOC lawsuit after firing an employee because of her multiple sclerosis. We are notifying our valued Nevada employers about this significant penalty to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1489</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>NY</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 278K NY workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our NY employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1535</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>OH</State>
+    <Message>The EEOC has sued an Ohio employer after it allegedly paid a female employee less than her male predecessor. We are notifying our valued Ohio employers about this legal action to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1493</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>OK</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 48K Oklahoma workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our Oklahoma employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1506</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>OR</State>
+    <Message>An Oregon employer will pay $21,620 in back pay and damages after firing a whistleblower for making a report in good faith. We are notifying our valued Oregon employers about this significant penalty to remind you of the importance of complying with OSHA retaliation statutes.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1494</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>PA</State>
+    <Message>OSHA has cited a PA employer for 15 serious safety and health violations for exposing employees to safety and health hazards. Proposed penalties total $43,600. We are notifying our PA employers about this significant penalty to remind you of the importance of complying with OSHA safety regulations.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1495</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>PR</State>
+    <Message>A former employee has sued her Puerto Rico employer for sex discrimination claims under federal and Puerto Rico law. We are notifying our valued Puerto Rico employers about this legal action to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1518</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>RA</State>
+    <Message>test</Message>
+    <Valid_From>2013-05-03T00:00:00+08:00</Valid_From>
+    <Username>ONGRA</Username>
+    <Id>52</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>RI</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 13,000 Rhode Island workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our RI employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1517</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>SC</State>
+    <Message>The EEOC has sued a South Carolina employer for disability discrimination after it allegedly fired an employee with a seizure disorder. We are notifying our valued South Carolina employers about this significant legal action to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1516</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>SD</State>
+    <Message>OSHA has cited a SD employer for 2 willful and 8 serious safety violations for failing to provide fall protection. Proposed penalties total $77K. We are notifying our SD employers about this penalty to remind you of the importance of complying with OSHA safety regulations.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1515</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>TN</State>
+    <Message>A Tennessee employer will pay $25K to settle an EEOC disability discrimination suit after it failed to accommodate an employee with hearing loss. We are notifying our valued TN employers about this significant penalty to remind you of the importance of complying with OSHA safety regulations.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1508</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>TX</State>
+    <Message>A Texas employer will pay $165K in back wages, interest and benefits to 335 applicants to settle charges of gender and race discrimination. We are notifying our valued TX employers about this significant penalty to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1507</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>UT</State>
+    <Message>A Utah employer will pay $63K in unpaid overtime and damages to 27 employees after a DOL investigation. We are notifying our valued Utah employers about this significant penalty to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1514</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>VA</State>
+    <Message>A Virginia employer will pay nearly $500K to 2,086 applicants to settle charges of hiring discrimination. We are notifying our valued Virginia employers about this significant penalty to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1512</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>VT</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 10,000 VT workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our VT employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1513</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>WA</State>
+    <Message>A Washington employer will pay more than $100k in penalties for exposing workers to a toxic pesticide. We are notifying our valued Washington employers about this significant penalty to remind you of the importance of complying with OSHA safety and health regulations.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1511</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>WI</State>
+    <Message>A Wisconsin employer will pay $140K in an EEOC age discrimination and retaliation suit for firing 2 employees once they turned 62. We are notifying our valued WI employers about this significant penalty to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1496</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>WV</State>
+    <Message>OSHA has cited a West Virginia employer for 22 serious and 1 other than serious violation for exposing workers to safety hazards. Proposed penalties total $35K. We are notifying our WV employers about this significant penalty to remind you of the importance of complying with OSHA safety regulations.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1510</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>WY</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 7,000 WY workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our WY employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1509</Id>
+  </Table>
+  <Table>
+    <Campaign>US</Campaign>
+    <State />
+    <Message />
+    <Valid_From>2014-07-22T00:00:00+08:00</Valid_From>
+    <Username>leoneda</Username>
+    <EffDate>2014-07-22T00:00:00+08:00</EffDate>
+    <Id>733</Id>
+  </Table>
+</NewDataSet>

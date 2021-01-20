@@ -1,0 +1,2090 @@
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table" msdata:CaseSensitive="False" msdata:Locale="en-US">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="USERNAME" type="xs:string" minOccurs="0" />
+                <xs:element name="CampaignName" type="xs:string" minOccurs="0" />
+                <xs:element name="KamId" type="xs:string" minOccurs="0" />
+                <xs:element name="KamName" type="xs:string" minOccurs="0" />
+                <xs:element name="ValidFrom" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="ValidTo" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="USERROLE" type="xs:string" minOccurs="0" />
+                <xs:element name="Status" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <USERNAME>AbalosKa</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Karen Abalos</KamName>
+    <ValidFrom>2016-04-05T13:27:15.273+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AbarinCl</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Clarissa Abaring</KamName>
+    <ValidFrom>2014-10-31T17:57:21.92+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AbayaBe</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Bernadette Abaya</KamName>
+    <ValidFrom>2012-12-20T09:53:29.383+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ABAYABE</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>BERNADETTE ABAYA</KamName>
+    <ValidFrom>2012-02-14T14:23:49.06+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ABAYAIO</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>IONE ABAYA</KamName>
+    <ValidFrom>2012-02-01T08:20:07.62+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ABBARNPE</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>PERRY ABBARNO</KamName>
+    <ValidFrom>2011-12-16T12:59:32.07+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AbdurrAm</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Abdurraheem, Amina</KamName>
+    <ValidFrom>2017-03-06T08:24:12.523+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-ONT</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AbelarJe</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName />
+    <ValidFrom>2014-03-17T02:18:22.73+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-ONT</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ABELLAJU</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>JULMAR ABELLA</KamName>
+    <ValidFrom>2011-11-04T06:46:45.823+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AbieraRi</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Abiera Rita</KamName>
+    <ValidFrom>2013-01-21T23:41:52.67+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AbingMa</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Abing, Marnie</KamName>
+    <ValidFrom>2013-11-25T05:02:35.973+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AbitriMa</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Abitria Mark</KamName>
+    <ValidFrom>2013-09-30T00:26:07.61+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ABJELIHA</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>ABJELINA, HAZEL</KamName>
+    <ValidFrom>2012-01-10T09:35:21.213+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AbkariCh</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Abkarian, Christopher</KamName>
+    <ValidFrom>2013-02-06T01:27:22.61+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ABLANACA</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>CAS ABLANA</KamName>
+    <ValidFrom>2012-03-20T13:41:45.207+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AblanaEl</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Elaine Joy  Ablaña</KamName>
+    <ValidFrom>2012-12-20T09:24:07.81+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AbogaJo</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>John Aboga</KamName>
+    <ValidFrom>2016-12-20T14:49:27.99+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AboymeMa</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Maureen Aboyme</KamName>
+    <ValidFrom>2013-03-06T09:59:40.15+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ABREURE</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>ABREU, RENZ</KamName>
+    <ValidFrom>2012-01-10T09:35:50.64+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AcalisJe</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Acalista Jennifer</KamName>
+    <ValidFrom>2013-05-07T03:25:06.307+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AcevesCr</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Aceves, Cristy</KamName>
+    <ValidFrom>2013-10-09T02:21:11.773+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ACEVESLE</USERNAME>
+    <CampaignName>PC</CampaignName>
+    <KamId />
+    <KamName>ACEVES, LEOPOLDO</KamName>
+    <ValidFrom>2012-10-08T10:56:38.117+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AcostaSa</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Sarina  Acosta</KamName>
+    <ValidFrom>2016-10-28T11:02:50.4+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-ONT</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AcunaJo</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>John Denver Acuna</KamName>
+    <ValidFrom>2016-03-21T18:08:21.127+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-ONT</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AdajarIv</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Ivan Adajar</KamName>
+    <ValidFrom>2014-10-31T17:57:52.967+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AdamerMe</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Metzi Adamero</KamName>
+    <ValidFrom>2016-12-14T13:43:11.963+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-ONT</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AdamerRy</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Ryan Ralph Adamero</KamName>
+    <ValidFrom>2016-10-27T00:18:36.85+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>Adamsbe</USERNAME>
+    <CampaignName>EMED      </CampaignName>
+    <KamId>WPSEMTME02</KamId>
+    <KamName>Ben Adams</KamName>
+    <ValidFrom>2017-02-02T08:44:32.013+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>EMED</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AdamsRo</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Adams, Robert</KamName>
+    <ValidFrom>2016-10-04T21:04:15.19+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-ONT</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ADDISONA</USERNAME>
+    <CampaignName>UK        </CampaignName>
+    <KamId>STUK009</KamId>
+    <KamName>Nadine Addison</KamName>
+    <ValidFrom>2013-10-15T23:35:05.513+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>UK</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>addisona</USERNAME>
+    <CampaignName>UK        </CampaignName>
+    <KamId />
+    <KamName>addison nadine</KamName>
+    <ValidFrom>2013-09-30T09:03:51.147+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>UK</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AddlemNi</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Addleman, Nicole</KamName>
+    <ValidFrom>2013-12-16T23:06:38.097+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ADDUCIMI</USERNAME>
+    <CampaignName>US        </CampaignName>
+    <KamId>SETUSNBCP1</KamId>
+    <KamName>MICHAEL ADDUCI</KamName>
+    <ValidFrom>2011-10-28T11:59:02.173+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>US</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AdelanGa</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Garnette Joy Adelante</KamName>
+    <ValidFrom>2014-05-26T00:35:25.077+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ADOLFOJE</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>JEFFERSON ADOLFO</KamName>
+    <ValidFrom>2012-03-20T13:42:02.17+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AdoraMa</USERNAME>
+    <CampaignName>US        </CampaignName>
+    <KamId />
+    <KamName>Maria Adora</KamName>
+    <ValidFrom>2014-10-28T12:18:45.71+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>CUS</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ADUCALAL</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>ALBERT ADUCAL</KamName>
+    <ValidFrom>2011-11-04T06:46:45.84+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AFRICAMA</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>MARIA AFRICA</KamName>
+    <ValidFrom>2011-11-04T06:46:45.84+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AfzalSh</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Shannon Afzal</KamName>
+    <ValidFrom>2014-11-18T09:55:58.98+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-ONT</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AgbayaMa</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Mark Gerald Agbayani</KamName>
+    <ValidFrom>2015-03-25T00:04:38.56+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AgeeRo</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Rommel Agee</KamName>
+    <ValidFrom>2015-12-14T19:00:03.893+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-ONT</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AguayoAn</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Andrew Aguayo</KamName>
+    <ValidFrom>2014-10-17T00:21:25.633+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-ONT</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AguilaCj</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>CJ Aguilar</KamName>
+    <ValidFrom>2014-11-13T01:27:29.607+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-ONT</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AGUILAMA</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>AGUILAR, MARLON</KamName>
+    <ValidFrom>2011-11-29T11:05:31.217+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AGUIRAHO</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>HONEYLORE AGUIRANG</KamName>
+    <ValidFrom>2011-11-15T08:38:08.793+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AguirrPa</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Paul Aguirre</KamName>
+    <ValidFrom>2015-11-23T18:09:02.68+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-ONT</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AHEARNLA</USERNAME>
+    <CampaignName>US        </CampaignName>
+    <KamId>SETUS019</KamId>
+    <KamName>LAURA AHEARN</KamName>
+    <ValidFrom>2012-01-18T14:17:36.327+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>US</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AhlsweBi</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Bill Ahlswede</KamName>
+    <ValidFrom>2016-04-05T13:26:54.66+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-ONT</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AHMEDMU</USERNAME>
+    <CampaignName>CA        </CampaignName>
+    <KamId>SETCN058</KamId>
+    <KamName>AHMED ALI</KamName>
+    <ValidFrom>2012-04-03T10:50:18.287+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>CA</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AlagirVi</USERNAME>
+    <CampaignName>EMED      </CampaignName>
+    <KamId>EMED024</KamId>
+    <KamName>Alagiriswamy, Vijayakumar</KamName>
+    <ValidFrom>2013-07-16T01:54:51.33+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>ADMIN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AlawiJo</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Alawi Johairah</KamName>
+    <ValidFrom>2013-03-05T03:31:17.707+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ALBALU</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName />
+    <ValidFrom>2012-02-13T12:16:59.573+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AlbarrRe</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Rebecka Albarran</KamName>
+    <ValidFrom>2016-03-01T19:58:10.293+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-ONT</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AlbertJa</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Alberto, Jasmin</KamName>
+    <ValidFrom>2013-12-09T00:36:17.53+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ALBERTKA</USERNAME>
+    <CampaignName>US        </CampaignName>
+    <KamId>setus085</KamId>
+    <KamName>KAREN ALBERT</KamName>
+    <ValidFrom>2013-07-31T14:32:51.65+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>US</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ALBERTRO</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>ROY ALBERTO</KamName>
+    <ValidFrom>2011-12-07T12:18:43.193+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AlcantAd</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Adonis Alcantara</KamName>
+    <ValidFrom>2016-12-14T13:43:11.953+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-ONT</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AlcantId</USERNAME>
+    <CampaignName>US        </CampaignName>
+    <KamId />
+    <KamName />
+    <ValidFrom>2015-09-17T08:01:24.243+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>ADMIN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ALCANTJ1</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>JONA ALCANTARA</KamName>
+    <ValidFrom>2011-11-09T11:46:02.953+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ALCANTJO</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>JONA REA ALCANTARA</KamName>
+    <ValidFrom>2011-11-04T06:46:45.823+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ALCANTJO</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>JONA REA ALCANTARA</KamName>
+    <ValidFrom>2011-11-04T06:46:45.823+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AldayMi</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Alday, Michelle</KamName>
+    <ValidFrom>2013-01-21T23:50:35.4+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ALDEGL</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>GLENN ALDE</KamName>
+    <ValidFrom>2011-11-04T06:46:45.82+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ALDEGL</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>GLENN ALDE</KamName>
+    <ValidFrom>2011-11-04T06:46:45.82+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ALDUENLA</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>LAURA ALDUENDA</KamName>
+    <ValidFrom>2011-11-09T05:13:55.773+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AlegadRu</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Alegado Ruvel John</KamName>
+    <ValidFrom>2014-05-06T08:20:22.32+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ALEJARAL</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>ALFREDO ALEJAR</KamName>
+    <ValidFrom>2011-11-15T08:36:20.633+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ALEJOKA</USERNAME>
+    <CampaignName>EMED      </CampaignName>
+    <KamId />
+    <KamName>Kaiku Alejo</KamName>
+    <ValidFrom>2016-08-25T09:53:51.063+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>ADMIN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AlensuNo</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Norberto Edison Alensuela</KamName>
+    <ValidFrom>2014-11-28T17:33:20.177+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ALEXANLU</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName />
+    <ValidFrom>2011-12-15T14:53:51.993+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ALFAROCE</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName />
+    <ValidFrom>2011-12-15T14:54:02.853+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ALFAROCE</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName />
+    <ValidFrom>2011-09-20T11:17:51.06+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ALFAROCE</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>CELINE ALFARO</KamName>
+    <ValidFrom>2011-11-04T06:46:45.81+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AlfaroCe</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Celine Alfaro</KamName>
+    <ValidFrom>2012-12-20T08:21:26.55+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ALFAROLA</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>LAUREN ALFARO</KamName>
+    <ValidFrom>2012-08-14T02:51:00.913+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AlfaroMo</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Monique Alfaro</KamName>
+    <ValidFrom>2017-01-15T22:52:02.617+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-ONT</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AlfredTr</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Alfred, Trenette</KamName>
+    <ValidFrom>2013-10-09T02:15:41.547+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AllardRo</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Allard Rowena Ann</KamName>
+    <ValidFrom>2015-03-11T08:07:40.607+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AllasMa</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Ma. Corazon  Allas</KamName>
+    <ValidFrom>2012-12-20T09:09:35.827+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ALLENMY</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>MYLAN ALLEN</KamName>
+    <ValidFrom>2011-11-09T05:13:55.733+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ALLENRA</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>RAYMUND ALLEN</KamName>
+    <ValidFrom>2011-11-04T06:46:45.82+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ALLENRA</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>RAYMUND ALLEN</KamName>
+    <ValidFrom>2011-11-04T06:46:45.82+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ALLENS1</USERNAME>
+    <CampaignName>US        </CampaignName>
+    <KamId>SETUS103</KamId>
+    <KamName>Stephanie Allen</KamName>
+    <ValidFrom>2013-02-14T08:48:19.04+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>ADMIN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ALLENST</USERNAME>
+    <CampaignName>US        </CampaignName>
+    <KamId>SETUS103</KamId>
+    <KamName>Stephanie Allen</KamName>
+    <ValidFrom>2013-02-14T08:45:31.1+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>ADMIN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AlongMe</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName />
+    <ValidFrom>2014-03-17T02:18:22.76+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-ONT</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ALONSOLU</USERNAME>
+    <CampaignName>EMED</CampaignName>
+    <KamId />
+    <KamName />
+    <ValidFrom>2012-04-16T10:31:16.647+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>ADMIN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ALONSOLU</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName />
+    <ValidFrom>2011-09-09T16:19:49.493+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AlonsoMa</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Mayko Alonso</KamName>
+    <ValidFrom>2015-10-09T10:07:06.06+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-ONT</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ALONZOLU</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName />
+    <ValidFrom>2011-09-09T16:14:11.473+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ALONZOLU</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName />
+    <ValidFrom>2011-09-09T16:14:11.473+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ALVARAAT</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>ALVARADO, ATHENA</KamName>
+    <ValidFrom>2011-12-01T06:16:12.033+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AlvaraSt</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Alvarado, Stephanie</KamName>
+    <ValidFrom>2014-06-25T08:34:26.277+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-ONT</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ALVAREAD</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>ADRIAN ALVAREZ</KamName>
+    <ValidFrom>2011-11-09T05:13:55.703+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AlvareEr</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Ernesto Alvarez</KamName>
+    <ValidFrom>2016-08-03T09:25:12.187+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-ONT</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AlvareKe</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Kevin Alvarez</KamName>
+    <ValidFrom>2016-08-16T14:40:27.173+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-ONT</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AlvarePa</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Alvarez, Paola</KamName>
+    <ValidFrom>2017-05-10T14:54:40.013+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-ONT</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AlvareR1</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Alvarez Raymond</KamName>
+    <ValidFrom>2015-03-11T08:07:40.633+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AlvareRo</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Ron Alvarez</KamName>
+    <ValidFrom>2016-03-15T00:24:13.797+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-ONT</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ALVEROJA</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>JANISE ALVERO</KamName>
+    <ValidFrom>2012-03-20T13:42:15.117+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ALZONAMA</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>A lzona, Mary Joy  Christine</KamName>
+    <ValidFrom>2013-07-08T04:35:51.57+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AMABLEVI</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>VIC AMABLE</KamName>
+    <ValidFrom>2011-11-04T06:46:45.81+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AMABLEVI</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>VIC AMABLE</KamName>
+    <ValidFrom>2011-11-04T06:46:45.81+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AmadorAl</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Amador, Alexis</KamName>
+    <ValidFrom>2017-03-01T09:59:31.94+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-ONT</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AmayaJo</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Jose Amaya</KamName>
+    <ValidFrom>2016-08-03T09:27:23.98+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-ONT</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AmbrizLa</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Ambriz, Larry</KamName>
+    <ValidFrom>2013-10-09T02:26:58.71+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>amicoan</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Ann Amico</KamName>
+    <ValidFrom>2014-03-21T01:35:51.13+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AMIDI</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>DICELL AMI</KamName>
+    <ValidFrom>2012-08-28T02:22:14.87+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AMONGOMA</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>MARIA AMONGO</KamName>
+    <ValidFrom>2012-02-14T14:29:28.813+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AMPILAR</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>AMPIL, ARIEL JOSEF</KamName>
+    <ValidFrom>2011-12-15T05:21:54.003+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AMRICHRO</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>RONI AMRICH</KamName>
+    <ValidFrom>2014-01-08T08:30:41.753+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>ADMIN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AMRICHSA</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>SARAH AMRICH</KamName>
+    <ValidFrom>2011-11-09T05:13:55.7+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AMURAOJO</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>JOHN VINCENT AMURAO</KamName>
+    <ValidFrom>2011-11-11T06:34:53.37+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>anastama</USERNAME>
+    <CampaignName>EMED      </CampaignName>
+    <KamId>EMED024</KamId>
+    <KamName>Martin Anastacio</KamName>
+    <ValidFrom>2012-09-05T11:19:49.46+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>ADMIN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ANAYAAL</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>ALEJANDRA ANAYA</KamName>
+    <ValidFrom>2011-11-09T05:13:55.707+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ANCHETAEL</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>ELFIN ANCHETA</KamName>
+    <ValidFrom>2011-11-08T13:21:15.66+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ANCHETEV</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>EVELYN ANCHETA</KamName>
+    <ValidFrom>2012-01-26T12:27:14.063+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ANDERSDE</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>DEBORAH ANDERSON</KamName>
+    <ValidFrom>2011-11-09T05:13:55.693+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ANDERSDI</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>DIANA ANDERSON</KamName>
+    <ValidFrom>2012-09-11T05:49:23+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AndersWh</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Whitney Anderson</KamName>
+    <ValidFrom>2015-07-28T00:07:02.307+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-ONT</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ANDRADNA</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>NATHALIE ANDRADA</KamName>
+    <ValidFrom>2012-02-01T08:20:23.723+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ANGCA</USERNAME>
+    <CampaignName>EMED</CampaignName>
+    <KamId />
+    <KamName>EMED022</KamName>
+    <ValidFrom>2012-02-02T15:48:01.42+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>ADMIN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AngCa</USERNAME>
+    <CampaignName>EMED      </CampaignName>
+    <KamId>EMED024</KamId>
+    <KamName>Carl Ang</KamName>
+    <ValidFrom>2012-09-12T10:15:30.517+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>ADMIN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ANGELEAN</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>ANGELA NOVA ANGELES</KamName>
+    <ValidFrom>2011-11-04T06:46:45.8+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ANGELEAN</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>ANGELA NOVA ANGELES</KamName>
+    <ValidFrom>2011-11-04T06:46:45.8+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AngeleAn</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Angela Nova Angeles</KamName>
+    <ValidFrom>2012-12-20T09:31:59.317+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ANGELECH</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>CHRISTIAN ANGELES</KamName>
+    <ValidFrom>2012-02-01T08:20:39.57+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AngeleHa</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Hazel Grace Angeles</KamName>
+    <ValidFrom>2015-04-21T23:21:38.973+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ANGELEM2</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>ANGELES,MAIDEN</KamName>
+    <ValidFrom>2012-07-03T06:44:48.703+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AnibanWi</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Aniban, Winner James</KamName>
+    <ValidFrom>2014-09-22T23:51:30.067+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AnibanWi</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Wiiner James Aniban</KamName>
+    <ValidFrom>2014-09-23T23:24:48.217+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AnibanWi</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName />
+    <ValidFrom>2014-09-24T01:15:34.45+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ANICOMA</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>MARY ANICO</KamName>
+    <ValidFrom>2012-03-20T13:42:26.023+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AnnoreDo</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Dominic Annoreno</KamName>
+    <ValidFrom>2014-10-29T11:04:14.427+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-ONT</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ANONUEDO</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>DON CHRISTIAN AÑONUEVO</KamName>
+    <ValidFrom>2012-01-26T12:27:24.097+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AnonueFl</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Flordeliza Anonuevo</KamName>
+    <ValidFrom>2015-08-26T10:48:01.49+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-ONT</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ANTATKCA</USERNAME>
+    <CampaignName>PC</CampaignName>
+    <KamId />
+    <KamName>CAROLINE ANTAKI</KamName>
+    <ValidFrom>2012-09-28T08:11:52.16+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AntillMa</USERNAME>
+    <CampaignName>EMED      </CampaignName>
+    <KamId />
+    <KamName>Marlyn Antillon</KamName>
+    <ValidFrom>2016-12-01T09:30:47.24+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>ADMIN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AntoliNo</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Noel Antolin</KamName>
+    <ValidFrom>2016-03-21T18:08:39.203+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-ONT</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AntoneAv</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Avelina Antones</KamName>
+    <ValidFrom>2014-10-06T11:45:23.333+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ANTONIFE</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>FERNANDO ANTONIO JR</KamName>
+    <ValidFrom>2012-02-01T08:21:02.927+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AntoniMi</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Misha Antonio</KamName>
+    <ValidFrom>2014-10-06T11:46:37.017+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ANTONIRO</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>ANTONIO, RONALD</KamName>
+    <ValidFrom>2011-12-27T10:50:51.89+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ANTONRO</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>ROLANDO ANTON</KamName>
+    <ValidFrom>2011-11-09T05:13:55.743+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AnzianTo</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Anziano, Tommy</KamName>
+    <ValidFrom>2013-02-21T07:55:49.873+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ApanJe</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Apan Jennifer</KamName>
+    <ValidFrom>2013-03-05T03:31:42.003+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ApodacEd</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Eduardo Apodaca</KamName>
+    <ValidFrom>2017-01-31T12:28:11.603+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-ONT</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>APOSTOTO</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>APOSTOL, TONI</KamName>
+    <ValidFrom>2011-11-29T11:05:31.217+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AQUINOJ2</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>AQUINO, JENNIFER</KamName>
+    <ValidFrom>2011-11-30T09:41:50.193+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AQUINOJE</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>JENIFFER AQUINO</KamName>
+    <ValidFrom>2011-11-04T06:46:45.827+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AQUINOJE</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>JENIFFER AQUINO</KamName>
+    <ValidFrom>2011-12-15T14:48:54.2+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AQUINOMY</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>MYRN AQUINO</KamName>
+    <ValidFrom>2011-11-04T06:46:45.84+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AQUINOMY</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>MYRN AQUINO</KamName>
+    <ValidFrom>2011-11-04T06:46:45.84+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AradanAn</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Ann Margareth Aradanas</KamName>
+    <ValidFrom>2015-09-22T08:53:05.433+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ArandaCh</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Aranda, Christel</KamName>
+    <ValidFrom>2013-07-03T07:26:06.59+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ArapocMa</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Mark Alvin Arapoc</KamName>
+    <ValidFrom>2015-09-22T08:52:03.88+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ARCEHE</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>HERMIE LHYN  ARCE</KamName>
+    <ValidFrom>2012-01-26T12:27:37.167+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ARCEOCH</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>ARCEO, CHURCHILL</KamName>
+    <ValidFrom>2011-11-23T06:15:39.447+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ArellaGr</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Arellano, Grant</KamName>
+    <ValidFrom>2017-01-12T23:07:11+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-ONT</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ARGUELAN</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>"Arguelles, 	Ma. Andria"</KamName>
+    <ValidFrom>2013-06-17T02:10:55.067+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ARIOLAAR</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Ariola, Arnel</KamName>
+    <ValidFrom>2013-07-24T07:59:33.92+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ArmijoEr</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Armijo, Eric</KamName>
+    <ValidFrom>2013-09-24T00:39:22.193+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ArmstrWe</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Wellington Armstrong</KamName>
+    <ValidFrom>2016-08-16T14:37:07.133+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-ONT</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ARNOLDAV</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>AVA ARNOLD</KamName>
+    <ValidFrom>2011-11-16T04:39:34.777+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ARNOLDNI</USERNAME>
+    <CampaignName>UK        </CampaignName>
+    <KamId>KAMUK002</KamId>
+    <KamName>Nicola Arnold</KamName>
+    <ValidFrom>2014-08-08T05:38:22.017+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>UK</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ArquerDa</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Arquero, Daryl</KamName>
+    <ValidFrom>2014-05-06T08:18:42.347+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-ONT</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ARQUIZGR</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>GREGORIO ARQUIZA</KamName>
+    <ValidFrom>2012-03-20T13:42:36.357+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ArreguDa</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Arreguin, Daniel</KamName>
+    <ValidFrom>2013-07-03T07:26:20.95+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ARREOLEV</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>EVA ARREOLA</KamName>
+    <ValidFrom>2011-12-15T05:45:55.043+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ARRIETFA</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>FABIUS ARRIETA</KamName>
+    <ValidFrom>2012-02-14T14:24:04.627+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ASADAOSH</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>SHANT ASADOURIAN</KamName>
+    <ValidFrom>2012-09-11T05:48:30.687+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ASIED</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>EDWIN ASI</KamName>
+    <ValidFrom>2012-08-08T02:24:53.867+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AsistiMa</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Maria Cristina Asistio</KamName>
+    <ValidFrom>2016-03-07T12:32:58.983+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ASUNCIAB</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>ABIGAIL ASUNCION</KamName>
+    <ValidFrom>2011-12-02T07:58:40.153+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>Asuncied</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Edda Asuncion</KamName>
+    <ValidFrom>2015-05-25T00:29:57.187+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ASUNCIMA</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>ASUNCION, ABIGAIL</KamName>
+    <ValidFrom>2011-11-29T11:05:31.217+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ASUNCIRA</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>RAQUEL ASUNCION</KamName>
+    <ValidFrom>2012-02-01T08:21:58.777+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AtienzJe</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Jericho Atienza</KamName>
+    <ValidFrom>2014-07-07T04:12:27.77+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>ATIENZNO</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>NORMAN ATIENZA</KamName>
+    <ValidFrom>2012-02-01T08:22:16.553+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AtomreDe</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Delia Atomre</KamName>
+    <ValidFrom>2015-08-10T18:02:15.69+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-ONT</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>atwalam</USERNAME>
+    <CampaignName>CA        </CampaignName>
+    <KamId>SETCNO72</KamId>
+    <KamName>Amandeep Atwal</KamName>
+    <ValidFrom>2015-07-14T10:40:32.72+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>CA</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AtwalAm</USERNAME>
+    <CampaignName>CA        </CampaignName>
+    <KamId />
+    <KamName>Amandeep Atwal</KamName>
+    <ValidFrom>2015-10-28T10:35:51.467+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>CA</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AUDEAMA</USERNAME>
+    <CampaignName>MINING    </CampaignName>
+    <KamId />
+    <KamName>LEAH MAY AUDEA</KamName>
+    <ValidFrom>2012-09-07T10:20:21.387+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>MINING</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>augellan</USERNAME>
+    <CampaignName>EMED      </CampaignName>
+    <KamId>WPSEMTME10</KamId>
+    <KamName>Augello, Angela</KamName>
+    <ValidFrom>2017-02-02T09:16:12.333+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>EMED</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AUSTRILI</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>VICTOR AUSTRIA</KamName>
+    <ValidFrom>2011-11-04T06:46:45.803+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AUSTRIVI</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>VICTOR AUSTRIA</KamName>
+    <ValidFrom>2011-11-04T06:46:45.803+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AustriVi</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Victor Austria</KamName>
+    <ValidFrom>2012-12-20T09:00:36.737+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AutomaIQ</USERNAME>
+    <CampaignName>EMED      </CampaignName>
+    <KamId>EMED024</KamId>
+    <KamName>Test Account</KamName>
+    <ValidFrom>2014-01-08T00:41:51.22+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>ADMIN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AutomaIq</USERNAME>
+    <CampaignName>EMED      </CampaignName>
+    <KamId />
+    <KamName>Automation, IT QA</KamName>
+    <ValidFrom>2013-10-10T08:28:42.11+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>ADMIN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AvanceJa</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Jamie Avancena</KamName>
+    <ValidFrom>2017-02-08T14:03:24.81+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-ONT</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AVANZAKR</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Avanzado, Kristina</KamName>
+    <ValidFrom>2013-07-08T04:36:04.123+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AVECILRO</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>ROWELL PATRICK AVECILLA</KamName>
+    <ValidFrom>2011-11-04T06:46:45.83+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AVECILRO</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>ROWELL PATRICK AVECILLA</KamName>
+    <ValidFrom>2011-11-04T06:46:45.83+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AvelarGe</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Avelar, Georgina</KamName>
+    <ValidFrom>2015-01-21T14:31:50.107+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-ONT</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AVILACH</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Charisse Avila</KamName>
+    <ValidFrom>2015-01-19T12:42:54.55+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AvilaJe</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Jessie Avila</KamName>
+    <ValidFrom>2015-11-23T18:08:41.89+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-ONT</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AvilaLe</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Leticia Avila</KamName>
+    <ValidFrom>2016-12-01T12:46:07.087+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-ONT</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AvilaMa</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Avila, Mark Anthony</KamName>
+    <ValidFrom>2013-11-04T23:19:46.097+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AvilaYe</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Avila, Yesenia</KamName>
+    <ValidFrom>2014-12-02T13:00:57.737+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-ONT</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AvinaVe</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Veronica Avina</KamName>
+    <ValidFrom>2015-11-03T16:27:47.67+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-ONT</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AwguagJo</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Awguagbaka, John</KamName>
+    <ValidFrom>2017-03-01T09:59:32.033+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-ONT</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AWINGKA</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>KATRINA AWING</KamName>
+    <ValidFrom>2013-10-10T15:13:29.67+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>ADMIN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AwoduRo</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Robert Awodu</KamName>
+    <ValidFrom>2016-10-19T01:32:29.27+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-ONT</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AyalaAl</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>Alicia Ayala</KamName>
+    <ValidFrom>2015-04-06T23:59:14.9+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-ONT</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AYTESLO</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>LORENZO AYTES</KamName>
+    <ValidFrom>2011-12-15T14:48:54.2+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AYUBOIV</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>IVY AYUBO</KamName>
+    <ValidFrom>2011-11-04T06:46:45.83+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AYUBOIV</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>IVY AYUBO</KamName>
+    <ValidFrom>2011-11-04T06:46:45.83+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AZABKR</USERNAME>
+    <CampaignName>PC        </CampaignName>
+    <KamId />
+    <KamName>KRISTEL AZAB</KamName>
+    <ValidFrom>2012-08-28T02:22:26.687+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>PC-MAN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+  <Table>
+    <USERNAME>AznagAb</USERNAME>
+    <CampaignName>CL        </CampaignName>
+    <KamId />
+    <KamName>Abdessamad Aznag</KamName>
+    <ValidFrom>2014-07-13T23:12:56.633+08:00</ValidFrom>
+    <ValidTo>9999-12-31T00:00:00+08:00</ValidTo>
+    <USERROLE>ADMIN</USERROLE>
+    <Status>Active</Status>
+  </Table>
+</NewDataSet>

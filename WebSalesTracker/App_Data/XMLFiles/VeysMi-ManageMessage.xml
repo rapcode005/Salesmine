@@ -1,0 +1,456 @@
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Campaign" type="xs:string" minOccurs="0" />
+                <xs:element name="State" type="xs:string" minOccurs="0" />
+                <xs:element name="Message" type="xs:string" minOccurs="0" />
+                <xs:element name="Valid_From" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="Username" type="xs:string" minOccurs="0" />
+                <xs:element name="EffDate" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="Id" type="xs:int" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <Campaign xml:space="preserve"> </Campaign>
+    <State />
+    <Message>The WHD has ordered an employer in Tuscon to pay over $300,000 to employees for back pay. We are notifying our valued Arizona employers about this significant enforcement statistic to remind you of the importance of complying with federal wage &amp; hour laws.</Message>
+    <Valid_From>2014-03-05T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>476</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>AK</State>
+    <Message>OSHA cited an employer in Palmer for retaliating against a whistleblower. Proposed penalties total over $212,000. We are notifying our valued Alaska employers about this significant penalty to remind you of the importance of complying with OSHA whistleblower regulations.</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>680</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>AL</State>
+    <Message>An employer in Birmingham paid $18,000 to settle a disability lawsuit filed by the EEOC. We are notifying our Alabama employers about this penalty to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>679</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>AR</State>
+    <Message>OSHA cited an employer in Crossett for exposing workers to hazardous chemicals. Penalties total over $113,000. We are notifying our Arkansas employers about this penalty to remind you of the importance of complying with OSHA safety regulations [Eligible for WSM-KIT (AB1901; eff. 07/13)]</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>682</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>AZ</State>
+    <Message>The WHD has ordered an employer in Prescott to pay over $600,000 in back wages. We are notifying our AZ employers about this significant penalty to remind you of the importance of complying with federal wage &amp; hour laws.</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>681</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>CA</State>
+    <Message>In 2014, over 20 new laws take effect in California. These laws address specific mandates on employers relating to military veterans, immigration-related retaliation, victims’ rights and paid family leave. Our 2014 California Employer Update (CA14-KIT) addresses these critical law changes.</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>683</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>CO</State>
+    <Message>OSHA recently cited an employer in Greenwood Villiage for cave-in hazards. Proposed penalties total over $81,000. We are notifying our CO employers about this significant penalty to remind you of the importance of complying with OSHA safety regulations [Eligible for WSM-KIT (AB1046, eff. 5/13)]</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>686</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>CT</State>
+    <Message>OSHA recently cited an employer in Stamford for exposing workers to fall hazards. Proposed penalties total over $196,000. We are notifying our CT employers about this significant penalty to remind you of the importance of complying with OSHA safety regulations.</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>687</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>DC</State>
+    <Message>A D.C.-area employer will pay over $875,000 to settle a race discrimination lawsuit filed by the EEOC. We are notifying our D.C. employers about this penalty to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>689</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>DE</State>
+    <Message>OSHA cited an employer in Wilmington for blocking employee exit routes. Proposed penalties total $143,000. We are notifying our valued Delaware employers about this significant penalty to remind you of the importance of complying with OSHA safety regulations.</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>688</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>FL</State>
+    <Message>OSHA cited an employer in Jacksonville for exposing workers to hazardous chemicals. Proposed penalties total over $106,000. We are notifying our valued Florida employers about this significant penalty to remind you of the importance of complying with OSHA safety regulations.</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>690</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>GA</State>
+    <Message>OSHA cited an employer in Blue Ridge for exposing workers to machine hazards. Proposed penalties total over $64,000. We are notifying our valued Georgia employers about this significant penalty to remind you of the importance of complying with OSHA safety regulations.</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>691</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>HI</State>
+    <Message>The WHD has ordered an employer in Waikiki to pay over $40,000 in back wages. We are notifying our Hawaii employers about this penalty to remind you of the importance of complying with federal wage &amp; hour laws.</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>692</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>IA</State>
+    <Message>OSHA cited an employer in Clear Lake for retaliating against a whistleblower. Proposed penalties total over $123,000. We are notifying our valued Iowa employers about this penalty to remind you of the importance of complying with OSHA whistleblower regulations.</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>696</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>ID</State>
+    <Message>OSHA cited an employer in Twin Falls for exposing workers to fall hazards. Penalties total over $27,000. We are notifying our valued Idaho employers about this significant penalty to remind you of the importance of complying with OSHA whistleblower regulations.</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>693</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>IL</State>
+    <Message>In 2014, five new laws take effect in the state of Illinois. These laws address social media in the workplace, worker misclassification, workplace violence, and wage payment &amp; collection. Our 2014 Illinois Employer Update Kit (IL14-KIT) addresses all five critical law changes.</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>694</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>IN</State>
+    <Message>OSHA cited an employer in Waveland for exposing workers to machine hazards. Proposed penalties total over $56,000. We are notifying our valued Indiana employers about this significant penalty to remind you of the importance of complying with OSHA safety regulations.</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>695</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>KS</State>
+    <Message>OSHA cited an employer in Wichita for exposing workers to fall hazards. Proposed penalties total $21,000. We are notifying our valued Kansas employers about this significant penalty to remind you of the importance of complying with OSHA safety regulations.</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>697</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>KY</State>
+    <Message>An employer in Union County paid $245,000 to settle a race discrimination lawsuit recently filed by the EEOC. We are notifying our KY employers about this significant penalty to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>698</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>LA</State>
+    <Message>The WHD has ordered an employer in New Orleans to pay over $277,000 in back wages. We are notifying our Louisiana employers about this penalty to remind you of the importance of complying with federal wage &amp; hour laws.</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>699</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>MA</State>
+    <Message>OSHA cited an employer in Andover for exposing workers to fire hazards.  Proposed penalties total over $64,000. We are notifying our MA employers about this significant penalty to remind you of the importance of complying with OSHA safety regulations.</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>702</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>MD</State>
+    <Message>An employer in Annapolis will pay over $22,000 to settle a pregnancy discrimination lawsuit recently filed by the EEOC. We are notifying our MD employers about this penalty to remind you of the importance of complying with EEO discrimination laws. [Eligible for WSM-KIT (SB433, eff. 10/12)]</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>701</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>ME</State>
+    <Message>The USCIS has ordered an employer in Harrington to pay $25,000 for unlawful hiring practices. We are notifying our Maine employers about this penalty to remind you of the importance of complying with federal hiring laws.</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>700</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>MI</State>
+    <Message>An employer in Farmington Hills paid $53,000 to settle a disability discrimination lawsuit recently files by the EEOC. We are notifying our Michigan employers about this penalty to remind you of the importance of complying with federal discrimination laws [Eligible for WSM-KIT (HB5523, eff. 12/12)]</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>703</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>MN</State>
+    <Message>An employer in Worthington paid $11,000 to settle a sexual harassment lawsuit recently filed by the EEOC. We are notifying our MN employers about this penalty to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>704</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>MO</State>
+    <Message>OSHA cited an employer in Kansas City for retaliating against a whistleblower. Proposed penalties total over $85,000. We are notifying our valued Missouri employers about this penalty to remind you of the importance of complying with OSHA whistleblower regulations.</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>706</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>MS</State>
+    <Message>An employer in Batesville paid $20,000 to settle a pregnancy discrimination lawsuit recently filed by the EEOC. We are notifying our MS employers about this penalty to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>705</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>MT</State>
+    <Message>OSHA cited an employer in Billings for exposing workers to fall hazards. Proposed penalties total over $211,000. We are notifying our Montana employers about this significant penalty to remind you of the importance of complying with OSHA safety regulations.</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>707</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>NC</State>
+    <Message>An employer in Wilmington paid $48,000 to settle a national origin discrimination lawsuit filed by the EEOC. We are notifying our NC employers about this penalty to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>714</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>ND</State>
+    <Message>An employer in Minot paid $65,000 to settle a disability discrimination lawsuit recently filed by the EEOC. We are notifying our ND employers about this penalty to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>715</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>NE</State>
+    <Message>OSHA cited an employer in Omaha for exposing workers to chemical hazards. Proposed penalties total over $40,000. We are notifying our Nebraska employers about this significant penalty to remind you of the importance of complying with OSHA safety regulations.</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>708</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>NH</State>
+    <Message>OSHA cited an employer in Berlin for exposing workers to fall hazards. Proposed penalties total over $280,000. We are notifying our NH employers about this significant penalty to remind you of the importance of complying with OSHA safety regulations.</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>710</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>NJ</State>
+    <Message>In 2014, five new laws take effect in New Jersey. These laws address employer obligations relating to social media privacy, wage claim retaliation, gender equity, new hire reporting, and spousal benefits. Our 2014 New Jersey Employer Update (NJ14-KIT) addresses all five critical law changes.</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>711</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>NM</State>
+    <Message>An employer in Albuquerque paid $230,000 to settle an age discrimination lawsuit recently filed by the EEOC. We are notifying our NM employers about this penalty to remind you of the importance of complying with EEO discrimination laws [Eligible for WSM-KIT (SB371, eff. 4/13)]</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>712</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>NV</State>
+    <Message>An employer in Las Vegas paid over $325,000 for retaliating against a whistleblower. We are notifying our NV employers about this penalty to remind you of the importance of complying with OSHA whistleblower laws [Eligible for WSM-KIT (AB181, eff. 10/13)]</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>709</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>NY</State>
+    <Message>In 2014, four new laws take effect in the state of New York. These laws address unemployment insurance reform, permissible wage deductions, pregnancy discrimination and paid sick leave in New York City. Our 2014 New York Employer Update (NY14-KIT) addresses all four critical law changes.</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>713</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>OH</State>
+    <Message>The WHD has ordered an employer in Columbus to pay over $55,000 in back wages. We are notifying our Ohio employers about this significant enforcement action to remind you of the importance of complying with federal wage &amp; hour laws.</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>716</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>OK</State>
+    <Message>OSHA cited an employer in Norman for exposing workers to fall hazards. Proposed penalties total over $90,000. We are notifying our OK employers about this significant penalty to remind you of the importance of complying with OSHA safety regulations.</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>717</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>OR</State>
+    <Message>In 2014, four new laws take effect in the state of Oregon. These laws address employer obligations relating to domestic violence leave, bereavement leave, social media privacy, and direct deposits. Our 2014 Oregon Employer Update (OR14-KIT) addresses all four critical law changes.</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>718</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>PA</State>
+    <Message>An employer in Philadelphia paid $100,000 to settle a gender pay discrimination lawsuit recently filed by the EEOC. We are notifying our PA employers about this penalty to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>719</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>PR</State>
+    <Message>An employer in San Juan paid over $354,000 to settle a sex discrimination lawsuit recently filed by the EEOC. We are notifying our Puerto Rico employers about this penalty to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>720</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>RA</State>
+    <Message>test</Message>
+    <Valid_From>2013-05-03T00:00:00+08:00</Valid_From>
+    <Username>ONGRA</Username>
+    <Id>52</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>RI</State>
+    <Message>OSHA recently cited an employer in Providence for exposing workers to fire hazards. Proposed penalties total over $43,000. We are notifying our RI employers about this penalty to remind you of the importance of complying with OSHA safety regulations.</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>721</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>SC</State>
+    <Message>An employer in Spartanburg paid $27,000 to settle a pregnancy discrimination lawsuit recently filed by the EEOC. We are notifying our SC employers about this penalty to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>722</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>SD</State>
+    <Message>The DOL has ordered an employer in Rapid City to pay over $33,000 to restore employee benefit plans. We are notifying our SD employers about this enforcement action to remind you of the importance of complying with federal benefit laws.</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>723</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>TN</State>
+    <Message>An employer in Johnson City will pay $90,000 to settle a disability discrimination lawsuit filed by the EEOC. We are notifying our TN employers about this significant penalty to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>724</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>TX</State>
+    <Message>OSHA cited an employer in Houston for exposing workers to chemical hazards. Proposed penalties total over $55,000. We are notifying our TX employers about this penalty to remind you of the importance of complying with OSHA safety regulations.</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>725</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>UT</State>
+    <Message>An employer in Salt Lake City is being sued by the EEOC for unlawful age discrimination. We are notifying our Utah employers about this enforcement action to remind you of the importance of complying with EEO discrimination laws [Eligible for WSM-KIT (SB371, eff. 4/13)]</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>726</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>VA</State>
+    <Message>An employer in Norfolk will pay $110,000 to settle a disability discrimination lawsuit filed by the EEOC. We are notifying our VA employers about this significant penalty to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>727</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>WA</State>
+    <Message>The HHS has ordered and employer in Skagit County to pay $215,000 for HIPAA violations. We are notifying our valued WA employers about this penalty to remind you of the importance of complying with federal health privacy laws [Eligible for WSM-KIT (HB5211, eff. 7/28/13)]</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>728</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>WI</State>
+    <Message>OSHA cited an employer in Park Falls for exposing workers to hazardous chemicals. Proposed penalties total over $42,000. We are notifying our valued WY employers about this significant penalty to remind you of the importance of complying with OSHA safety regulations.</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>730</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>WV</State>
+    <Message>An employer in Wheeling will pay over $12,000 to settle an age discrimination lawsuit filed by the EEOC. We are notifying our WV employers about this penalty to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>729</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>WY</State>
+    <Message>OSHA cited an employer in Lovell for exposing workers to fall hazards. Proposed penalties total $71,000. We are notifying our valued WY employers about this significant penalty to remind you of the importance of complying with OSHA safety regulations.</Message>
+    <Valid_From>2014-06-30T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>731</Id>
+  </Table>
+  <Table>
+    <Campaign>US</Campaign>
+    <State />
+    <Message />
+    <Valid_From>2014-07-22T00:00:00+08:00</Valid_From>
+    <Username>leoneda</Username>
+    <EffDate>2014-07-22T00:00:00+08:00</EffDate>
+    <Id>733</Id>
+  </Table>
+</NewDataSet>

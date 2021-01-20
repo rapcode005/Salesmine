@@ -1,0 +1,214 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="LoginMaster.master.cs"
+    Inherits="WebSalesMine.WebPages.Login.LoginMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<%@ Register Src="~/WebPages/UserControl/MasterPageFooter.ascx" TagName="Footer"
+    TagPrefix="uc1" %>
+<%@ Register Src="~/WebPages/UserControl/MasterPageMainHeader.ascx" TagName="Header"
+    TagPrefix="uc1" %>
+<%@ Register Src="~/WebPages/UserControl/MasterPageSubHeader.ascx" TagName="SubHeader"
+    TagPrefix="uc1" %>
+<script type="text/javascript">
+    function DisplayNullmessage() {
+
+        //        debugger;
+        //Check Username and Password
+        if (document.getElementById("<%=txtUserName.ClientID%>").value == "" && document.getElementById("<%=txtPassword.ClientID%>").value == "") {
+            // document.getElementById("ctl00_Body_ucLoginControl_txtUserName").focus();
+            document.getElementById("<%=lblErrorMessage.ClientID%>").innerText = "User Name and Password cannot Empty";
+        }
+        //Check Username
+        else if (document.getElementById("<%=txtUserName.ClientID%>").value == "") {
+            document.getElementById("<%=txtUserName.ClientID%>").focus();
+            document.getElementById("<%=lblErrorMessage.ClientID%>").innerText = "User Name cannot Empty";
+        }
+        //Check Password
+        else if (document.getElementById("<%=txtPassword.ClientID%>").value == "") {
+            document.getElementById("<%=txtPassword.ClientID%>").focus();
+            document.getElementById("<%=lblErrorMessage.ClientID%>").innerText = "Password cannot Empty";
+        }
+    }
+
+    function CleanDisplayMessage() {
+        //debugger;
+        document.getElementById("<%=lblErrorMessage.ClientID%>").innerText = "";
+        document.getElementById("<%=txtUserName.ClientID%>").value = "";
+        document.getElementById("<%=txtPassword.ClientID%>").value = "";
+        document.getElementById("<%=txtUserName.ClientID%>").focus();
+        return false;
+    }
+  
+
+</script>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>Web SalesMine</title>
+    <link href="../../App_Themes/CSS/WSMMasterPage.css" rel="stylesheet" type="text/css" />
+    <script language="javascript" type="text/javascript" src="../../App_Themes/JS/MasterPage.js"></script>
+</head>
+<body id="masterBody" runat="server">
+    <form id="form1" runat="server" enctype="multipart/form-data">
+    <asp:ScriptManager ID="ScriptManager1" runat="server" EnableScriptGlobalization="True"
+        AsyncPostBackTimeout="3600">
+    </asp:ScriptManager>
+    <table id="firstTable" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+            <td colspan="2">
+                <uc1:Header ID="ucHeader" runat="server" />
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <uc1:SubHeader ID="SubHeader" runat="server" />
+            </td>
+        </tr>
+        <tr>
+            <td class="TDheight_Master" colspan="2">
+            </td>
+        </tr>
+        <tr>
+            <td class="TDBackgroungLine_Master" style="width: 952px; height: 4px;" colspan="2">
+                &nbsp;
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <table>
+                    <tr>
+                        <td>
+                            &nbsp;
+                        </td>
+                        <td>
+                            &nbsp;
+                        </td>
+                        <td id="LeftSide2" style="width: 100%;" valign="top">
+                            <table border="0">
+                                <tr>
+                                    <td>
+                                        &nbsp;
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td id="projectNameTd" runat="server" visible="false">
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="width: auto;">
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td id="tdContent" valign="top" align="center" style="width: 100%;">
+                                        <asp:ContentPlaceHolder ID="Body" runat="server">
+                                            <table class="pageDataLogin">
+                                                <tr>
+                                                    <td colspan="2">
+                                                        <table class="loginTable" style="width: 350px;">
+                                                            <tr>
+                                                                <th>
+                                                                    <asp:Label ID="lblLogin" runat="server" Text="Login"></asp:Label>
+                                                                </th>
+                                                            </tr>
+                                                            <tr>
+                                                                <td align="center">
+                                                                    <table align="center" class="loginInput">
+                                                                        <tr>
+                                                                            <td class="loginLabels">
+                                                                            </td>
+                                                                            <td>
+                                                                                &nbsp;
+                                                                            </td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td class="loginLabels">
+                                                                                <asp:Label ID="lblUserName" runat="server" Text="User Name :"></asp:Label>
+                                                                            </td>
+                                                                            <td>
+                                                                                <asp:TextBox ID="txtUserName" runat="server" Width="140px"></asp:TextBox>
+                                                                                <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ForeColor="#FF8000"
+                                                                                    SetFocusOnError="True" ControlToValidate="txtUserName" Text="*"></asp:RequiredFieldValidator>
+                                                                            </td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td class="loginLabels">
+                                                                                <asp:Label ID="lblPassword" runat="server" Text="Password :" meta:resourcekey="lblPasswordResource1"></asp:Label>
+                                                                            </td>
+                                                                            <td>
+                                                                                <asp:TextBox ID="txtPassword" runat="server" Width="140px" TextMode="Password"></asp:TextBox>
+                                                                                <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" ForeColor="#FF8000"
+                                                                                    SetFocusOnError="True" ControlToValidate="txtPassword" Text="*"></asp:RequiredFieldValidator>
+                                                                            </td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td>
+                                                                                &nbsp;
+                                                                            </td>
+                                                                            <td>
+                                                                                <table class="lognBtns">
+                                                                                    <tr>
+                                                                                        <td>
+                                                                                            <asp:Button ID="imbLogin" ToolTip="Click to Login" Text="Login" CssClass="button"
+                                                                                                runat="server" OnClick="imbLogin_Click" OnClientClick="DisplayNullmessage();"
+                                                                                                Width="60px" meta:resourcekey="imbLoginResource1" />
+                                                                                        </td>
+                                                                                        <td>
+                                                                                            <asp:Button ID="imbReset" ToolTip="Reset" Text="Reset" CssClass="button" runat="server"
+                                                                                                CausesValidation="False" OnClientClick="return CleanDisplayMessage();" Width="60px"
+                                                                                                meta:resourcekey="imbResetResource1" />
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                </table>
+                                                                            </td>
+                                                                        </tr>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center">
+                                                        <asp:Label ID="lblErrorMessage" runat="server" Width="305px" CssClass="lblMsg_LoginControl"
+                                                            ForeColor="Red" meta:resourcekey="lblErrorMessageResource1"></asp:Label>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </asp:ContentPlaceHolder>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="height: 8px">
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <%--  Set Visibility to true and Height of this cell to increage your page Hieght --%>
+                                    <td id="tdSpacer" runat="server" visible="false">
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                        <td>
+                            &nbsp;
+                        </td>
+                        <td>
+                            &nbsp;
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                &nbsp;
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div id="footer">
+                    <uc1:Footer ID="mf" runat="server" />
+                </div>
+            </td>
+        </tr>
+    </table>
+    </form>
+</body>
+</html>

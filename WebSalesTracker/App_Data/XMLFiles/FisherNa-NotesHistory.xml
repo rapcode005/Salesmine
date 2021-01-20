@@ -1,0 +1,1509 @@
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="DATE" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="CREATED_x0020_BY" type="xs:string" minOccurs="0" />
+                <xs:element name="NOTE_x0020_TYPE" type="xs:string" minOccurs="0" />
+                <xs:element name="NOTES" type="xs:string" minOccurs="0" />
+                <xs:element name="SCHEDULED_x0020_DATE" type="xs:string" minOccurs="0" />
+                <xs:element name="ACCOUNT_x0020_NUMBER" type="xs:double" minOccurs="0" />
+                <xs:element name="CONTACT_x0020_NAME" type="xs:string" minOccurs="0" />
+                <xs:element name="CONTACT_x0020_NUMBER" type="xs:double" minOccurs="0" />
+                <xs:element name="DISPOSITION_x0020_CODE" type="xs:string" minOccurs="0" />
+                <xs:element name="DISPOSITION_x0020_DESCRIPTION" type="xs:string" minOccurs="0" />
+                <xs:element name="AGENT_x0020_NAME" type="xs:string" minOccurs="0" />
+                <xs:element name="PHONE_x0020_NUMBER" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <DATE>2008-05-06T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>EMED002</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DISPOSITION NOTES</NOTE_x0020_TYPE>
+    <NOTES>Verna P gave me other contacts Carl Schewe, Jeff Anderson @</NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>PRJ</DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Do Not Use - Sales Survey Project                                                                                               </DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2008-06-18T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>EMED002</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DISPOSITION NOTES</NOTE_x0020_TYPE>
+    <NOTES>563-244-6533 = ROB DIETZ NOT WES MICHAELSEN -correct # = 241</NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>PRJ</DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Do Not Use - Sales Survey Project                                                                                               </DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2008-06-18T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>EMED002</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DISPOSITION NOTES</NOTE_x0020_TYPE>
+    <NOTES>erna P</NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>OSP</DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>(Opportunity open/pending)  Continuing to work and f/u on opp. rec	                                                             </DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2008-06-18T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>EMED002</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DISPOSITION NOTES</NOTE_x0020_TYPE>
+    <NOTES>is Verna Peterson # NOT Terry hill</NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>PRJ</DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Do Not Use - Sales Survey Project                                                                                               </DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2008-06-18T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>EMED002</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DISPOSITION NOTES</NOTE_x0020_TYPE>
+    <NOTES>moke Free - This is huge plant with well more than 1000 empl</NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>PRJ</DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Do Not Use - Sales Survey Project                                                                                               </DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2008-06-18T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>EMED002</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DISPOSITION NOTES</NOTE_x0020_TYPE>
+    <NOTES>VORST - Strange busy Signal at 319-242-6533</NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>OSP</DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>(Opportunity open/pending)  Continuing to work and f/u on opp. rec	                                                             </DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2008-06-20T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>EMED002</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DISPOSITION NOTES</NOTE_x0020_TYPE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>PRJ</DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Do Not Use - Sales Survey Project                                                                                               </DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2008-06-20T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>EMED002</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DISPOSITION NOTES</NOTE_x0020_TYPE>
+    <NOTES>- LM Bobbi Jo Hammond about how to become preferred vendor</NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>PRJ</DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Do Not Use - Sales Survey Project                                                                                               </DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2008-06-20T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>EMED002</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DISPOSITION NOTES</NOTE_x0020_TYPE>
+    <NOTES>241 1636 = Dave - Nothing now..</NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>PRJ</DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Do Not Use - Sales Survey Project                                                                                               </DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2008-06-20T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>EMED002</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DISPOSITION NOTES</NOTE_x0020_TYPE>
+    <NOTES>244-6533 = Rob Dietz NOT Kevin Brown.. LM Rob Dietz</NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>PRJ</DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Do Not Use - Sales Survey Project                                                                                               </DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2008-06-20T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>EMED002</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DISPOSITION NOTES</NOTE_x0020_TYPE>
+    <NOTES>cct 1447 = Gone</NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>PRJ</DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Do Not Use - Sales Survey Project                                                                                               </DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2008-06-20T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>EMED002</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DISPOSITION NOTES</NOTE_x0020_TYPE>
+    <NOTES>hris Hundley - Correct # = x563 242 1121 x 4404</NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>PRJ</DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Do Not Use - Sales Survey Project                                                                                               </DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2008-06-20T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>EMED002</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DISPOSITION NOTES</NOTE_x0020_TYPE>
+    <NOTES>k Weibers NOT at 563-241-1121 / correct= 243-0847 - orders</NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>PRJ</DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Do Not Use - Sales Survey Project                                                                                               </DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2008-06-20T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>EMED002</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DISPOSITION NOTES</NOTE_x0020_TYPE>
+    <NOTES>rian</NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>PRJ</DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Do Not Use - Sales Survey Project                                                                                               </DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2008-06-20T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>EMED002</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DISPOSITION NOTES</NOTE_x0020_TYPE>
+    <NOTES>s preferred safety vendor out of IL Per Rick Mallow</NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>PRC</DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Pricing offered to Customer                                                                                                     </DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2008-06-20T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>EMED002</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DISPOSITION NOTES</NOTE_x0020_TYPE>
+    <NOTES>SAFETY CONTRACT W/ "MEDEM" OUT OF ILLINOIS BUT RECOMMENDED C</NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>NOC</DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>No call made                                                                                                                    </DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2008-06-20T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>EMED002</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DISPOSITION NOTES</NOTE_x0020_TYPE>
+    <NOTES>SAFETY CONTRACT W/ "MEDEM" OUT OF ILLINOIS BUT RECOMMENDED C</NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>PRJ</DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Do Not Use - Sales Survey Project                                                                                               </DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2008-06-20T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>EMED002</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DISPOSITION NOTES</NOTE_x0020_TYPE>
+    <NOTES>told this location makes everything out of corn.. SENT TD E</NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>PRJ</DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Do Not Use - Sales Survey Project                                                                                               </DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2008-06-23T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>EMED002</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DISPOSITION NOTES</NOTE_x0020_TYPE>
+    <NOTES>people gone from plant: off mail list - BRUCE RIECK, JOHN SI</NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>PRJ</DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Do Not Use - Sales Survey Project                                                                                               </DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2008-06-23T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>EMED002</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DISPOSITION NOTES</NOTE_x0020_TYPE>
+    <NOTES>uck White..</NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>PRJ</DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Do Not Use - Sales Survey Project                                                                                               </DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2008-06-23T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>EMED002</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DISPOSITION NOTES</NOTE_x0020_TYPE>
+    <NOTES>x 4655 = Rod - NOW GEN MGR JUST SETTING UP PlANT BUT NO TIM</NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>PRJ</DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Do Not Use - Sales Survey Project                                                                                               </DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2008-06-24T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>EMED002</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DISPOSITION NOTES</NOTE_x0020_TYPE>
+    <NOTES>ike Humes</NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>PRJ</DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Do Not Use - Sales Survey Project                                                                                               </DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2008-07-01T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>EMED002</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DISPOSITION NOTES</NOTE_x0020_TYPE>
+    <NOTES>is at 563-242-1121 x?? but nothing now.. friendly guy - this</NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>PRJ</DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Do Not Use - Sales Survey Project                                                                                               </DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2008-07-08T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>EMED002</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DISPOSITION NOTES</NOTE_x0020_TYPE>
+    <NOTES>to Rob Dietz as contact</NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>OSP</DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>(Opportunity open/pending)  Continuing to work and f/u on opp. rec	                                                             </DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2008-09-17T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>EMEDQT010</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DISPOSITION NOTES</NOTE_x0020_TYPE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>NFA</DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>No follow up action required - Not interested at this time                                                                      </DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2009-02-27T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>EMEDQT012</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DISPOSITION NOTES</NOTE_x0020_TYPE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>NFA</DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>No follow up action required - Not interested at this time                                                                      </DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2009-02-27T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>EMEDQT012</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DISPOSITION NOTES</NOTE_x0020_TYPE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>SAL</DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>(Sale) Opportunity closed                                                                                                       </DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2009-03-18T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>EMEDCP002</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DISPOSITION NOTES</NOTE_x0020_TYPE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>ATT</DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>(Attempt) Did not reach customer.  Did not leave voicemail                                                                      </DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2010-03-17T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>EMEDQT005</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DISPOSITION NOTES</NOTE_x0020_TYPE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>OSP</DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>(Opportunity open/pending)  Continuing to work and f/u on opp. rec	                                                             </DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2010-03-17T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>EMEDQT005</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DISPOSITION NOTES</NOTE_x0020_TYPE>
+    <NOTES>did receive</NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>OSP</DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>(Opportunity open/pending)  Continuing to work and f/u on opp. rec	                                                             </DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2010-03-19T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>EMEDQT005</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DISPOSITION NOTES</NOTE_x0020_TYPE>
+    <NOTES>did receive</NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>SAL</DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>(Sale) Opportunity closed                                                                                                       </DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2010-05-24T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>EMEDQT012</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DISPOSITION NOTES</NOTE_x0020_TYPE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>OSP</DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>(Opportunity open/pending)  Continuing to work and f/u on opp. rec	                                                             </DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2010-05-28T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>EMEDQT012</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DISPOSITION NOTES</NOTE_x0020_TYPE>
+    <NOTES>LVM #1</NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>LVM</DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Left voicemail                                                                                                                  </DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2010-05-28T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>EMEDQT012</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DISPOSITION NOTES</NOTE_x0020_TYPE>
+    <NOTES>LVM #1</NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>NFA</DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>No follow up action required - Not interested at this time                                                                      </DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2010-06-07T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>EMEDQT012</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DISPOSITION NOTES</NOTE_x0020_TYPE>
+    <NOTES>LVM #1</NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>SAL</DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>(Sale) Opportunity closed                                                                                                       </DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2010-08-02T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>EMEDQT012</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DISPOSITION NOTES</NOTE_x0020_TYPE>
+    <NOTES>Spoke with ken and sent quote</NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>OSP</DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>(Opportunity open/pending)  Continuing to work and f/u on opp. rec	                                                             </DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2010-08-03T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>EMEDQT012</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DISPOSITION NOTES</NOTE_x0020_TYPE>
+    <NOTES>Spoke with ken and sent quote</NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>SAL</DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>(Sale) Opportunity closed                                                                                                       </DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2010-11-15T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>EMEDQT007</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DISPOSITION NOTES</NOTE_x0020_TYPE>
+    <NOTES>Pricing offered to Customer</NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>PRC</DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Pricing offered to Customer                                                                                                     </DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2010-12-20T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>EMEDQT007</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DISPOSITION NOTES</NOTE_x0020_TYPE>
+    <NOTES>Pricing offered to Customer</NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>NFA</DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>No follow up action required - Not interested at this time                                                                      </DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2011-08-24T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>EMED022</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DISPOSITION NOTES</NOTE_x0020_TYPE>
+    <NOTES>kam intro/email</NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>VML</DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Left voicemail                                                                                                                  </DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2011-10-26T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>ONGRA       </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>MASTER DATA</NOTE_x0020_TYPE>
+    <NOTES>Testing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             </NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2011-11-03T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>SOBIERSH    </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>MASTER DATA</NOTE_x0020_TYPE>
+    <NOTES>bill crigger no longer there, new person is kurt                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2011-11-03T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>SOBIERSH    </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>MASTER DATA</NOTE_x0020_TYPE>
+    <NOTES>russell steen retired                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               </NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2011-11-03T09:34:55.043+08:00</DATE>
+    <CREATED_x0020_BY>SOBIERSH  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>vm for bill tanner                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  </NOTES>
+    <SCHEDULED_x0020_DATE>11/03/2011</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2011-11-10T12:39:02.943+08:00</DATE>
+    <CREATED_x0020_BY>SOBIERSH  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>vm ken, emld info.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  </NOTES>
+    <SCHEDULED_x0020_DATE>11/10/2011</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2011-12-13T11:19:35.7+08:00</DATE>
+    <CREATED_x0020_BY>SOBIERSH  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>spoke with ken myers, wooden                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </NOTES>
+    <SCHEDULED_x0020_DATE>12/13/2011</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME>MYERS, KEN</CONTACT_x0020_NAME>
+    <CONTACT_x0020_NUMBER>8261968</CONTACT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2012-01-20T14:42:14.107+08:00</DATE>
+    <CREATED_x0020_BY>SOBIERSH  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>vm ken deter, 40 off                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </NOTES>
+    <SCHEDULED_x0020_DATE>01/20/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2012-01-23T09:32:13.853+08:00</DATE>
+    <CREATED_x0020_BY>SOBIERSH  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>CHUCK WHITE NEED INTEL AND EMAIL                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </NOTES>
+    <SCHEDULED_x0020_DATE>01/23/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2012-01-24T12:42:09.063+08:00</DATE>
+    <CREATED_x0020_BY>SOBIERSH  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>vm bill tanner, emld 30 off                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         </NOTES>
+    <SCHEDULED_x0020_DATE>01/24/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2012-01-24T12:44:20.503+08:00</DATE>
+    <CREATED_x0020_BY>SOBIERSH  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>vm dawn, need email                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 </NOTES>
+    <SCHEDULED_x0020_DATE>01/24/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2012-01-24T12:47:22.11+08:00</DATE>
+    <CREATED_x0020_BY>SOBIERSH  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>spoke with dave hizelga - DOES NOT BUY ANYMORE  ONLY DOES REPAIRS                                                                                                                                                                                                                                                                                                                                                                                                                                                   </NOTES>
+    <SCHEDULED_x0020_DATE>01/24/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2012-02-15T10:06:04.707+08:00</DATE>
+    <CREATED_x0020_BY>SOBIERSH  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>vm chuck white                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      </NOTES>
+    <SCHEDULED_x0020_DATE>02/15/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2012-02-16T12:20:13.983+08:00</DATE>
+    <CREATED_x0020_BY>SOBIERSH  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>vm bill tanner   need spill intel                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   </NOTES>
+    <SCHEDULED_x0020_DATE>02/16/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2012-02-24T10:02:50.443+08:00</DATE>
+    <CREATED_x0020_BY>SOBIERSH  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>ROB DIETZ VM                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </NOTES>
+    <SCHEDULED_x0020_DATE>02/24/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2012-02-24T15:56:35.083+08:00</DATE>
+    <CREATED_x0020_BY>SOBIERSH  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>SPOKE WITH KEN DETERMAN,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </NOTES>
+    <SCHEDULED_x0020_DATE>02/24/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2012-02-24T16:14:02.547+08:00</DATE>
+    <CREATED_x0020_BY>SOBIERSH  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>took ken to the matt                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </NOTES>
+    <SCHEDULED_x0020_DATE>02/24/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2012-04-13T01:23:01.353+08:00</DATE>
+    <CREATED_x0020_BY>ONGRA     </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>FOLLOW UP</NOTE_x0020_TYPE>
+    <NOTES>test                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </NOTES>
+    <SCHEDULED_x0020_DATE>04/13/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME>WHITE, CHUCK</CONTACT_x0020_NAME>
+    <CONTACT_x0020_NUMBER>59906</CONTACT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2012-04-13T08:05:32.92+08:00</DATE>
+    <CREATED_x0020_BY>ONGRA     </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>FOLLOW UP</NOTE_x0020_TYPE>
+    <NOTES>Test 2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              </NOTES>
+    <SCHEDULED_x0020_DATE>04/13/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2012-04-13T09:53:17.097+08:00</DATE>
+    <CREATED_x0020_BY>ONGRA     </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>FOLLOW UP</NOTE_x0020_TYPE>
+    <NOTES>test 3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              </NOTES>
+    <SCHEDULED_x0020_DATE>04/13/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2012-04-13T09:54:20.703+08:00</DATE>
+    <CREATED_x0020_BY>ONGRA     </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>FOLLOW UP</NOTE_x0020_TYPE>
+    <NOTES>test3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               </NOTES>
+    <SCHEDULED_x0020_DATE>04/13/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME>WHITE, CHUCK</CONTACT_x0020_NAME>
+    <CONTACT_x0020_NUMBER>59906</CONTACT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2012-04-13T10:02:11.233+08:00</DATE>
+    <CREATED_x0020_BY>ONGRA     </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>Test 4                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              </NOTES>
+    <SCHEDULED_x0020_DATE>04/13/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2012-04-13T10:02:33.757+08:00</DATE>
+    <CREATED_x0020_BY>ONGRA     </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>test 5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              </NOTES>
+    <SCHEDULED_x0020_DATE>04/13/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME>WHITE, CHUCK</CONTACT_x0020_NAME>
+    <CONTACT_x0020_NUMBER>59906</CONTACT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2012-05-18T16:27:50.427+08:00</DATE>
+    <CREATED_x0020_BY>MARCOLWI  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>REMINDER</NOTE_x0020_TYPE>
+    <NOTES>Bill tanner- vml kam intro emailed info                                                                                                                                                                                                                                                                                                                                                                                                                                                                             </NOTES>
+    <SCHEDULED_x0020_DATE>05/18/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME>TANNER, BILL</CONTACT_x0020_NAME>
+    <CONTACT_x0020_NUMBER>2229953</CONTACT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2012-05-21T11:41:26.857+08:00</DATE>
+    <CREATED_x0020_BY>MARCOLWI  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>REMINDER</NOTE_x0020_TYPE>
+    <NOTES>bill dolan- he is on the night shift tomorrow- and he will be in at 6:30PM                                                                                                                                                                                                                                                                                                                                                                                                                                          </NOTES>
+    <SCHEDULED_x0020_DATE>05/21/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME>DOLAN, BILL</CONTACT_x0020_NAME>
+    <CONTACT_x0020_NUMBER>2542242</CONTACT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2012-05-23T11:55:36.953+08:00</DATE>
+    <CREATED_x0020_BY>MARCOLWI  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>REMINDER</NOTE_x0020_TYPE>
+    <NOTES>bill hudson- he is no longer with the company                                                                                                                                                                                                                                                                                                                                                                                                                                                                       </NOTES>
+    <SCHEDULED_x0020_DATE>05/23/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME>HUDSON, BILL</CONTACT_x0020_NAME>
+    <CONTACT_x0020_NUMBER>4489379</CONTACT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2012-05-30T01:45:59.603+08:00</DATE>
+    <CREATED_x0020_BY>PORRASJO  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>FOLLOW UP</NOTE_x0020_TYPE>
+    <NOTES>j                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   </NOTES>
+    <SCHEDULED_x0020_DATE>05/30/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2012-06-11T12:05:02.65+08:00</DATE>
+    <CREATED_x0020_BY>MARCOLWI  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>REMINDER</NOTE_x0020_TYPE>
+    <NOTES>ken determan- vml and emailed about the reorders                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </NOTES>
+    <SCHEDULED_x0020_DATE>06/11/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME>DETERMAN, KEN</CONTACT_x0020_NAME>
+    <CONTACT_x0020_NUMBER>6470556</CONTACT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2012-06-15T12:16:18.127+08:00</DATE>
+    <CREATED_x0020_BY>MARCOLWI  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>REMINDER</NOTE_x0020_TYPE>
+    <NOTES>brian erickson- no longer with the company                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </NOTES>
+    <SCHEDULED_x0020_DATE>06/15/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME>ERICKSON, BRIAN</CONTACT_x0020_NAME>
+    <CONTACT_x0020_NUMBER>4489490</CONTACT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2012-06-21T14:13:58.41+08:00</DATE>
+    <CREATED_x0020_BY>MARCOLWI  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>REMINDER</NOTE_x0020_TYPE>
+    <NOTES>Bruce rieck- no longer with ADM                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     </NOTES>
+    <SCHEDULED_x0020_DATE>06/21/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME>RIECK, BRUCE</CONTACT_x0020_NAME>
+    <CONTACT_x0020_NUMBER>2195624</CONTACT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2012-06-29T15:22:58.91+08:00</DATE>
+    <CREATED_x0020_BY>MARCOLWI  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>REMINDER</NOTE_x0020_TYPE>
+    <NOTES>chris hundley- no longer with the company                                                                                                                                                                                                                                                                                                                                                                                                                                                                           </NOTES>
+    <SCHEDULED_x0020_DATE>06/29/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME>HUNDLEY, CHRIS</CONTACT_x0020_NAME>
+    <CONTACT_x0020_NUMBER>2482552</CONTACT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2012-07-09T14:08:44.237+08:00</DATE>
+    <CREATED_x0020_BY>MARCOLWI  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>REMINDER</NOTE_x0020_TYPE>
+    <NOTES>chuck white- no longer with the company                                                                                                                                                                                                                                                                                                                                                                                                                                                                             </NOTES>
+    <SCHEDULED_x0020_DATE>07/09/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME>WHITE, CHUCK</CONTACT_x0020_NAME>
+    <CONTACT_x0020_NUMBER>59906</CONTACT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2012-07-16T15:10:15.87+08:00</DATE>
+    <CREATED_x0020_BY>MARCOLWI  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>REMINDER</NOTE_x0020_TYPE>
+    <NOTES>Gary Simpson- spoke to him and he is the MRO buyer for the facilite. I spoke with him and asked him to send a list of products the he could use from us, that way I can come up with a pricing stratagy for his company. kam intro emailed info                                                                                                                                                                                                                                                                     </NOTES>
+    <SCHEDULED_x0020_DATE>07/16/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME>SIMPSON, GARY</CONTACT_x0020_NAME>
+    <CONTACT_x0020_NUMBER>10530290</CONTACT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2012-07-30T20:31:12+08:00</DATE>
+    <CREATED_x0020_BY>PORRASJO  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>FOLLOW UP</NOTE_x0020_TYPE>
+    <NOTES>TEST ONLY                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           </NOTES>
+    <SCHEDULED_x0020_DATE>07/30/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2012-07-31T05:08:33.24+08:00</DATE>
+    <CREATED_x0020_BY>ONGRA     </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>Testing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             </NOTES>
+    <SCHEDULED_x0020_DATE>07/31/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME>CRIGGER, BILL</CONTACT_x0020_NAME>
+    <CONTACT_x0020_NUMBER>153351</CONTACT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2012-09-24T13:03:54.493+08:00</DATE>
+    <CREATED_x0020_BY>MARCOLWI  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>REMINDER</NOTE_x0020_TYPE>
+    <NOTES>it is RockTenn's phone #                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </NOTES>
+    <SCHEDULED_x0020_DATE>09/24/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2012-09-26T04:25:55+08:00</DATE>
+    <CREATED_x0020_BY>BHATSH    </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>SHRI TEST                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           </NOTES>
+    <SCHEDULED_x0020_DATE>09/25/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2012-10-03T14:52:22.98+08:00</DATE>
+    <CREATED_x0020_BY>MARCOLWI  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>REMINDER</NOTE_x0020_TYPE>
+    <NOTES>bill tanner- vml and emailed 2nd                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </NOTES>
+    <SCHEDULED_x0020_DATE>10/03/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME>TANNER, BILL</CONTACT_x0020_NAME>
+    <CONTACT_x0020_NUMBER>2229953</CONTACT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2012-10-12T08:24:15+08:00</DATE>
+    <CREATED_x0020_BY>PORRASJO  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>FOLLOW UP</NOTE_x0020_TYPE>
+    <NOTES>TEST 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              </NOTES>
+    <SCHEDULED_x0020_DATE>10/09/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2012-10-24T16:03:22+08:00</DATE>
+    <CREATED_x0020_BY>PORRASJO  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>REMINDER</NOTE_x0020_TYPE>
+    <NOTES>TEST2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               </NOTES>
+    <SCHEDULED_x0020_DATE>10/24/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2012-10-30T15:44:11.4+08:00</DATE>
+    <CREATED_x0020_BY>MARCOLWI  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>REMINDER</NOTE_x0020_TYPE>
+    <NOTES>brian parker- vml kam intro                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         </NOTES>
+    <SCHEDULED_x0020_DATE>10/30/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME>PARKER, BRIAN</CONTACT_x0020_NAME>
+    <CONTACT_x0020_NUMBER>2482554</CONTACT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2012-11-14T05:37:34+08:00</DATE>
+    <CREATED_x0020_BY>PORRASJO  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>FOLLOW UP</NOTE_x0020_TYPE>
+    <NOTES>RE TEST                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             </NOTES>
+    <SCHEDULED_x0020_DATE>11/14/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2012-12-05T08:49:45+08:00</DATE>
+    <CREATED_x0020_BY>PORRASJO  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>REMINDER</NOTE_x0020_TYPE>
+    <NOTES>TESTING3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </NOTES>
+    <SCHEDULED_x0020_DATE>12/05/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2012-12-05T08:53:14+08:00</DATE>
+    <CREATED_x0020_BY>PORRASJO  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>REMINDER</NOTE_x0020_TYPE>
+    <NOTES>TESTING4'S                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </NOTES>
+    <SCHEDULED_x0020_DATE>12/05/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2013-01-08T08:10:29+08:00</DATE>
+    <CREATED_x0020_BY>PORRASJO  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>TEST 5'S                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </NOTES>
+    <SCHEDULED_x0020_DATE>01/08/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2013-02-04T11:02:53+08:00</DATE>
+    <CREATED_x0020_BY>PORRASJO  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>WELCOME RACHEL HANCOCK                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              </NOTES>
+    <SCHEDULED_x0020_DATE>02/05/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2013-02-05T04:17:53+08:00</DATE>
+    <CREATED_x0020_BY>PORRASJO  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>TESTING TESTING                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     </NOTES>
+    <SCHEDULED_x0020_DATE>02/05/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2013-02-05T04:25:59+08:00</DATE>
+    <CREATED_x0020_BY>PORRASJO  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>TEST TEST TEST TEST                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 </NOTES>
+    <SCHEDULED_x0020_DATE>02/05/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2013-02-05T07:27:21+08:00</DATE>
+    <CREATED_x0020_BY>PORRASJO  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>REMINDER</NOTE_x0020_TYPE>
+    <NOTES>HELLO WORLD                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         </NOTES>
+    <SCHEDULED_x0020_DATE>02/05/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2013-09-01T22:20:20+08:00</DATE>
+    <CREATED_x0020_BY>PORRASJO  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>FOLLOW UP</NOTE_x0020_TYPE>
+    <NOTES>JOMAR TEST ONLY 09/02/2013                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </NOTES>
+    <SCHEDULED_x0020_DATE>09/02/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2013-09-01T22:20:44+08:00</DATE>
+    <CREATED_x0020_BY>PORRASJO  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>FOLLOW UP</NOTE_x0020_TYPE>
+    <NOTES>JOMAR TEST ONLY2 09/02/2013                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         </NOTES>
+    <SCHEDULED_x0020_DATE>09/02/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2013-09-06T14:01:16+08:00</DATE>
+    <CREATED_x0020_BY>PORRASJO  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>ADD NOTE TEST ONLY                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  </NOTES>
+    <SCHEDULED_x0020_DATE>09/06/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2013-09-11T04:26:38+08:00</DATE>
+    <CREATED_x0020_BY>PORRASJO  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>REMINDER</NOTE_x0020_TYPE>
+    <NOTES>THIS IS A TEST                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      </NOTES>
+    <SCHEDULED_x0020_DATE>09/11/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2013-09-17T20:50:16+08:00</DATE>
+    <CREATED_x0020_BY>PORRASJO  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>CAMPAIGN CALL</NOTE_x0020_TYPE>
+    <NOTES>JOMAR TEST                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </NOTES>
+    <SCHEDULED_x0020_DATE>09/17/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2013-11-27T00:46:42+08:00</DATE>
+    <CREATED_x0020_BY>SINGHRU   </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>CAMPAIGN CALL</NOTE_x0020_TYPE>
+    <NOTES>TEST                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </NOTES>
+    <SCHEDULED_x0020_DATE>11/27/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2013-12-05T02:34:15+08:00</DATE>
+    <CREATED_x0020_BY>PORRASJO  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>CAMPAIGN CALL</NOTE_x0020_TYPE>
+    <NOTES>PROD BEFORE RELEASE TEST                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </NOTES>
+    <SCHEDULED_x0020_DATE>12/05/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2013-12-05T03:25:17+08:00</DATE>
+    <CREATED_x0020_BY>PORRASJO  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>FOLLOW UP</NOTE_x0020_TYPE>
+    <NOTES>Production Release 1st note                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         </NOTES>
+    <SCHEDULED_x0020_DATE>12/05/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2013-12-13T09:43:45+08:00</DATE>
+    <CREATED_x0020_BY>MOHAPASA  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>CAMPAIGN CALL</NOTE_x0020_TYPE>
+    <NOTES>test                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </NOTES>
+    <SCHEDULED_x0020_DATE>12/13/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2013-12-13T09:48:35+08:00</DATE>
+    <CREATED_x0020_BY>MOHAPASA  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>FOLLOW UP</NOTE_x0020_TYPE>
+    <NOTES>test                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </NOTES>
+    <SCHEDULED_x0020_DATE>12/13/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2013-12-18T05:01:09+08:00</DATE>
+    <CREATED_x0020_BY>MOHAPASA  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>CAMPAIGN CALL</NOTE_x0020_TYPE>
+    <NOTES>test                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </NOTES>
+    <SCHEDULED_x0020_DATE>12/18/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2013-12-18T05:06:50+08:00</DATE>
+    <CREATED_x0020_BY>MOHAPASA  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>FOLLOW UP</NOTE_x0020_TYPE>
+    <NOTES>test 12/18/13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       </NOTES>
+    <SCHEDULED_x0020_DATE>12/18/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2013-12-18T05:10:47+08:00</DATE>
+    <CREATED_x0020_BY>MOHAPASA  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>FOLLOW UP</NOTE_x0020_TYPE>
+    <NOTES>test for test                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       </NOTES>
+    <SCHEDULED_x0020_DATE>12/18/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2014-02-24T11:57:24+08:00</DATE>
+    <CREATED_x0020_BY>TROTTEAL  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>CAMPAIGN CALL</NOTE_x0020_TYPE>
+    <NOTES>TRANSFERREDD KEN TO SALES RE: PIPE LABELS                                                                                                                                                                                                                                                                                                                                                                                                                                                                           </NOTES>
+    <SCHEDULED_x0020_DATE>02/24/2014</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2015-01-12T06:56:45+08:00</DATE>
+    <CREATED_x0020_BY>ONGRA     </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>KAM</NOTE_x0020_TYPE>
+    <NOTES>Testing 01/12/2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  </NOTES>
+    <SCHEDULED_x0020_DATE>01/12/2015</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2015-01-13T16:09:48+08:00</DATE>
+    <CREATED_x0020_BY>ONGRA     </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>FOLLOW UP</NOTE_x0020_TYPE>
+    <NOTES>Testing 01/12/2015.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 </NOTES>
+    <SCHEDULED_x0020_DATE>01/13/2015</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+  <Table>
+    <DATE>2012-01-09T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>SobierSh                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>Emed KAM Full Territory Nov 11 S Sobieraski                     </NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>FLU             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Follow Up Other</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Shari Sobieraski                                                </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2012-01-09T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>SobierSh                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>Emed KAM Full Territory Nov 11 S Sobieraski                     </NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>FLU             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Follow Up Other</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Shari Sobieraski                                                </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2012-01-09T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>SobierSh                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>Emed KAM Full Territory Nov 11 S Sobieraski                     </NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>FLU             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Follow Up Other</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Shari Sobieraski                                                </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2012-01-09T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>SobierSh                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>Emed KAM Full Territory Nov 11 S Sobieraski                     </NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>FLU             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Follow Up Other</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Shari Sobieraski                                                </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2012-01-18T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>SobierSh                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>Emed KAM Full Territory Nov 11 S Sobieraski                     </NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>FLU             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Follow Up Other</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Shari Sobieraski                                                </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2012-01-18T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>SobierSh                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>Emed KAM Full Territory Nov 11 S Sobieraski                     </NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>FLU             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Follow Up Other</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Shari Sobieraski                                                </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2011-12-09T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>SobierSh                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>Emed KAM Full Territory Nov 11 S Sobieraski                     </NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>FLU             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Follow Up Other</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Shari Sobieraski                                                </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2011-12-09T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>SobierSh                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>Emed KAM Full Territory Nov 11 S Sobieraski                     </NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>FLU             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Follow Up Other</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Shari Sobieraski                                                </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2012-01-19T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>SobierSh                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>Emed KAM Full Territory Nov 11 S Sobieraski                     </NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>FLU             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Follow Up Other</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Shari Sobieraski                                                </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2012-01-30T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>SobierSh                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>Emed KAM Full Territory Nov 11 S Sobieraski                     </NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>FLU             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Follow Up Other</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Shari Sobieraski                                                </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2012-01-19T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>SobierSh                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>Emed KAM Full Territory Nov 11 S Sobieraski                     </NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>FLU             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Follow Up Other</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Shari Sobieraski                                                </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2011-12-29T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>SobierSh                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>Emed KAM Full Territory Nov 11 S Sobieraski                     </NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>FLU             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Follow Up Other</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Shari Sobieraski                                                </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2011-12-30T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>SobierSh                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>Emed KAM Full Territory Nov 11 S Sobieraski                     </NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>FLU             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Follow Up Other</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Shari Sobieraski                                                </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2011-12-12T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>SobierSh                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>Emed KAM Full Territory Nov 11 S Sobieraski                     </NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>FLU             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Follow Up Other</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Shari Sobieraski                                                </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2012-02-09T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>SobierSh                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>Emed KAM Full Territory Nov 11 S Sobieraski                     </NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>FLU             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Follow Up Other</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Shari Sobieraski                                                </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2012-01-20T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>SobierSh                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>Emed KAM Full Territory Nov 11 S Sobieraski                     </NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>FLU             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Follow Up Other</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Shari Sobieraski                                                </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2012-01-20T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>SobierSh                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>Emed KAM Full Territory Nov 11 S Sobieraski                     </NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>FLU             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Follow Up Other</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Shari Sobieraski                                                </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2011-12-08T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>SobierSh                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>Emed KAM Full Territory Nov 11 S Sobieraski                     </NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>FLU             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Follow Up Other</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Shari Sobieraski                                                </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2011-11-10T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>SobierSh                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>Emed Contacts S Sobieraski Nov 11                               </NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>DDR             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Dead Record</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Shari Sobieraski                                                </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2011-12-08T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>SobierSh                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>Emed KAM Full Territory Nov 11 S Sobieraski                     </NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>FLU             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Follow Up Other</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Shari Sobieraski                                                </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2012-01-23T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>SobierSh                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>Emed KAM Full Territory Nov 11 S Sobieraski                     </NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>FLU             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Follow Up Other</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Shari Sobieraski                                                </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2012-01-23T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>SobierSh                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>Emed KAM Full Territory Nov 11 S Sobieraski                     </NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>FLU             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Follow Up Other</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Shari Sobieraski                                                </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2012-01-23T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>SobierSh                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>Emed KAM Full Territory Nov 11 S Sobieraski                     </NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>FLU             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Follow Up Other</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Shari Sobieraski                                                </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2011-12-12T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>SobierSh                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>Emed KAM Full Territory Nov 11 S Sobieraski                     </NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>FLU             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Follow Up Other</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Shari Sobieraski                                                </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2012-01-24T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>SobierSh                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>Emed KAM Full Territory Nov 11 S Sobieraski                     </NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>FLU             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Follow Up Other</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Shari Sobieraski                                                </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2012-01-24T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>SobierSh                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>Emed KAM Full Territory Nov 11 S Sobieraski                     </NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>FLU             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Follow Up Other</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Shari Sobieraski                                                </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2012-01-24T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>SobierSh                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>Emed KAM Full Territory Nov 11 S Sobieraski                     </NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>FLU             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Follow Up Other</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Shari Sobieraski                                                </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2012-01-25T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>SobierSh                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>Emed KAM Full Territory Nov 11 S Sobieraski                     </NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>FLU             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Follow Up Other</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Shari Sobieraski                                                </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2012-01-25T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>SobierSh                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>Emed KAM Full Territory Nov 11 S Sobieraski                     </NOTES>
+    <ACCOUNT_x0020_NUMBER>1447</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>FLU             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Follow Up Other</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Shari Sobieraski                                                </AGENT_x0020_NAME>
+  </Table>
+</NewDataSet>

@@ -1,0 +1,1019 @@
+﻿td.locked, th.locked
+{
+    position: relative;
+    left: expression((this.parentElement.parentElement.parentElement.parentElement.scrollLeft-2)+'px');
+}
+
+
+/* DEFAULTS
+----------------------------------------------------------*/
+body   
+{
+    font-size:12px;
+    font-family:Arial;
+    margin: 0px;
+    padding: 0px;
+    color: #000000;
+    background: url(../Images/bg_01.jpg) repeat;
+}
+
+a:link, a:visited
+{
+    color: #034af3;
+}
+
+a:hover
+{
+    color: #1d60ff;
+    text-decoration: none;
+}
+
+a:active
+{
+    color: #034af3;
+}
+
+p
+{
+    margin-bottom: 10px;
+    line-height: 1.6em;
+    height: 6px;
+}
+
+
+/* HEADINGS   
+----------------------------------------------------------*/
+
+h1, h2, h3, h4, h5, h6
+{
+    font-size: 1.5em;
+    color: #666666;
+    font-variant: small-caps;
+    text-transform: none;
+    font-weight: 200;
+    margin-bottom: 0px;
+}
+
+h1
+{
+    font-size: 1.6em;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+h2
+{
+    font-size: 1.5em;
+    font-weight: 600;
+}
+
+h3
+{
+    font-size: 1.2em;
+}
+
+h4
+{
+    font-size: 1.1em;
+}
+
+h5, h6
+{
+    font-size: 1em;
+}
+
+/* this rule styles <h1> and <h2> tags that are the 
+first child of the left and right table columns */
+.rightColumn > h1, .rightColumn > h2, .leftColumn > h1, .leftColumn > h2
+{
+    margin-top: 0px;
+}
+
+
+/* PRIMARY LAYOUT ELEMENTS   
+----------------------------------------------------------*/
+
+.page
+{
+    width: 960px;
+    background-color: #fff;
+    margin: 20px auto 0px auto;
+    border: 1px solid #496077;
+}
+
+.header
+{
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+    background: #4b6c9e;
+    width: 100%;
+}
+
+.header h1
+{
+    font-weight: 700;
+    margin: 0px;
+    padding: 0px 0px 0px 20px;
+    color: #f9f9f9;
+    border: none;
+    line-height: 2em;
+    font-size: 2em;
+}
+
+.main
+{
+    padding: 0px 12px;
+    margin: 12px 8px 8px 8px;
+    min-height: 420px;
+}
+
+.leftCol
+{
+    padding: 6px 0px;
+    margin: 12px 8px 8px 8px;
+    width: 200px;
+    min-height: 200px;
+}
+
+.footer
+{
+    color: #4e5766;
+    padding: 8px 0px 0px 0px;
+    margin: 0px auto;
+    text-align: center;
+    line-height: normal;
+}
+
+
+/* TAB MENU   
+----------------------------------------------------------*/
+
+div.hideSkiplink
+{
+    background-color: #3a4f63;
+    width: 100%;
+}
+
+div.menu
+{
+    padding: 4px 0px 4px 8px;
+}
+
+div.menu ul
+{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    width: auto;
+}
+
+div.menu ul li a, div.menu ul li a:visited
+{
+    background-color: #465c71;
+    border: 1px #4e667d solid;
+    color: #dde4ec;
+    display: block;
+    line-height: 1.35em;
+    padding: 4px 20px;
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+div.menu ul li a:hover
+{
+    background-color: #bfcbd6;
+    color: #465c71;
+    text-decoration: none;
+}
+
+div.menu ul li a:active
+{
+    background-color: #465c71;
+    color: #cfdbe6;
+    text-decoration: none;
+}
+
+/* FORM ELEMENTS   
+----------------------------------------------------------*/
+
+fieldset
+{
+    margin: 1em 0px;
+    padding: 1em;
+    border: 1px solid #ccc;
+    height: 51px;
+    width: 190px;
+}
+
+fieldset p
+{
+    margin: 2px 12px 10px 10px;
+}
+
+fieldset.login label, fieldset.register label, fieldset.changePassword label
+{
+    display: block;
+}
+
+fieldset label.inline
+{
+    display: inline;
+}
+
+legend
+{
+    font-size: 1.1em;
+    font-weight: 600;
+    padding: 2px 4px 8px 4px;
+}
+
+input.textEntry
+{
+    width: 320px;
+    border: 1px solid #ccc;
+}
+
+input.passwordEntry
+{
+    width: 320px;
+    border: 1px solid #ccc;
+}
+
+div.accountInfo
+{
+    width: 42%;
+}
+
+/* MISC  
+----------------------------------------------------------*/
+
+.clear
+{
+    clear: both;
+}
+
+.title
+{
+    display: block;
+    float: left;
+    text-align: left;
+    width: auto;
+}
+
+.loginDisplay
+{
+    font-size: 1.1em;
+    display: block;
+    text-align: right;
+    padding: 10px;
+    color: White;
+}
+
+.loginDisplay a:link
+{
+    color: white;
+}
+
+.loginDisplay a:visited
+{
+    color: white;
+}
+
+.loginDisplay a:hover
+{
+    color: white;
+}
+
+.failureNotification
+{
+    font-size: 1.2em;
+    color: Red;
+}
+
+.bold
+{
+    font-weight: bold;
+}
+
+.submitButton
+{
+    text-align: right;
+    padding-right: 10px;
+}
+
+/* Sidebar */
+
+#sidebar
+{
+    float: left;
+    width: 679px;
+    margin: 0;
+}
+
+#sidebar ul
+{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+#sidebar li
+{
+    margin-bottom: 20px;
+    padding: 20px 20px 40px 20px;
+}
+
+#sidebar li ul
+{
+    line-height: 240%;
+}
+
+#sidebar li li
+{
+    margin: 0;
+    padding: 0;
+    background: none;
+    padding-left: 15px;
+}
+
+#sidebar h2
+{
+    margin-bottom: 20px;
+    text-transform: lowercase;
+    color: #4F789F;
+}
+
+#s
+{
+    width: 160px;
+}
+
+
+/* Content */
+
+#SidebarLeft
+{
+    float: left;
+    width: 115px;
+    height: 398px;
+}
+
+#SidebarRigh
+{
+    float: right;
+    top: 1000px;
+}
+
+#PositionTopRight
+{
+    position: inherit;
+    top: auto;
+    right: 50px;
+}
+
+
+
+
+/* Fit Gridview */
+.gridview td
+{
+    white-space: nowrap;
+}
+
+
+/* textBox Design */
+
+.textBox
+{
+    background-image: url(../Images/search-icon-512.png) no-repeat left;
+    border: 4px solid #d4eff6;
+    color: #056f90;
+}
+
+/*.box
+{
+    background:#FF0000 url(../Images/search-icon-512.png) no-repeat left;
+     text-align:center;
+     border :4px solid #d4eff6;
+     color:#056f90; 
+}
+*/
+.textBox:focus, input.input_text_focus
+{
+    background-color: #c3e5f7;
+}
+
+.Label-td
+{
+    font-family: Arial,Verdana;
+    font-size: 12px;
+    padding: 0;
+    vertical-align: top;
+}
+
+/* Listbox Design */
+
+.listbox
+{
+    border: 4px solid #d4eff6;
+    color: #056f90;
+}
+
+.listbox:focus, input.input_text_focus
+{
+    background-color: #c3e5f7;
+}
+
+.Label-lb
+{
+    font-family: Arial,Verdana;
+    font-size: 15px;
+    padding: 0;
+    vertical-align: top;
+}
+
+/*******************Gridview******************************/
+/*GridViewCSS Soft Grey Style*/
+.GridViewStyle
+{
+    font-family: Arial, Sans-Serif;
+    font-size: small;
+    table-layout: auto;
+    border-collapse: collapse;
+    border: #91a7b4 1px soft;
+}
+.GridViewStyle td
+{
+    white-space: nowrap;
+}
+
+
+.GridViewStyle1
+{
+    font-family: Arial, Sans-Serif;
+    font-size: small;
+    table-layout: auto;
+    border-collapse: collapse;
+    border: #91a7b4 1px soft;
+    background-color: #CCCCCC;
+    border-color: #999999;
+    border-style: solid;
+    border-width: 3px;
+}
+.GridViewStyle1 td
+{
+    white-space: nowrap;
+}
+
+
+
+/*Header and Pager styles*/
+.HeaderStyle, .PagerStyle /*Common Styles*/
+{
+    background-image: url(../Images/YahooSprite.gif);
+    background-position: top;
+    background-repeat: repeat-x;
+    background-color: #d1dbe0;
+}
+.HeaderStyle th
+{
+    padding: 5px;
+    color: #16387c;
+}
+.HeaderStyle a
+{
+    text-decoration: none;
+    color: #16387c;
+    display: block;
+    text-align: center;
+    font-weight: normal;
+}
+.PagerStyle table
+{
+    text-align: left;
+    margin: lef;
+    border: 2px;
+}
+.PagerStyle table td
+{
+    border: 0px;
+    padding: 1px;
+    text-align: left;
+}
+.PagerStyle td
+{
+    border-top: #91a7b4 1px solid;
+}
+.PagerStyle a
+{
+    color: #16387c;
+    text-decoration: none;
+    padding: 2px 10px 2px 10px;
+    border-top: solid 1px #fff;
+    border-right: solid 1px #91a7b4;
+    border-bottom: solid 1px #91a7b4;
+    border-left: solid 1px #fff;
+}
+.PagerStyle span
+{
+    font-weight: bold;
+    color: #16387c;
+    text-decoration: none;
+}
+
+/*RowStyles*/
+.RowStyle td, .AltRowStyle td, .SelectedRowStyle td, .EditRowStyle td /*Common Styles*/
+{
+    /*padding: 5px;
+    border-right: solid 1px #91a7b4;*/
+    
+}
+.RowStyle td
+{
+    /*background-color: #f1f5f6;*/
+    background-color: #FFFFFF;
+   
+}
+
+.RowStyle a
+{
+   text-decoration:none;
+   
+}
+.AltRowStyle td
+{
+    /*background-color: #9ab2ca;*/
+    background-color: #e8e8ff;
+    background-image: url(../Images/YahooSprite.gif);
+    background-position: 0 -80px;
+    background-repeat: repeat-x;
+}
+.SelectedRowStyle td
+{
+    background-color: #fcb814;
+    background-image: url(../Images/YahooSprite.gif);
+    background-position: center;
+    background-repeat: repeat-x;
+}
+
+
+/******************/
+/*PopUp Modal CSS*/
+/****************/
+
+.popupConfirmation
+{
+    width: 480px;
+    height: 237px;
+}
+.popup_Container
+{
+    background-color: #AEF3FC;
+    border: 2px solid #000000;
+    padding: 0px 0px 0px 0px;
+}
+.popup_Titlebar
+{
+    background: Black url('../Images/titlebar_bg.jpg');
+    height: 29px;
+    width: 488px;
+}
+
+.TitlebarRight
+{
+    background: url(../Images/cross_icon_normal.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    height: 15px;
+    width: 16px;
+    float: right;
+    cursor: pointer;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+
+.popup_Body
+{
+    height: 245px;
+    width: 489px;
+    font-weight: normal;
+    font-size: x-small;
+    font-family: Arial; /*padding:15px 15px 15px 15px; 	font-family:Arial; 	font-weight:bold; 	font-size:12px; 	color:#000000; 	line-height:15pt; 	clear:both; 	padding:20px;*/
+}
+
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default
+{
+    border: 1px solid #d3d3d3; /* background: #e6e6e6 url(../Images/ui-bg_glass_75_e6e6e6_1x400.png) 50% 50% repeat-x; */
+    font-weight: normal;
+    color: #555555;
+}
+
+
+.resRecpopUpTable_ResourceEntry
+{
+    width: 350px;
+    margin: 0 auto;
+}
+
+
+.resRecpopUpTable_ResourceEntry .resRecpuTopLeft_ResourceEntry
+{
+    width: 10px;
+    vertical-align: top;
+    text-align: left;
+    height: 12px;
+}
+
+.resRecpopUpTable_ResourceEntry .resRecpuTopLeft_ResourceEntry img
+{
+    float: left;
+}
+
+.resRecpopUpTable_ResourceEntry .resRecpuTopRight_ResourceEntry
+{
+    width: 12px;
+    vertical-align: top;
+    text-align: right;
+    height: 12px;
+}
+
+.resRecpopUpTable_ResourceEntry .resRecpuTopRight_ResourceEntry img
+{
+    float: left;
+}
+
+.resRecpopUpTable_ResourceEntry .resRecpuBottomLeft_ResourceEntry
+{
+    width: 10px;
+    vertical-align: bottom;
+    text-align: left;
+    height: 15px;
+}
+
+.resRecpopUpTable_ResourceEntry .resRecpuBottomLeft_ResourceEntry img
+{
+    float: left;
+}
+
+.resRecpopUpTable_ResourceEntry .resRecpuBottomRight_ResourceEntry
+{
+    width: 12px;
+    vertical-align: bottom;
+    text-align: right;
+    height: 15px;
+}
+
+.resRecpopUpTable_ResourceEntry .resRecpuBottomRight_ResourceEntry img
+{
+    float: right;
+}
+
+.resRecpopUpTable_ResourceEntry .resRecpuTopBg_ResourceEntry
+{
+    background: #2e73af url(  '../Images/top-bg.gif' ) repeat-x top;
+}
+
+.resRecpopUpTable_ResourceEntry .resRecpuBottomBg_ResourceEntry
+{
+    background: #f3f3f3 url(  '../Images/bottom-bg.gif' ) repeat-x bottom;
+}
+
+.resRecpopUpTable_ResourceEntry .resRecpuLeftBrdr_ResourceEntry
+{
+    background-color: #064287;
+    width: 2px;
+}
+
+.resRecpopUpTable_ResourceEntry .resRecpuRightBrdr_ResourceEntry
+{
+    background: url(  '../Images/right-border.gif' ) repeat-y left;
+    width: 6px;
+}
+
+.resRecpopUpTable_ResourceEntry .resRecpuContent_ResourceEntry
+{
+    background-color: #f3f3f3;
+}
+/*End resRecpopUpTable css*/
+
+
+/*Start resRecpuheadingTable css*/
+.resRecpuheadingTable_ResourceEntry
+{
+    border-left: 0px solid #fff;
+    border-right: 0px solid #fff;
+    /*border-top: 1px solid #fff;*/
+    border-bottom: 0px solid #fff;
+    width: 100%;
+}
+
+.resRecpuheadingTable_ResourceEntry .resRecpuheadingCell_ResourceEntry
+{
+    background: #5eaee1 url(  '../Images/pu-top-curve.gif' ) no-repeat top right;
+    width: 250px;
+    vertical-align: middle;
+    padding-left: 0px;
+    padding-right: 0;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.resRecpuheadingTable_ResourceEntry .resRecpuheadTopBrdr_ResourceEntry
+{
+    background: #f3f3f3 url(  '../Images/publue-bg.gif' ) repeat-x top;
+}
+
+.resRecpuheadingTable_ResourceEntry .resRecpuheaderCurve_ResourceEntry
+{
+    padding: 0;
+    margin: 0;
+    width: 70px;
+}
+
+.resRecpuContent_ResourceEntry .resRecpuIPFields_ResourceEntry
+{
+    padding: 15px 25px 0 38px;
+}
+.resRecpuContent_ResourceEntry .resRecpuDetails_ResourceEntry
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    color: #000;
+    margin: 0;
+}
+
+.resRecpuDetails_ResourceEntry .resRecName_ResourceEntry
+{
+    width: 127px;
+    border: 1px #a5acb2 solid;
+    padding: 1px 0 1px 2px;
+}
+
+.resRecpuDetails_ResourceEntry .resLdap_ResourceEntry
+{
+    width: 127px;
+    border: 1px #a5acb2 solid;
+    padding: 1px 0 1px 2px;
+}
+.resRecpuDetails_ResourceEntry .UrlEntry
+{
+    width: 200px;
+    border: 1px #a5acb2 solid;
+    padding: 1px 0 1px 2px;
+}
+.resRecpuDetails_ResourceEntry .resEmail_ResourceEntry
+{
+    width: 240px;
+    border: 1px #a5acb2 solid;
+    padding: 1px 0 1px 2px;
+}
+
+.resRecpuDetails_ResourceEntry .resRecrypuTxtFld_ResourceEntry
+{
+    width: 124px;
+    border: 1px #a5acb2 solid;
+    padding: 1px 0 1px 2px;
+}
+
+.resRecpuDetails_ResourceEntry .resRecStartDate_ResourceEntry
+{
+    width: 109px;
+    border: 1px #a5acb2 solid;
+    padding: 1px 0 1px 2px;
+}
+
+.resRecpuDetails_ResourceEntry .resRecCostCenter_ResourceEntry
+{
+    width: 138px;
+    border: 1px #a5acb2 solid;
+    padding: 1px 0 1px 2px;
+}
+
+.resRecpuDetails_ResourceEntry .resRecrapuTxtFld_ResourceEntry
+{
+    width: 72px;
+    border: 1px #a5acb2 solid;
+    padding: 1px 0 1px 2px;
+}
+
+.resRecpuContent_ResourceEntry .resRecbtnCell_ResourceEntry
+{
+    text-align: right;
+    padding: 19px 32px 10px 0;
+}
+
+.resRecpuContent_ResourceEntry .resRecStatus_ResourceEntry
+{
+    width: 135px;
+    border: 1px #a5acb2 solid;
+    padding: 1px 0 1px 3px;
+}
+
+.resRecpuContent_ResourceEntry .resRecFT_ResourceEntry
+{
+    width: 47px;
+    border: 1px #a5acb2 solid;
+    padding: 1px 0 1px 2px;
+}
+
+.resRecpuContent_ResourceEntry .resRecType_ResourceEntry
+{
+    width: 98px;
+    border: 1px #a5acb2 solid;
+    padding: 1px 0 1px 2px;
+}
+
+.resRecpuContent_ResourceEntry .resRecSite_ResourceEntry
+{
+    width: 86px;
+    border: 1px #a5acb2 solid;
+    padding: 1px 0 1px 2px;
+}
+
+.resRecpuContent_ResourceEntry .resRecSkill_ResourceEntry
+{
+    width: 122px;
+    border: 1px #a5acb2 solid;
+    padding: 1px 0 1px 2px;
+}
+
+.resRecpuContent_ResourceEntry .resRecRT_ResourceEntry
+{
+    width: 81px;
+    border: 1px #a5acb2 solid;
+    padding: 1px 0 1px 2px;
+}
+
+.resRecpuContent_ResourceEntry .resRecpuInputBtns_ResourceEntry
+{
+    width: 150px;
+    float: right;
+}
+/*End resRecpuContent css*/
+
+/*html{
+   margin:0;
+   padding:0;
+   height:100%;
+}*/
+
+html,
+body
+{
+    font-size: 12px;
+    font-family: Arial;
+    margin: 0px;
+    padding: 0px;
+    color: #000000;
+    height: 100%;
+}
+
+#wrapper
+{
+    min-height: 100%; 
+    position:relative;
+}
+#header
+{
+    width: 100%;
+    top: 0;
+    position: fixed;
+}
+
+.headerClass
+{
+    width: 1024px;
+    background-color:#064287;
+}
+
+#content
+{
+    padding: 10px;
+    padding-bottom:100px; /* padding-bottom:60px;   /* Height of the footer */
+}
+
+#footer
+{
+    /*position: absolute; /*position: absolute; 
+    bottom: 0;
+    width: 100%;*/
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    clear: both;
+}
+
+
+/*.txtbox-search {
+	min-width: 70px;
+	border: #ccc solid 1px;
+	background: #fff url(../Images/bg-txtbox_03.jpg) repeat-x 50% top;
+	padding: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color:#333333;
+	height:10px;
+	float:left;
+}*/
+
+
+
+/*.btn-search {
+	border-style: none;
+    border-color: inherit;
+    border-width: 0;
+    min-width: 36px;
+	background: url(../Images/sprite_btn-search_3.png) no-repeat 0px -31px;
+	Float:left;
+    height:31px;
+} */
+
+.txtbox-search {
+	min-width: 10px;
+	border: #ccc solid 1px;
+	background: #fff url(../Images/bg-txtbox_03.jpg) repeat-x 50% top;
+	padding: 7px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color:#333333;
+	height:10px;
+	float:left;
+}
+
+.btn-search {
+	border-style: none;
+    border-color: inherit;
+    border-width: 0;
+    min-width: 36px;
+	background: url(../Images/sprite_btn-search_3.png) no-repeat 0px -25px;
+	Float:left;
+    height:25px;
+} 
+
+.btn-search:hover {
+	background-position: 0px -0px;
+	cursor: pointer;
+}.
+.btn-search:active {
+	margin-left: -1px;
+}
+
+.btn {
+	height: 36px;
+	padding-left: 15px;
+	padding-right: 15px;
+	color: #FFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	text-decoration: none;
+	float: left;
+	display: block;
+	margin-top: 0px;
+	
+	background: url(i.jpg') repeat-x top;
+	bor repeat-x top;
+	border: #25a4c0 solid 1px;
+	
+	-webkit--border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	
+	text-shadow: #3799ad 0px -1px;
+}
+
+.clsLogout a:hover
+{
+    cursor:pointer;
+    color:Orange;
+}
+
+.searchLabel {
+	/*width: 82%;*/
+	font-size: 15px;
+	color: #555;
+}
+
+.NameLabel {
+	height:25px;
+	min-width: 100px;
+	margin-right: 2%;
+	font-family:Courier New;
+	font-size: 16px;
+	color: #555;
+	float: left;
+	font-style:normal;
+	line-height: 300%;
+    width: 279px;
+    padding:0px 0px 15px 0px;
+}
+
+.CssErrorLabel
+{
+    font-family: Arial;
+    font-size: 12px;
+    color: Red;
+    font-weight: bold;
+}

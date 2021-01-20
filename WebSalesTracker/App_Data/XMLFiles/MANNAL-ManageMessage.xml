@@ -1,0 +1,473 @@
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Campaign" type="xs:string" minOccurs="0" />
+                <xs:element name="State" type="xs:string" minOccurs="0" />
+                <xs:element name="Message" type="xs:string" minOccurs="0" />
+                <xs:element name="Valid_From" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="Username" type="xs:string" minOccurs="0" />
+                <xs:element name="EffDate" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="Id" type="xs:int" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <Campaign xml:space="preserve"> </Campaign>
+    <State />
+    <Message>The WHD has ordered an employer in Tuscon to pay over $300,000 to employees for back pay. We are notifying our valued Arizona employers about this significant enforcement statistic to remind you of the importance of complying with federal wage &amp; hour laws.</Message>
+    <Valid_From>2014-03-05T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>476</Id>
+  </Table>
+  <Table>
+    <Campaign>CL</Campaign>
+    <State>TS</State>
+    <Message>For Testing.</Message>
+    <Valid_From>2016-03-10T00:00:00+08:00</Valid_From>
+    <Username>OngRa</Username>
+    <EffDate>9999-12-31T00:00:00+08:00</EffDate>
+    <Id>1332</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>AK</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 5,560 AK workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our AK employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-09-15T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1467</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>AL</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 60,000 AL workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our AL employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-09-15T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1466</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>AR</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 52,055 AR workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our AR employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-09-15T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1472</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>AZ</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 90,179 AZ workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our AZ employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-09-15T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1471</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>CA</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 392,094 workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our CA employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-09-15T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1473</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>CO</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 72,500 CO workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our CO employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-08-16T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1443</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>CT</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 46,000 CT workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our CT employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-08-16T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1444</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>DC</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 11,000 DC workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our DC employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-09-15T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1469</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>DE</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 15,400 DE workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our DE employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-08-16T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1445</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>FL</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 330,870 FL workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our FL employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-09-15T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1475</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>GA</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 157,600 GA workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our GA employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-08-16T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1446</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>HI</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 15,723 HI workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our HI employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-09-15T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1468</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>IA</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 43,615 IA workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our IA employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-09-15T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1470</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>ID</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 19,764 Idaho workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our ID employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-08-16T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1417</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>IL</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 194,000 IL workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our IL employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-08-16T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1447</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>IN</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 87,000 IN workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our IN employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-09-15T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1474</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>KS</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 39,619 KS workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our KS employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-09-15T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1476</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>KY</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 55,073 Kentuckians, who will need to be paid at least $47,476 annually to be exempt from overtime rules. We are notifying our KY employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-08-16T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1419</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>LA</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 60,974 LA workers, who will need to be paid at least $47,476 annually to be exempt from overtime rules. We are notifying our LA employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-09-15T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1477</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>MA</State>
+    <Message>In Fiscal Year 2016, the Massachusetts Fair Labor Division received more than 6,000 complaints – up 33 percent from the prior year. We are notifying our valued MA employers about this significant increase in wage &amp; hour complaints to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-09-15T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1479</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>MD</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 79,630 MD workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our MD employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-09-15T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1478</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>ME</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 16,210 Maine workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our ME employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-08-16T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1420</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>MI</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 101,500 MI workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our MI employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-08-16T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1448</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>MN</State>
+    <Message>TNew overtime rules taking effect Dec. 1 will impact an estimated 79,000 MN workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our MN employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-09-15T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1480</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>MO</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 84,878 Missouri workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our MO employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-08-16T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1434</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>MS</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 39,600 MS workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our MS employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-08-16T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1449</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>MT</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 11,000 Montana workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our MT employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-08-16T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1421</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>NC</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 156,000 NC workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our NC employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-08-16T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1438</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>ND</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 12,000 ND workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our ND employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-08-16T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1452</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>NE</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 28,000 Nebraska workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our NE employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-08-16T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1435</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>NH</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 21,800 NH workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our NH employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-08-16T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1450</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>NJ</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 131,854 NJ workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our NJ employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-09-15T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1481</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>NM</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 20,049 NM workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our NM employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-09-15T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1483</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>NV</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 31,000 Nevada workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our NV employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-08-16T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1422</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>NY</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 278K NY workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our NY employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-09-15T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1482</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>OH</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 134,000 Ohio workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our OH employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-08-16T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1439</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>OK</State>
+    <Message>An Oklahoma employer will pay $52K in back wages and damages after it failed to pay minimum wages and overtime to 9 employees. We are notifying our valued Oklahoma employers about this significant penalty to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-08-16T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1453</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>OR</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 46,000 Oregon workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our OR employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-08-16T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1440</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>PA</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 185,000 PA workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our PA employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-08-16T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1441</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>PR</State>
+    <Message>A PR employer will pay $3.5 million after violating the Health Insurance Portabilty and Accountability Act (HIPAA). We are notifying our valued PR employers about this significant penalty to remind you of the importance of complying with HIPAA. </Message>
+    <Valid_From>2016-08-16T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1465</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>RA</State>
+    <Message>test</Message>
+    <Valid_From>2013-05-03T00:00:00+08:00</Valid_From>
+    <Username>ONGRA</Username>
+    <Id>52</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>RI</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 13,000 Rhode Island workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our RI employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-08-16T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1464</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>SC</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 67,000 SC workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our SC employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-08-16T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1463</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>SD</State>
+    <Message>TNew overtime rules taking effect Dec. 1 will impact an estimated 9,000 SD workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our SD employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-08-16T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1462</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>TN</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 100,000 TN workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our TN employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-08-16T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1455</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>TX</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 370,000 TX workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our TX employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-08-16T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1454</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>UT</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 36,000 UT workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our UT employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-08-16T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1461</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>VA</State>
+    <Message>A Virginia employer will pay $1.5 million in back wages and fringe benefits to 140 IT professionals after failing to pay prevailing wages and fringe benefits. We are notifying our valued VA employers about this significant penalty to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-08-16T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1459</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>VT</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 10,000 VT workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our VT employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-08-16T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1460</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>WA</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 76,000 WA workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our WA employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-08-16T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1458</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>WI</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 69,000 WI workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our WI employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-08-16T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1442</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>WV</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 17,000 WV workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our WV employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-08-16T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1457</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>WY</State>
+    <Message>New overtime rules taking effect Dec. 1 will impact an estimated 7,000 WY workers, who will need to be paid at least $47,476 annually to be exempt from overtime. We are notifying our WY employers about this new regulation to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-08-16T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1456</Id>
+  </Table>
+  <Table>
+    <Campaign>US</Campaign>
+    <State />
+    <Message />
+    <Valid_From>2014-07-22T00:00:00+08:00</Valid_From>
+    <Username>leoneda</Username>
+    <EffDate>2014-07-22T00:00:00+08:00</EffDate>
+    <Id>733</Id>
+  </Table>
+</NewDataSet>

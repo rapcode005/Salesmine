@@ -1,0 +1,45 @@
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Sold_to" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="MG_Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Industry" type="xs:string" minOccurs="0" />
+                <xs:element name="sic2_desc" type="xs:string" minOccurs="0" />
+                <xs:element name="emp_size" type="xs:string" minOccurs="0" />
+                <xs:element name="BuyerOrg_Desc" type="xs:string" minOccurs="0" />
+                <xs:element name="Kam_Mgr" type="xs:string" minOccurs="0" />
+                <xs:element name="ltsales" type="xs:double" minOccurs="0" />
+                <xs:element name="Sales12M" type="xs:double" minOccurs="0" />
+                <xs:element name="ltorders" type="xs:double" minOccurs="0" />
+                <xs:element name="Ord12M" type="xs:double" minOccurs="0" />
+                <xs:element name="lpdcust" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="Salesteam" type="xs:string" minOccurs="0" />
+                <xs:element name="REGION" type="xs:string" minOccurs="0" />
+                <xs:element name="Ord13to24M" type="xs:double" minOccurs="0" />
+                <xs:element name="Sales13to24M" type="xs:double" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <Sold_to>0006638731</Sold_to>
+    <Name>TPMG WEST POINT FAMILY</Name>
+    <Industry>M: Unclassified</Industry>
+    <emp_size>D: 20-49</emp_size>
+    <ltsales>179.85</ltsales>
+    <ltorders>1</ltorders>
+    <Ord12M>0</Ord12M>
+    <lpdcust>2012-12-18T00:00:00+08:00</lpdcust>
+    <REGION>VA</REGION>
+    <Ord13to24M>0</Ord13to24M>
+  </Table>
+</NewDataSet>

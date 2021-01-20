@@ -1,0 +1,82 @@
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table1">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Quote_Doc_No" type="xs:string" minOccurs="0" />
+                <xs:element name="Quote_Line" type="xs:int" minOccurs="0" />
+                <xs:element name="Quote_Date" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="Quote_Created_By" type="xs:string" minOccurs="0" />
+                <xs:element name="Quote_Create_Time" type="xs:duration" minOccurs="0" />
+                <xs:element name="Quote_PO_Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Quote_PO_Type_Desc" type="xs:string" minOccurs="0" />
+                <xs:element name="Quote_Item_Categ_Desc" type="xs:string" minOccurs="0" />
+                <xs:element name="Quote_Reason_Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Quote_Reason_Code_Desc" type="xs:string" minOccurs="0" />
+                <xs:element name="Quote_Reason_Rej_Desc" type="xs:string" minOccurs="0" />
+                <xs:element name="Quote_SlsTeamIN" type="xs:string" minOccurs="0" />
+                <xs:element name="Quote_Material" type="xs:string" minOccurs="0" />
+                <xs:element name="Quote_Material_Desc" type="xs:string" minOccurs="0" />
+                <xs:element name="Quote_Mat_Entrd" type="xs:string" minOccurs="0" />
+                <xs:element name="Quote_Mat_Entrd_Desc" type="xs:string" minOccurs="0" />
+                <xs:element name="Product_Line_Desc" type="xs:string" minOccurs="0" />
+                <xs:element name="Product_Family_Desc" type="xs:string" minOccurs="0" />
+                <xs:element name="Quote_Coupon_CODE" type="xs:string" minOccurs="0" />
+                <xs:element name="Quote_Discount" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Quote_Net_Sales" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Quote_Freight" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Quote_Cost" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Order_Doc_No" type="xs:string" minOccurs="0" />
+                <xs:element name="Order_Line" type="xs:int" minOccurs="0" />
+                <xs:element name="Order_Date" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="Order_Createdby" type="xs:string" minOccurs="0" />
+                <xs:element name="Order_PO_Type_Desc" type="xs:string" minOccurs="0" />
+                <xs:element name="Order_Item_Categ_Desc" type="xs:string" minOccurs="0" />
+                <xs:element name="Order_Material_Desc" type="xs:string" minOccurs="0" />
+                <xs:element name="Order_Mat_Entrd_Desc" type="xs:string" minOccurs="0" />
+                <xs:element name="Order_Discount" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Order_Net_Sales" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Order_Freight" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Order_Cost" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Order_Refer_Doc" type="xs:string" minOccurs="0" />
+                <xs:element name="Order_Refer_Itm" type="xs:int" minOccurs="0" />
+                <xs:element name="Order_Coupon_CODE" type="xs:string" minOccurs="0" />
+                <xs:element name="sales_team_name" type="xs:string" minOccurs="0" />
+                <xs:element name="Surname" type="xs:string" minOccurs="0" />
+                <xs:element name="Firstname" type="xs:string" minOccurs="0" />
+                <xs:element name="Quote_Doc_createdon" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="Quote_Doc_Create_Time" type="xs:duration" minOccurs="0" />
+                <xs:element name="quote_sales_doc" type="xs:double" minOccurs="0" />
+                <xs:element name="quote_cost_doc" type="xs:double" minOccurs="0" />
+                <xs:element name="Quote_GM_percent" type="xs:double" minOccurs="0" />
+                <xs:element name="DM_Product_Line_Desc" type="xs:string" minOccurs="0" />
+                <xs:element name="Quote_Doc_Reason_Code_Desc" type="xs:string" minOccurs="0" />
+                <xs:element name="Status" type="xs:string" minOccurs="0" />
+                <xs:element name="order_date_converted" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="order_sales_doc" type="xs:double" minOccurs="0" />
+                <xs:element name="Order_GM_percent" type="xs:double" minOccurs="0" />
+                <xs:element name="tag" type="xs:string" minOccurs="0" />
+                <xs:element name="num_quotes_contact" type="xs:double" minOccurs="0" />
+                <xs:element name="num_quotes_conv_contact" type="xs:double" minOccurs="0" />
+                <xs:element name="percent_conversion_cont" type="xs:double" minOccurs="0" />
+                <xs:element name="num_quotes_site" type="xs:double" minOccurs="0" />
+                <xs:element name="num_quotes_conv_site" type="xs:double" minOccurs="0" />
+                <xs:element name="percent_conversion_site" type="xs:double" minOccurs="0" />
+                <xs:element name="Quote_Bucket" type="xs:string" minOccurs="0" />
+                <xs:element name="Hist_Perc_Conv" type="xs:double" minOccurs="0" />
+                <xs:element name="Hist_Num_Quotes" type="xs:double" minOccurs="0" />
+                <xs:element name="Hist_Num_Quotes_Conv" type="xs:double" minOccurs="0" />
+                <xs:element name="buyerct_SVR" type="xs:double" minOccurs="0" />
+                <xs:element name="ave_quote_disc" type="xs:double" minOccurs="0" />
+                <xs:element name="ave_order_disc" type="xs:double" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+</NewDataSet>

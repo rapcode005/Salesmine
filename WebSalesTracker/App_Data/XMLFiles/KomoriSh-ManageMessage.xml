@@ -1,0 +1,473 @@
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Campaign" type="xs:string" minOccurs="0" />
+                <xs:element name="State" type="xs:string" minOccurs="0" />
+                <xs:element name="Message" type="xs:string" minOccurs="0" />
+                <xs:element name="Valid_From" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="Username" type="xs:string" minOccurs="0" />
+                <xs:element name="EffDate" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="Id" type="xs:int" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <Campaign xml:space="preserve"> </Campaign>
+    <State />
+    <Message>The WHD has ordered an employer in Tuscon to pay over $300,000 to employees for back pay. We are notifying our valued Arizona employers about this significant enforcement statistic to remind you of the importance of complying with federal wage &amp; hour laws.</Message>
+    <Valid_From>2014-03-05T00:00:00+08:00</Valid_From>
+    <Username>DANIELDA</Username>
+    <Id>476</Id>
+  </Table>
+  <Table>
+    <Campaign>CL</Campaign>
+    <State>TS</State>
+    <Message>For Testing.</Message>
+    <Valid_From>2016-03-10T00:00:00+08:00</Valid_From>
+    <Username>OngRa</Username>
+    <EffDate>9999-12-31T00:00:00+08:00</EffDate>
+    <Id>1332</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>AK</State>
+    <Message>The EEOC has sued an AK nonprofit for disability discrimination after the employer reportedly refused to hire a man with intellectual disabilities. We are notifying our valued AK employers about this significant legal action to remind you of the importance of complying with EEO discrimination laws. </Message>
+    <Valid_From>2016-12-21T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1569</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>AL</State>
+    <Message>The EEOC has sued an AL employer for sex discrimination after the employer reportedly refused to hire a qualified applicant because of her gender. We are notifying our valued AL employers about this significant legal action to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2016-12-21T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1579</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>AR</State>
+    <Message>The EEOC has sued an Arkansas employer for disability discrimination after the employer reportedly fired an employee due to his HIV status. We are notifying our valued AR employers about this significant legal action to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2016-12-21T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1567</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>AZ</State>
+    <Message>An AZ employer will pay $300K to settle a disability discrimination lawsuit after failing to provide reasonable accommodations for individuals with disabilities. We are notifying our valued AZ employers about this penalty to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2016-12-21T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1566</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>CA</State>
+    <Message>20 new laws take effect in CA starting 1/1/17. These laws address workplace issues such as equal pay, notice requirements, job applications &amp; criminal history, unfair immigration practices, &amp; more. Our 2017 California Employer Update Kit (CA17-KIT) addresses all these critical law changes.</Message>
+    <Valid_From>2016-12-27T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1587</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>CO</State>
+    <Message>The EEOC has sued a Colorado employer for age discrimination after reportedly firing employees over the age of 40. We are notifying our valued Colorado employers about this significant legal action to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2016-12-21T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1546</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>CT</State>
+    <Message>The CT Department of Labor has recovered $1.6 million in owed wages for 121 employees after the employer failed to pay overtime for 2 years. We are notifying our valued CT employers about this significant penalty to remind you of the importance of complying with wage and hour laws. </Message>
+    <Valid_From>2016-12-21T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1547</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>DC</State>
+    <Message>The DOL has recovered more than $571K in back wages and damages for 55 workers after the employer failed to pay minimum and overtime wages. We are notifying our valued DC employers about this significant penalty to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-12-21T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1570</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>DE</State>
+    <Message>OSHA has cited a Delaware employer for 5 serious safety violations after a worker suffered a finger amputation. Proposed penalties total $39,762. We are notifying our valued Delaware employers about this significant penalty to remind you of the importance of complying with OSHA safety regulations</Message>
+    <Valid_From>2016-12-21T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1548</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>FL</State>
+    <Message>The EEOC has sued a FL employer for national origin discrimination after reportedly subjecting Hispanic employees to a hostile work environment &amp; retaliation. We are notifying our FL employers about this legal action to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2016-12-21T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1584</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>GA</State>
+    <Message>A GA employer will pay $37K to settle a pregnancy discrimination lawsuit brought by the EEOC after the employer fired an employee after announcing her pregnancy. We are notifying our GA employers about this penalty to remind you of the importance of complying with EEO discrimination laws. </Message>
+    <Valid_From>2016-12-21T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1549</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>HI</State>
+    <Message>A Hawaii employer will pay $371 in back wages and $69K in penalties to 95 workers for failing to pay overtime wages. We are notifying our valued Hawaii employers about this significant penalty to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-12-21T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1580</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>IA</State>
+    <Message>An Iowa employer has been cited for 2 repeated and 2 serious safety violations after a complaint was issued. Proposed penalties total $120K. We are notifying our valued Iowa employers about this significant penalty to remind you of the importance of complying with OSHA safety regulations.</Message>
+    <Valid_From>2016-12-21T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1582</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>ID</State>
+    <Message>OSHA has cited an Idaho employer for 2 serious &amp; 2 other-than-serious safety violations after a worker fell to his death. Proposed penalties total $14K. We are notifying our valued ID employers about this significant penalty to remind you of the importance of complying with OSHA safety regulations.</Message>
+    <Valid_From>2016-12-21T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1538</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>IL</State>
+    <Message>An Illinois employer will pay $1.7 million to settle an EEOC disability discrimination class investigation. We are notifying our valued Illinois employers about this significant penalty to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2016-12-21T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1550</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>IN</State>
+    <Message>An Indiana employer will pay $45,850 for 24 serious safety violations. We are notifying our valued Indiana employers about this significant penalty to remind you of the importance of complying with OSHA safety regulations.</Message>
+    <Valid_From>2016-12-21T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1583</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>KS</State>
+    <Message>The EEOC has sued a Kansas employer for disability discrimination after the employer reportedly fired an employee with a seizure disorder. We are notifying our valued Kansas employers about this legal action to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2016-12-21T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1565</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>KY</State>
+    <Message>A KY employer will pay $135K in compensatory damages and attorney's fees for discriminating against 2 pregnant employees. We are notifying our KY employers about this significant penalty to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1486</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>LA</State>
+    <Message>A Louisiana employer will pay $30K to settle a disability discrimination lawsuit after it fired an employee because of her diabetes. We are notifying our valued Louisiana employers about this significant penalty to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2016-12-21T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1564</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>MA</State>
+    <Message>OSHA has cited a MA employer for 2 serious safety violations after an employee died while constructing a trench. Proposed penalties total $14K. We are notifying our valued MA employers about this significant penalty to remind you of the importance of complying with OSHA safety regulations.</Message>
+    <Valid_From>2016-12-21T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1562</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>MD</State>
+    <Message>The EEOC has sued a MD employer for disability discrimination after it reportedly refused to grant a reasonable accommodation &amp; fired an employee with disabilities. We are notifying our MD employers about this legal action to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2016-12-21T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1563</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>ME</State>
+    <Message>A Maine employer was cited for 6 serious safety violations. Proposed penalties total $307,000. We are notifying our valued Maine employers about this significant penalty to remind you of the importance of complying with OSHA safety regulations.</Message>
+    <Valid_From>2016-12-21T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1585</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>MI</State>
+    <Message>Michigan OSHA has cited an employer for 9 serious, 1 willful serious, 6 failure to abate, 1 repeat serious and 5 other violations. Proposed penalties total $249K. We are notifying our Michigan employers about this penalty to remind you of the importance of complying with OSHA safety regulations.</Message>
+    <Valid_From>2016-12-21T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1551</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>MN</State>
+    <Message>A MN employer will pay $87,500 to resolve an EEOC disability lawsuit after firing an employee for objecting to an overbroad release of medical information. We are notifying our MN employers about this significant penalty to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2016-12-21T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1561</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>MO</State>
+    <Message>A MO employer will pay $10K to settle a disability &amp; genetic discrimination case after it required applicants to fill out a health history. We are notifying our MO employers about this penalty to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2016-12-21T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1539</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>MS</State>
+    <Message>OSHA has cited a Mississippi employer for 9 serious safety violations after 2 employees were injured. Proposed penalties total $88,632. We are notifying our valued Mississippi employers about this significant penalty to remind you of the importance of complying with IOSHA safety regulations.</Message>
+    <Valid_From>2016-12-21T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1552</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>MT</State>
+    <Message>A Montana employer has been sued by the Montana Human Rights Commission for age discrimination in its hiring process. We are notifying our valued Montana employers about this significant legal action to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2016-12-21T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1577</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>NC</State>
+    <Message>OSHA has cited 5 different NC contractors for 2 willful and 13 serious safety violations after a worker died in a fall. Proposed penalties total $115K. We are notifying our valued NC employers about this significant penalty to remind you of the importance of complying with OSHA safety regulations.</Message>
+    <Valid_From>2016-12-21T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1541</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>ND</State>
+    <Message>OSHA has cited a North Dakota employer for 6 willful and 8 serious citations after a worker was injured in a grain silo. Proposed penalties total $104K. We are notifying our valued ND employers about this significant penalty to remind you of the importance of complying with OSHA safety regulations.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1505</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>NE</State>
+    <Message>A Nebraska employer will pay $270K in back wages and civil penalties after failing to pay 89 workers minimum wages. We are notifying our valued Nebraska employers about this significant penalty to remind you of the importance of complying with wage and hour laws.</Message>
+    <Valid_From>2016-12-21T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1540</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>NH</State>
+    <Message>OSHA has cited an employer for 14 serious safety violations after a circus tent collapsed in Lancaster, killing 2 and injuring dozens. Proposed penalties total $24K. We are notifying our NH employers about this penalty to remind you of the importance of complying with wage and hour laws.</Message>
+    <Valid_From>2016-12-21T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1553</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>NJ</State>
+    <Message>OSHA has cited a NJ employer for 1 willful, 10 repeat, 9 serious, and 1 other-than-serious safety violation. Proposed penalties total $181,500. We are notifying our valued NJ employers about this significant penalty to remind you of the importance of complying with OSHA safety regulations.</Message>
+    <Valid_From>2016-12-21T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1560</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>NM</State>
+    <Message>The EEOC has sued a NM employer for sex-based pay &amp; national origin discrimination after paying a female supervisor less than males and imposing language restrictions. We are notifying our NM employers about this legal action to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2016-12-21T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1558</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>NV</State>
+    <Message>A Nevada employer will pay $50K to settle an EEOC lawsuit after firing an employee because of her multiple sclerosis. We are notifying our valued Nevada employers about this significant penalty to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1489</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>NY</State>
+    <Message> OSHA has cited a NY employer for 2 repeat violations after emergency exits were blocked in two stores. Proposed fines total $88K. We are notifying our valued NY employers about this significant penalty to remind you of the importance of complying with OSHA safety regulations.</Message>
+    <Valid_From>2016-12-21T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1559</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>OH</State>
+    <Message>OSHA has cited an OH employer for 2 failure to abate &amp; 6 serious safety &amp; health violations after exposing workers to lead. Proposed penalties total $194K. We are notifying our OH employers about this penalty to remind you of the importance of complying with OSHA safety &amp; health regulations.</Message>
+    <Valid_From>2016-12-21T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1542</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>OK</State>
+    <Message>The EEOC has sued an OK employer for disability discrimination after it reportedly denied reasonable accommodations to workers with disabilities and fired them. We are notifying our valued OK employers about this legal action to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2016-12-21T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1554</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>OR</State>
+    <Message>An Oregon employer will pay nearly $200K in remedial wages after failing to pay prevailing wages for public projects.  We are notifying our valued Oregon employers about this significant penalty to remind you of the importance of complying with wage and hour laws.</Message>
+    <Valid_From>2016-12-21T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1543</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>PA</State>
+    <Message>The EEOC has sued a PA employer for violating the Genetic Non-Discrimination Act after it reportedly asked applicants about family medical histories. We are notifying our PA employers about this significant legal action to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2016-12-21T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1544</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>PR</State>
+    <Message>A former employee has sued her Puerto Rico employer for sex discrimination claims under federal and Puerto Rico law. We are notifying our valued Puerto Rico employers about this legal action to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2016-11-03T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1518</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>RA</State>
+    <Message>test</Message>
+    <Valid_From>2013-05-03T00:00:00+08:00</Valid_From>
+    <Username>ONGRA</Username>
+    <Id>52</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>RI</State>
+    <Message>OSHA has cited a RI employer for 1 willful, 3 repeat and 2 serious violations after exposing workers to falls without fall protection. Proposed penalties total $185K. We are notifying our RI employers about this penalty to remind you of the importance of complying with OSHA safety regulations.</Message>
+    <Valid_From>2016-12-21T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1578</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>SC</State>
+    <Message>A South Carolina employer will pay $40K to settle an EEOC race discrimination lawsuit after it fired an African-American manager due to her race. We are notifying our valued South Carolina employers about this penalty to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2016-12-21T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1576</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>SD</State>
+    <Message>The EEOC has sued a SD employer for disability discrimination after it reportedly rejected an applicant for taking prescription medication for her medical condition. We are notifying our SD employers about this legal action to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2016-12-21T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1575</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>TN</State>
+    <Message>A Tennessee employer will pay $60K to settle an EEOC disability discrimination suit after it fired a worker with a false positive test for HIV. We are notifying our valued TN employers about this significant penalty to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2016-12-21T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1556</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>TX</State>
+    <Message>OSHA has cited a Texas employer for 9 serious safety violations after a release of deadly gas killed a worker. Proposed penalties total $63K. We are notifying our valued TX employers about this significant penalty to remind you of the importance of complying with OSHA safety regulations. </Message>
+    <Valid_From>2016-12-21T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1555</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>UT</State>
+    <Message>The DOL has sued a Utah employer for minimum wage, willful overtime and recordkeeping violations after misclassifying 133 workers as independent contractors. We are notifying our valued Utah employers about this legal action to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-12-21T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1574</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>VA</State>
+    <Message>A VA employer will pay nearly $181K in back pay and interest to 20 African American applicants to settle charges of race-based hiring and pay discrimination. We are notifying our VA employers about this significant penalty to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2016-12-21T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1572</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>VT</State>
+    <Message>Beginning Jan. 1, 2017, VT employers with 6 or more employees must allow employees to earn and use paid sick time at a rate of 1 hour for every 52 hours worked. We are notifying our valued VT employers about this new law to remind you of the importance of complying with wage &amp; hour laws.</Message>
+    <Valid_From>2016-12-21T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1573</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>WA</State>
+    <Message>A Washington employer will pay $112K to settle an EEOC disability discrimination lawsuit after it failed to hire a qualified employee due to epilepsy. We are notifying our valued WA employers about this significant penalty to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2016-12-21T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1568</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>WI</State>
+    <Message>OSHA has cited a WI employer for 1 willful and 3 serious safety violations after failing to provide fall protection to workers. Proposed penalties total $44,800. We are notifying our valued WI employers about this penalty to remind you of the importance of complying with OSHA safety regulations.</Message>
+    <Valid_From>2016-12-21T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1545</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>WV</State>
+    <Message>A West Virginia employer will pay $8,900 to settle a discrimination charge filed by a female employee who was denied benefits for her same-sex spouse. We are notifying our WV employers about this significant penalty to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2016-12-21T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1571</Id>
+  </Table>
+  <Table>
+    <Campaign>PC</Campaign>
+    <State>WY</State>
+    <Message>A former employee has sued a WY employer for disability discrimination after it reportedly denied a worker a reasonable accommodation for her diabetes and fired her. We are notifying our WY employers about this legal action to remind you of the importance of complying with EEO discrimination laws.</Message>
+    <Valid_From>2016-12-21T00:00:00+08:00</Valid_From>
+    <Username>JONASKA</Username>
+    <Id>1557</Id>
+  </Table>
+  <Table>
+    <Campaign>US</Campaign>
+    <State />
+    <Message />
+    <Valid_From>2014-07-22T00:00:00+08:00</Valid_From>
+    <Username>leoneda</Username>
+    <EffDate>2014-07-22T00:00:00+08:00</EffDate>
+    <Id>733</Id>
+  </Table>
+</NewDataSet>

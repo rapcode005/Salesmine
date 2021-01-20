@@ -1,0 +1,416 @@
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table1">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Quote_Doc_No" type="xs:string" minOccurs="0" />
+                <xs:element name="Quote_Line" type="xs:int" minOccurs="0" />
+                <xs:element name="Quote_Date" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="Quote_Created_By" type="xs:string" minOccurs="0" />
+                <xs:element name="Quote_Create_Time" type="xs:duration" minOccurs="0" />
+                <xs:element name="Quote_PO_Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Quote_PO_Type_Desc" type="xs:string" minOccurs="0" />
+                <xs:element name="Quote_Item_Categ_Desc" type="xs:string" minOccurs="0" />
+                <xs:element name="Quote_Reason_Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Quote_Reason_Code_Desc" type="xs:string" minOccurs="0" />
+                <xs:element name="Quote_Reason_Rej_Desc" type="xs:string" minOccurs="0" />
+                <xs:element name="Quote_SlsTeamIN" type="xs:string" minOccurs="0" />
+                <xs:element name="Quote_Material" type="xs:string" minOccurs="0" />
+                <xs:element name="Quote_Material_Desc" type="xs:string" minOccurs="0" />
+                <xs:element name="Quote_Mat_Entrd" type="xs:string" minOccurs="0" />
+                <xs:element name="Quote_Mat_Entrd_Desc" type="xs:string" minOccurs="0" />
+                <xs:element name="Product_Line_Desc" type="xs:string" minOccurs="0" />
+                <xs:element name="Product_Family_Desc" type="xs:string" minOccurs="0" />
+                <xs:element name="Quote_Coupon_CODE" type="xs:string" minOccurs="0" />
+                <xs:element name="Quote_Discount" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Quote_Net_Sales" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Quote_Freight" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Quote_Cost" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Order_Doc_No" type="xs:string" minOccurs="0" />
+                <xs:element name="Order_Line" type="xs:int" minOccurs="0" />
+                <xs:element name="Order_Date" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="Order_Createdby" type="xs:string" minOccurs="0" />
+                <xs:element name="Order_PO_Type_Desc" type="xs:string" minOccurs="0" />
+                <xs:element name="Order_Item_Categ_Desc" type="xs:string" minOccurs="0" />
+                <xs:element name="Order_Material_Desc" type="xs:string" minOccurs="0" />
+                <xs:element name="Order_Mat_Entrd_Desc" type="xs:string" minOccurs="0" />
+                <xs:element name="Order_Discount" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Order_Net_Sales" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Order_Freight" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Order_Cost" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Order_Refer_Doc" type="xs:string" minOccurs="0" />
+                <xs:element name="Order_Refer_Itm" type="xs:int" minOccurs="0" />
+                <xs:element name="Order_Coupon_CODE" type="xs:string" minOccurs="0" />
+                <xs:element name="sales_team_name" type="xs:string" minOccurs="0" />
+                <xs:element name="Surname" type="xs:string" minOccurs="0" />
+                <xs:element name="Firstname" type="xs:string" minOccurs="0" />
+                <xs:element name="Quote_Doc_createdon" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="Quote_Doc_Create_Time" type="xs:duration" minOccurs="0" />
+                <xs:element name="quote_sales_doc" type="xs:double" minOccurs="0" />
+                <xs:element name="quote_cost_doc" type="xs:double" minOccurs="0" />
+                <xs:element name="Quote_GM_percent" type="xs:double" minOccurs="0" />
+                <xs:element name="DM_Product_Line_Desc" type="xs:string" minOccurs="0" />
+                <xs:element name="Quote_Doc_Reason_Code_Desc" type="xs:string" minOccurs="0" />
+                <xs:element name="Status" type="xs:string" minOccurs="0" />
+                <xs:element name="order_date_converted" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="order_sales_doc" type="xs:double" minOccurs="0" />
+                <xs:element name="Order_GM_percent" type="xs:double" minOccurs="0" />
+                <xs:element name="tag" type="xs:string" minOccurs="0" />
+                <xs:element name="num_quotes_contact" type="xs:double" minOccurs="0" />
+                <xs:element name="num_quotes_conv_contact" type="xs:double" minOccurs="0" />
+                <xs:element name="percent_conversion_cont" type="xs:double" minOccurs="0" />
+                <xs:element name="num_quotes_site" type="xs:double" minOccurs="0" />
+                <xs:element name="num_quotes_conv_site" type="xs:double" minOccurs="0" />
+                <xs:element name="percent_conversion_site" type="xs:double" minOccurs="0" />
+                <xs:element name="Quote_Bucket" type="xs:string" minOccurs="0" />
+                <xs:element name="Hist_Perc_Conv" type="xs:double" minOccurs="0" />
+                <xs:element name="Hist_Num_Quotes" type="xs:double" minOccurs="0" />
+                <xs:element name="Hist_Num_Quotes_Conv" type="xs:double" minOccurs="0" />
+                <xs:element name="buyerct_SVR" type="xs:double" minOccurs="0" />
+                <xs:element name="ave_quote_disc" type="xs:double" minOccurs="0" />
+                <xs:element name="ave_order_disc" type="xs:double" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table1>
+    <Quote_Doc_No>0022908058</Quote_Doc_No>
+    <Quote_Line>20</Quote_Line>
+    <Quote_Date>2012-09-21T00:00:00+08:00</Quote_Date>
+    <Quote_Created_By>DUVINAVA</Quote_Created_By>
+    <Quote_Create_Time>PT3H5M7S</Quote_Create_Time>
+    <Quote_PO_Type>EML</Quote_PO_Type>
+    <Quote_PO_Type_Desc>E-Mail</Quote_PO_Type_Desc>
+    <Quote_Item_Categ_Desc>Standard item</Quote_Item_Categ_Desc>
+    <Quote_Reason_Code>010</Quote_Reason_Code>
+    <Quote_Reason_Code_Desc> Quote -  Price &amp; Availability</Quote_Reason_Code_Desc>
+    <Quote_SlsTeamIN>STFR020</Quote_SlsTeamIN>
+    <Quote_Material>Y1279203</Quote_Material>
+    <Quote_Material_Desc>POINTEUR LASER ROUGE</Quote_Material_Desc>
+    <Quote_Mat_Entrd>POLAS</Quote_Mat_Entrd>
+    <Product_Line_Desc>DM OFFICE SIGNS</Product_Line_Desc>
+    <Product_Family_Desc>DM SIGN FRAMES &amp; HOLDERS</Product_Family_Desc>
+    <Quote_Discount>0.00</Quote_Discount>
+    <Quote_Net_Sales>45.96</Quote_Net_Sales>
+    <Quote_Freight>2.91</Quote_Freight>
+    <Quote_Cost>30.65</Quote_Cost>
+    <Surname>VOIRIN</Surname>
+    <Firstname>PATRICK</Firstname>
+    <Quote_Doc_createdon>2012-09-21T00:00:00+08:00</Quote_Doc_createdon>
+    <Quote_Doc_Create_Time>PT3H4M25S</Quote_Doc_Create_Time>
+    <quote_sales_doc>472.30999999999995</quote_sales_doc>
+    <quote_cost_doc>220.37</quote_cost_doc>
+    <Quote_GM_percent>0.53342084647794874</Quote_GM_percent>
+    <DM_Product_Line_Desc>DM OFFICE SIGNS</DM_Product_Line_Desc>
+    <Quote_Doc_Reason_Code_Desc> Quote -  Price &amp; Availability</Quote_Doc_Reason_Code_Desc>
+    <Status>Not Converted</Status>
+    <tag>New Contact at Existing Site</tag>
+    <num_quotes_contact>2</num_quotes_contact>
+    <num_quotes_conv_contact>0</num_quotes_conv_contact>
+    <percent_conversion_cont>0</percent_conversion_cont>
+    <num_quotes_site>4</num_quotes_site>
+    <num_quotes_conv_site>1</num_quotes_conv_site>
+    <percent_conversion_site>0.25</percent_conversion_site>
+    <Quote_Bucket>b. $ 251-500</Quote_Bucket>
+    <Hist_Perc_Conv>0.46491228070175439</Hist_Perc_Conv>
+    <Hist_Num_Quotes>114</Hist_Num_Quotes>
+    <Hist_Num_Quotes_Conv>53</Hist_Num_Quotes_Conv>
+    <buyerct_SVR>9455326</buyerct_SVR>
+    <ave_quote_disc>0.022561444411567547</ave_quote_disc>
+    <ave_order_disc>0.022215111417054498</ave_order_disc>
+  </Table1>
+  <Table1>
+    <Quote_Doc_No>0022736530</Quote_Doc_No>
+    <Quote_Line>10</Quote_Line>
+    <Quote_Date>2012-04-17T00:00:00+08:00</Quote_Date>
+    <Quote_Created_By>VANDENIS</Quote_Created_By>
+    <Quote_Create_Time>PT2H55M32S</Quote_Create_Time>
+    <Quote_PO_Type>EML</Quote_PO_Type>
+    <Quote_PO_Type_Desc>E-Mail</Quote_PO_Type_Desc>
+    <Quote_Item_Categ_Desc>Standard item</Quote_Item_Categ_Desc>
+    <Quote_Reason_Code>010</Quote_Reason_Code>
+    <Quote_Reason_Code_Desc> Quote -  Price &amp; Availability</Quote_Reason_Code_Desc>
+    <Quote_SlsTeamIN>STFR009</Quote_SlsTeamIN>
+    <Quote_Material>Y381410</Quote_Material>
+    <Quote_Material_Desc>PRINZING BALL VALVE LO - SMALL RED</Quote_Material_Desc>
+    <Quote_Mat_Entrd>CVB1 RGE</Quote_Mat_Entrd>
+    <Product_Line_Desc>DM LOCKOUT</Product_Line_Desc>
+    <Product_Family_Desc>DM LOCKOUT DEVICES</Product_Family_Desc>
+    <Quote_Discount>0.00</Quote_Discount>
+    <Quote_Net_Sales>114.96</Quote_Net_Sales>
+    <Quote_Freight>29.90</Quote_Freight>
+    <Quote_Cost>8.91</Quote_Cost>
+    <Order_Doc_No>0014044921</Order_Doc_No>
+    <Order_Line>10</Order_Line>
+    <Order_Date>2012-04-25T00:00:00+08:00</Order_Date>
+    <Order_Createdby>VANDENIS</Order_Createdby>
+    <Order_PO_Type_Desc>E-Mail</Order_PO_Type_Desc>
+    <Order_Item_Categ_Desc>Standard Item</Order_Item_Categ_Desc>
+    <Order_Material_Desc>PRINZING BALL VALVE LO - SMALL RED</Order_Material_Desc>
+    <Order_Discount>0.00</Order_Discount>
+    <Order_Net_Sales>114.96</Order_Net_Sales>
+    <Order_Freight>29.90</Order_Freight>
+    <Order_Cost>8.91</Order_Cost>
+    <Order_Refer_Doc>0022736530</Order_Refer_Doc>
+    <Order_Refer_Itm>10</Order_Refer_Itm>
+    <Quote_Doc_createdon>2012-04-17T00:00:00+08:00</Quote_Doc_createdon>
+    <Quote_Doc_Create_Time>PT2H55M16S</Quote_Doc_Create_Time>
+    <quote_sales_doc>114.96</quote_sales_doc>
+    <quote_cost_doc>8.91</quote_cost_doc>
+    <Quote_GM_percent>0.92249478079331948</Quote_GM_percent>
+    <DM_Product_Line_Desc>DM LOCKOUT</DM_Product_Line_Desc>
+    <Quote_Doc_Reason_Code_Desc> Quote -  Price &amp; Availability</Quote_Doc_Reason_Code_Desc>
+    <Status>Converted</Status>
+    <order_date_converted>2012-04-25T00:00:00+08:00</order_date_converted>
+    <order_sales_doc>114.96</order_sales_doc>
+    <Order_GM_percent>0.92249478079331948</Order_GM_percent>
+    <tag>New Contact at Existing Site</tag>
+    <num_quotes_contact>1</num_quotes_contact>
+    <num_quotes_conv_contact>1</num_quotes_conv_contact>
+    <percent_conversion_cont>1</percent_conversion_cont>
+    <num_quotes_site>4</num_quotes_site>
+    <num_quotes_conv_site>1</num_quotes_conv_site>
+    <percent_conversion_site>0.25</percent_conversion_site>
+    <Quote_Bucket>a. $ 0-250</Quote_Bucket>
+    <Hist_Perc_Conv>0.51744186046511631</Hist_Perc_Conv>
+    <Hist_Num_Quotes>172</Hist_Num_Quotes>
+    <Hist_Num_Quotes_Conv>89</Hist_Num_Quotes_Conv>
+    <buyerct_SVR>0</buyerct_SVR>
+    <ave_quote_disc>0.026732741782465021</ave_quote_disc>
+    <ave_order_disc>0.031035074801810135</ave_order_disc>
+  </Table1>
+  <Table1>
+    <Quote_Doc_No>0022908058</Quote_Doc_No>
+    <Quote_Line>30</Quote_Line>
+    <Quote_Date>2012-09-21T00:00:00+08:00</Quote_Date>
+    <Quote_Created_By>DUVINAVA</Quote_Created_By>
+    <Quote_Create_Time>PT3H5M13S</Quote_Create_Time>
+    <Quote_PO_Type>EML</Quote_PO_Type>
+    <Quote_PO_Type_Desc>E-Mail</Quote_PO_Type_Desc>
+    <Quote_Item_Categ_Desc>Standard item</Quote_Item_Categ_Desc>
+    <Quote_Reason_Code>010</Quote_Reason_Code>
+    <Quote_Reason_Code_Desc> Quote -  Price &amp; Availability</Quote_Reason_Code_Desc>
+    <Quote_SlsTeamIN>STFR020</Quote_SlsTeamIN>
+    <Quote_Material>Y1266376</Quote_Material>
+    <Quote_Material_Desc>KIT ACCESSOIRES POUR TABLEAU BLANC</Quote_Material_Desc>
+    <Quote_Mat_Entrd>ACCES TB</Quote_Mat_Entrd>
+    <Product_Line_Desc>DM FACILITY &amp; SITE MAINTENANCE</Product_Line_Desc>
+    <Product_Family_Desc>DM BULLETIN/COMMUNICATION BOARDS</Product_Family_Desc>
+    <Quote_Discount>0.00</Quote_Discount>
+    <Quote_Net_Sales>26.77</Quote_Net_Sales>
+    <Quote_Freight>1.69</Quote_Freight>
+    <Quote_Cost>11.00</Quote_Cost>
+    <Surname>VOIRIN</Surname>
+    <Firstname>PATRICK</Firstname>
+    <Quote_Doc_createdon>2012-09-21T00:00:00+08:00</Quote_Doc_createdon>
+    <Quote_Doc_Create_Time>PT3H4M25S</Quote_Doc_Create_Time>
+    <quote_sales_doc>472.30999999999995</quote_sales_doc>
+    <quote_cost_doc>220.37</quote_cost_doc>
+    <Quote_GM_percent>0.53342084647794874</Quote_GM_percent>
+    <DM_Product_Line_Desc>DM OFFICE SIGNS</DM_Product_Line_Desc>
+    <Quote_Doc_Reason_Code_Desc> Quote -  Price &amp; Availability</Quote_Doc_Reason_Code_Desc>
+    <Status>Not Converted</Status>
+    <tag>New Contact at Existing Site</tag>
+    <num_quotes_contact>2</num_quotes_contact>
+    <num_quotes_conv_contact>0</num_quotes_conv_contact>
+    <percent_conversion_cont>0</percent_conversion_cont>
+    <num_quotes_site>4</num_quotes_site>
+    <num_quotes_conv_site>1</num_quotes_conv_site>
+    <percent_conversion_site>0.25</percent_conversion_site>
+    <Quote_Bucket>b. $ 251-500</Quote_Bucket>
+    <Hist_Perc_Conv>0.46491228070175439</Hist_Perc_Conv>
+    <Hist_Num_Quotes>114</Hist_Num_Quotes>
+    <Hist_Num_Quotes_Conv>53</Hist_Num_Quotes_Conv>
+    <buyerct_SVR>9455326</buyerct_SVR>
+    <ave_quote_disc>0.022561444411567547</ave_quote_disc>
+    <ave_order_disc>0.022215111417054498</ave_order_disc>
+  </Table1>
+  <Table1>
+    <Quote_Doc_No>0022331533</Quote_Doc_No>
+    <Quote_Line>10</Quote_Line>
+    <Quote_Date>2011-03-15T00:00:00+08:00</Quote_Date>
+    <Quote_Created_By>DRAYEMA</Quote_Created_By>
+    <Quote_Create_Time>PT7H9M58S</Quote_Create_Time>
+    <Quote_PO_Type>EML</Quote_PO_Type>
+    <Quote_PO_Type_Desc>E-Mail</Quote_PO_Type_Desc>
+    <Quote_Item_Categ_Desc>Standard item</Quote_Item_Categ_Desc>
+    <Quote_Reason_Code>010</Quote_Reason_Code>
+    <Quote_Reason_Code_Desc> Quote -  Price &amp; Availability</Quote_Reason_Code_Desc>
+    <Quote_SlsTeamIN>STFR002</Quote_SlsTeamIN>
+    <Quote_Material>Y1270459</Quote_Material>
+    <Quote_Material_Desc>DURASTRIPE MULTIFLEX CTC 5CMX30M BLUE</Quote_Material_Desc>
+    <Quote_Mat_Entrd>DURA50 BLE</Quote_Mat_Entrd>
+    <Product_Line_Desc>DM SAFETY PRODUCTS</Product_Line_Desc>
+    <Product_Family_Desc>DM HAZCOM STATIONS &amp; TRAINING</Product_Family_Desc>
+    <Quote_Discount>0.00</Quote_Discount>
+    <Quote_Net_Sales>2988.00</Quote_Net_Sales>
+    <Quote_Freight>0.00</Quote_Freight>
+    <Quote_Cost>1846.08</Quote_Cost>
+    <Surname>VOIRIN</Surname>
+    <Firstname>PATRICK</Firstname>
+    <Quote_Doc_createdon>2011-03-15T00:00:00+08:00</Quote_Doc_createdon>
+    <Quote_Doc_Create_Time>PT7H9M32S</Quote_Doc_Create_Time>
+    <quote_sales_doc>5478</quote_sales_doc>
+    <quote_cost_doc>3226.38</quote_cost_doc>
+    <Quote_GM_percent>0.41102957283680175</Quote_GM_percent>
+    <DM_Product_Line_Desc>DM SAFETY PRODUCTS</DM_Product_Line_Desc>
+    <Quote_Doc_Reason_Code_Desc> Quote -  Price &amp; Availability</Quote_Doc_Reason_Code_Desc>
+    <Status>Not Converted</Status>
+    <tag>New Contact at Existing Site</tag>
+    <num_quotes_contact>2</num_quotes_contact>
+    <num_quotes_conv_contact>0</num_quotes_conv_contact>
+    <percent_conversion_cont>0</percent_conversion_cont>
+    <num_quotes_site>4</num_quotes_site>
+    <num_quotes_conv_site>1</num_quotes_conv_site>
+    <percent_conversion_site>0.25</percent_conversion_site>
+    <Quote_Bucket>g. $ 5,000+</Quote_Bucket>
+    <Hist_Perc_Conv>0.11864406779661017</Hist_Perc_Conv>
+    <Hist_Num_Quotes>59</Hist_Num_Quotes>
+    <Hist_Num_Quotes_Conv>7</Hist_Num_Quotes_Conv>
+    <buyerct_SVR>9455326</buyerct_SVR>
+    <ave_quote_disc>0.19536354085977692</ave_quote_disc>
+    <ave_order_disc>0.128562199119448</ave_order_disc>
+  </Table1>
+  <Table1>
+    <Quote_Doc_No>0023643351</Quote_Doc_No>
+    <Quote_Line>10</Quote_Line>
+    <Quote_Date>2014-06-18T00:00:00+08:00</Quote_Date>
+    <Quote_Created_By>DUVINAMI</Quote_Created_By>
+    <Quote_Create_Time>PT6H48M22S</Quote_Create_Time>
+    <Quote_PO_Type>EML</Quote_PO_Type>
+    <Quote_PO_Type_Desc>E-Mail</Quote_PO_Type_Desc>
+    <Quote_Item_Categ_Desc>Standard item</Quote_Item_Categ_Desc>
+    <Quote_Reason_Code>010</Quote_Reason_Code>
+    <Quote_Reason_Code_Desc> Quote -  Price &amp; Availability</Quote_Reason_Code_Desc>
+    <Quote_SlsTeamIN>SETONFR003</Quote_SlsTeamIN>
+    <Quote_Material>Y1495202</Quote_Material>
+    <Quote_Material_Desc>TABLEAU BLANC ACIER LAQUE 1200*1800 MM</Quote_Material_Desc>
+    <Quote_Mat_Entrd>TMB 5</Quote_Mat_Entrd>
+    <Product_Line_Desc>DM FACILITY &amp; SITE MAINTENANCE</Product_Line_Desc>
+    <Product_Family_Desc>DM BULLETIN/COMMUNICATION BOARDS</Product_Family_Desc>
+    <Quote_Discount>-101.35</Quote_Discount>
+    <Quote_Net_Sales>912.15</Quote_Net_Sales>
+    <Quote_Freight>0.00</Quote_Freight>
+    <Quote_Cost>396.58</Quote_Cost>
+    <Quote_Doc_createdon>2014-06-18T00:00:00+08:00</Quote_Doc_createdon>
+    <Quote_Doc_Create_Time>PT6H47M52S</Quote_Doc_Create_Time>
+    <quote_sales_doc>912.15</quote_sales_doc>
+    <quote_cost_doc>396.58</quote_cost_doc>
+    <Quote_GM_percent>0.5652250178150523</Quote_GM_percent>
+    <DM_Product_Line_Desc>DM FACILITY &amp; SITE MAINTENANCE</DM_Product_Line_Desc>
+    <Quote_Doc_Reason_Code_Desc> Quote -  Price &amp; Availability</Quote_Doc_Reason_Code_Desc>
+    <Status>Not Converted</Status>
+    <tag>New Contact at Existing Site</tag>
+    <num_quotes_contact>1</num_quotes_contact>
+    <num_quotes_conv_contact>0</num_quotes_conv_contact>
+    <percent_conversion_cont>0</percent_conversion_cont>
+    <num_quotes_site>4</num_quotes_site>
+    <num_quotes_conv_site>1</num_quotes_conv_site>
+    <percent_conversion_site>0.25</percent_conversion_site>
+    <Quote_Bucket>d. $ 751-1,000</Quote_Bucket>
+    <Hist_Perc_Conv>0.41414141414141414</Hist_Perc_Conv>
+    <Hist_Num_Quotes>99</Hist_Num_Quotes>
+    <Hist_Num_Quotes_Conv>41</Hist_Num_Quotes_Conv>
+    <buyerct_SVR>12724556</buyerct_SVR>
+    <ave_quote_disc>0.11998670533692411</ave_quote_disc>
+    <ave_order_disc>0.091430718119458479</ave_order_disc>
+  </Table1>
+  <Table1>
+    <Quote_Doc_No>0022331533</Quote_Doc_No>
+    <Quote_Line>20</Quote_Line>
+    <Quote_Date>2011-03-15T00:00:00+08:00</Quote_Date>
+    <Quote_Created_By>DRAYEMA</Quote_Created_By>
+    <Quote_Create_Time>PT7H10M35S</Quote_Create_Time>
+    <Quote_PO_Type>EML</Quote_PO_Type>
+    <Quote_PO_Type_Desc>E-Mail</Quote_PO_Type_Desc>
+    <Quote_Item_Categ_Desc>Standard item</Quote_Item_Categ_Desc>
+    <Quote_Reason_Code>010</Quote_Reason_Code>
+    <Quote_Reason_Code_Desc> Quote -  Price &amp; Availability</Quote_Reason_Code_Desc>
+    <Quote_SlsTeamIN>STFR002</Quote_SlsTeamIN>
+    <Quote_Material>Y1270458</Quote_Material>
+    <Quote_Material_Desc>DURASTRIPE MULTIFLEX CTC 5CMX30M WHITE</Quote_Material_Desc>
+    <Quote_Mat_Entrd>DURA50 BLC</Quote_Mat_Entrd>
+    <Product_Line_Desc>DM SAFETY PRODUCTS</Product_Line_Desc>
+    <Product_Family_Desc>DM HAZCOM STATIONS &amp; TRAINING</Product_Family_Desc>
+    <Quote_Discount>0.00</Quote_Discount>
+    <Quote_Net_Sales>2490.00</Quote_Net_Sales>
+    <Quote_Freight>0.00</Quote_Freight>
+    <Quote_Cost>1380.30</Quote_Cost>
+    <Surname>VOIRIN</Surname>
+    <Firstname>PATRICK</Firstname>
+    <Quote_Doc_createdon>2011-03-15T00:00:00+08:00</Quote_Doc_createdon>
+    <Quote_Doc_Create_Time>PT7H9M32S</Quote_Doc_Create_Time>
+    <quote_sales_doc>5478</quote_sales_doc>
+    <quote_cost_doc>3226.38</quote_cost_doc>
+    <Quote_GM_percent>0.41102957283680175</Quote_GM_percent>
+    <DM_Product_Line_Desc>DM SAFETY PRODUCTS</DM_Product_Line_Desc>
+    <Quote_Doc_Reason_Code_Desc> Quote -  Price &amp; Availability</Quote_Doc_Reason_Code_Desc>
+    <Status>Not Converted</Status>
+    <tag>New Contact at Existing Site</tag>
+    <num_quotes_contact>2</num_quotes_contact>
+    <num_quotes_conv_contact>0</num_quotes_conv_contact>
+    <percent_conversion_cont>0</percent_conversion_cont>
+    <num_quotes_site>4</num_quotes_site>
+    <num_quotes_conv_site>1</num_quotes_conv_site>
+    <percent_conversion_site>0.25</percent_conversion_site>
+    <Quote_Bucket>g. $ 5,000+</Quote_Bucket>
+    <Hist_Perc_Conv>0.11864406779661017</Hist_Perc_Conv>
+    <Hist_Num_Quotes>59</Hist_Num_Quotes>
+    <Hist_Num_Quotes_Conv>7</Hist_Num_Quotes_Conv>
+    <buyerct_SVR>9455326</buyerct_SVR>
+    <ave_quote_disc>0.19536354085977692</ave_quote_disc>
+    <ave_order_disc>0.128562199119448</ave_order_disc>
+  </Table1>
+  <Table1>
+    <Quote_Doc_No>0022908058</Quote_Doc_No>
+    <Quote_Line>10</Quote_Line>
+    <Quote_Date>2012-09-21T00:00:00+08:00</Quote_Date>
+    <Quote_Created_By>DUVINAVA</Quote_Created_By>
+    <Quote_Create_Time>PT3H5M2S</Quote_Create_Time>
+    <Quote_PO_Type>EML</Quote_PO_Type>
+    <Quote_PO_Type_Desc>E-Mail</Quote_PO_Type_Desc>
+    <Quote_Item_Categ_Desc>Standard item</Quote_Item_Categ_Desc>
+    <Quote_Reason_Code>010</Quote_Reason_Code>
+    <Quote_Reason_Code_Desc> Quote -  Price &amp; Availability</Quote_Reason_Code_Desc>
+    <Quote_SlsTeamIN>STFR020</Quote_SlsTeamIN>
+    <Quote_Material>Y1274387</Quote_Material>
+    <Quote_Material_Desc>TABLEAU 3 EN 1 MOBILE 1200X750</Quote_Material_Desc>
+    <Quote_Mat_Entrd>KSTM</Quote_Mat_Entrd>
+    <Product_Line_Desc>DM OFFICE SIGNS</Product_Line_Desc>
+    <Product_Family_Desc>DM SIGN FRAMES &amp; HOLDERS</Product_Family_Desc>
+    <Quote_Discount>0.00</Quote_Discount>
+    <Quote_Net_Sales>399.58</Quote_Net_Sales>
+    <Quote_Freight>25.30</Quote_Freight>
+    <Quote_Cost>178.72</Quote_Cost>
+    <Surname>VOIRIN</Surname>
+    <Firstname>PATRICK</Firstname>
+    <Quote_Doc_createdon>2012-09-21T00:00:00+08:00</Quote_Doc_createdon>
+    <Quote_Doc_Create_Time>PT3H4M25S</Quote_Doc_Create_Time>
+    <quote_sales_doc>472.30999999999995</quote_sales_doc>
+    <quote_cost_doc>220.37</quote_cost_doc>
+    <Quote_GM_percent>0.53342084647794874</Quote_GM_percent>
+    <DM_Product_Line_Desc>DM OFFICE SIGNS</DM_Product_Line_Desc>
+    <Quote_Doc_Reason_Code_Desc> Quote -  Price &amp; Availability</Quote_Doc_Reason_Code_Desc>
+    <Status>Not Converted</Status>
+    <tag>New Contact at Existing Site</tag>
+    <num_quotes_contact>2</num_quotes_contact>
+    <num_quotes_conv_contact>0</num_quotes_conv_contact>
+    <percent_conversion_cont>0</percent_conversion_cont>
+    <num_quotes_site>4</num_quotes_site>
+    <num_quotes_conv_site>1</num_quotes_conv_site>
+    <percent_conversion_site>0.25</percent_conversion_site>
+    <Quote_Bucket>b. $ 251-500</Quote_Bucket>
+    <Hist_Perc_Conv>0.46491228070175439</Hist_Perc_Conv>
+    <Hist_Num_Quotes>114</Hist_Num_Quotes>
+    <Hist_Num_Quotes_Conv>53</Hist_Num_Quotes_Conv>
+    <buyerct_SVR>9455326</buyerct_SVR>
+    <ave_quote_disc>0.022561444411567547</ave_quote_disc>
+    <ave_order_disc>0.022215111417054498</ave_order_disc>
+  </Table1>
+</NewDataSet>

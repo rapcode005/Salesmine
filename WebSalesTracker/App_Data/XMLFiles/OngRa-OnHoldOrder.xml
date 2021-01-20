@@ -1,0 +1,1462 @@
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="salesteam_ID" type="xs:string" minOccurs="0" />
+                <xs:element name="customer" type="xs:string" minOccurs="0" />
+                <xs:element name="createdon" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="doc_number" type="xs:string" minOccurs="0" />
+                <xs:element name="header_del_block_desc" type="xs:string" minOccurs="0" />
+                <xs:element name="s_ord_item" type="xs:decimal" minOccurs="0" />
+                <xs:element name="material" type="xs:string" minOccurs="0" />
+                <xs:element name="mat_entrd" type="xs:string" minOccurs="0" />
+                <xs:element name="net_value" type="xs:decimal" minOccurs="0" />
+                <xs:element name="item_del_block_desc" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <salesteam_ID>KAMUK001</salesteam_ID>
+    <customer>0006164271</customer>
+    <createdon>2014-12-16T00:00:00+08:00</createdon>
+    <doc_number>0018087816</doc_number>
+    <header_del_block_desc>Acct Rev in Prog NoA</header_del_block_desc>
+    <s_ord_item>10</s_ord_item>
+    <material>Y3984381</material>
+    <mat_entrd>FAD0067</mat_entrd>
+    <net_value>880.00</net_value>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK005</salesteam_ID>
+    <customer>0001611897</customer>
+    <createdon>2014-12-16T00:00:00+08:00</createdon>
+    <doc_number>WK00023366</doc_number>
+    <s_ord_item>20</s_ord_item>
+    <material>Y2718723</material>
+    <mat_entrd>Z1260</mat_entrd>
+    <net_value>0.00</net_value>
+    <item_del_block_desc>High Risk Item   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK006</salesteam_ID>
+    <customer>0001972935</customer>
+    <createdon>2014-12-16T00:00:00+08:00</createdon>
+    <doc_number>0018087491</doc_number>
+    <s_ord_item>30</s_ord_item>
+    <material>Y1632757</material>
+    <mat_entrd>Z1175</mat_entrd>
+    <net_value>0.00</net_value>
+    <item_del_block_desc>High Risk Item   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK006</salesteam_ID>
+    <customer>0004859391</customer>
+    <createdon>2014-12-16T00:00:00+08:00</createdon>
+    <doc_number>0018086008</doc_number>
+    <s_ord_item>30</s_ord_item>
+    <material>Y1632757</material>
+    <mat_entrd>Z1175</mat_entrd>
+    <net_value>0.00</net_value>
+    <item_del_block_desc>High Risk Item   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK001</salesteam_ID>
+    <customer>0001961535</customer>
+    <createdon>2014-12-15T00:00:00+08:00</createdon>
+    <doc_number>0023862423</doc_number>
+    <s_ord_item>50</s_ord_item>
+    <material>Y438225</material>
+    <mat_entrd>AH</mat_entrd>
+    <net_value>0.00</net_value>
+    <item_del_block_desc>Inv Dep Qty Exceeded</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK003</salesteam_ID>
+    <customer>0001772058</customer>
+    <createdon>2014-12-15T00:00:00+08:00</createdon>
+    <doc_number>0018079375</doc_number>
+    <s_ord_item>30</s_ord_item>
+    <material>Y4038872</material>
+    <mat_entrd>Z1355</mat_entrd>
+    <net_value>0.00</net_value>
+    <item_del_block_desc>High Risk Item   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK004</salesteam_ID>
+    <customer>0002130659</customer>
+    <createdon>2014-12-15T00:00:00+08:00</createdon>
+    <doc_number>0018079883</doc_number>
+    <header_del_block_desc>Past Due/Contact Cus</header_del_block_desc>
+    <s_ord_item>10</s_ord_item>
+    <material>Y977748</material>
+    <mat_entrd>JAN1156</mat_entrd>
+    <net_value>132.95</net_value>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK005</salesteam_ID>
+    <customer>0001783059</customer>
+    <createdon>2014-12-15T00:00:00+08:00</createdon>
+    <doc_number>0018079527</doc_number>
+    <header_del_block_desc>Past Due/Contact Cus</header_del_block_desc>
+    <s_ord_item>10</s_ord_item>
+    <material>Y550835</material>
+    <mat_entrd>HLG14</mat_entrd>
+    <net_value>305.95</net_value>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK005</salesteam_ID>
+    <customer>0001814101</customer>
+    <createdon>2014-12-15T00:00:00+08:00</createdon>
+    <doc_number>0018079240</doc_number>
+    <s_ord_item>30</s_ord_item>
+    <material>Y2718723</material>
+    <mat_entrd>Z1260</mat_entrd>
+    <net_value>0.00</net_value>
+    <item_del_block_desc>High Risk Item   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK005</salesteam_ID>
+    <customer>0001814101</customer>
+    <createdon>2014-12-15T00:00:00+08:00</createdon>
+    <doc_number>0018079244</doc_number>
+    <s_ord_item>20</s_ord_item>
+    <material>Y2718723</material>
+    <mat_entrd>Z1260</mat_entrd>
+    <net_value>0.00</net_value>
+    <item_del_block_desc>High Risk Item   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK005</salesteam_ID>
+    <customer>0001814101</customer>
+    <createdon>2014-12-15T00:00:00+08:00</createdon>
+    <doc_number>0018079250</doc_number>
+    <s_ord_item>20</s_ord_item>
+    <material>Y2718723</material>
+    <mat_entrd>Z1260</mat_entrd>
+    <net_value>0.00</net_value>
+    <item_del_block_desc>High Risk Item   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK006</salesteam_ID>
+    <customer>0001847166</customer>
+    <createdon>2014-12-15T00:00:00+08:00</createdon>
+    <doc_number>0018079996</doc_number>
+    <s_ord_item>10</s_ord_item>
+    <material>Y1256760</material>
+    <mat_entrd>WSS4</mat_entrd>
+    <net_value>399.00</net_value>
+    <item_del_block_desc>Inv Dep Qty Exceeded</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK006</salesteam_ID>
+    <customer>0001847166</customer>
+    <createdon>2014-12-15T00:00:00+08:00</createdon>
+    <doc_number>0018079996</doc_number>
+    <s_ord_item>30</s_ord_item>
+    <material>Y2475814</material>
+    <mat_entrd>Z1240</mat_entrd>
+    <net_value>0.00</net_value>
+    <item_del_block_desc>High Risk Item   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK006</salesteam_ID>
+    <customer>0003139030</customer>
+    <createdon>2014-12-15T00:00:00+08:00</createdon>
+    <doc_number>0018081073</doc_number>
+    <header_del_block_desc>Web Order Review NoA</header_del_block_desc>
+    <s_ord_item>10</s_ord_item>
+    <material>Y1340011</material>
+    <mat_entrd>HZ155ACSAV</mat_entrd>
+    <net_value>35.95</net_value>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK006</salesteam_ID>
+    <customer>0006926390</customer>
+    <createdon>2014-12-15T00:00:00+08:00</createdon>
+    <doc_number>0018080067</doc_number>
+    <s_ord_item>10</s_ord_item>
+    <material>Y644305</material>
+    <mat_entrd>ETO SL FLE</mat_entrd>
+    <net_value>116.87</net_value>
+    <item_del_block_desc>Proof Approval   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK006</salesteam_ID>
+    <customer>0001836084</customer>
+    <createdon>2014-12-12T00:00:00+08:00</createdon>
+    <doc_number>0018075176</doc_number>
+    <header_del_block_desc>Past Due/Contact Cus</header_del_block_desc>
+    <s_ord_item>10</s_ord_item>
+    <material>Y916324</material>
+    <mat_entrd>WOR2371</mat_entrd>
+    <net_value>1074.00</net_value>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK006</salesteam_ID>
+    <customer>0001836084</customer>
+    <createdon>2014-12-12T00:00:00+08:00</createdon>
+    <doc_number>0018075176</doc_number>
+    <header_del_block_desc>Past Due/Contact Cus</header_del_block_desc>
+    <s_ord_item>20</s_ord_item>
+    <material>Y916315</material>
+    <mat_entrd>WOR2368</mat_entrd>
+    <net_value>297.00</net_value>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK001</salesteam_ID>
+    <customer>0005869159</customer>
+    <createdon>2014-12-12T00:00:00+08:00</createdon>
+    <doc_number>0018075870</doc_number>
+    <s_ord_item>130</s_ord_item>
+    <material>Y1632759</material>
+    <mat_entrd>Z1150</mat_entrd>
+    <net_value>0.00</net_value>
+    <item_del_block_desc>High Risk Item   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK002</salesteam_ID>
+    <customer>0006012765</customer>
+    <createdon>2014-12-12T00:00:00+08:00</createdon>
+    <doc_number>WK00023205</doc_number>
+    <header_del_block_desc>Proof Creation   NoA</header_del_block_desc>
+    <s_ord_item>10</s_ord_item>
+    <material>Y456314</material>
+    <mat_entrd>TEDRGB1</mat_entrd>
+    <net_value>531.00</net_value>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK001</salesteam_ID>
+    <customer>0007126153</customer>
+    <createdon>2014-12-11T00:00:00+08:00</createdon>
+    <doc_number>WK00023161</doc_number>
+    <header_del_block_desc>Proof Creation   NoA</header_del_block_desc>
+    <s_ord_item>10</s_ord_item>
+    <material>Y4084788</material>
+    <mat_entrd>CFG2</mat_entrd>
+    <net_value>31.50</net_value>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK001</salesteam_ID>
+    <customer>0007126153</customer>
+    <createdon>2014-12-11T00:00:00+08:00</createdon>
+    <doc_number>WK00023161</doc_number>
+    <header_del_block_desc>Proof Creation   NoA</header_del_block_desc>
+    <s_ord_item>20</s_ord_item>
+    <material>Y4084788</material>
+    <mat_entrd>CFG2</mat_entrd>
+    <net_value>31.50</net_value>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK002</salesteam_ID>
+    <customer>0001093637</customer>
+    <createdon>2014-12-11T00:00:00+08:00</createdon>
+    <doc_number>0018068218</doc_number>
+    <s_ord_item>10</s_ord_item>
+    <material>Y504399</material>
+    <mat_entrd>FRE78</mat_entrd>
+    <net_value>78.45</net_value>
+    <item_del_block_desc>Inv Dep Qty Exceeded</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK004</salesteam_ID>
+    <customer>0005815337</customer>
+    <createdon>2014-12-11T00:00:00+08:00</createdon>
+    <doc_number>0018068930</doc_number>
+    <header_del_block_desc>Await Verif      NoA</header_del_block_desc>
+    <s_ord_item>10</s_ord_item>
+    <material>Y924124</material>
+    <mat_entrd>HLG95</mat_entrd>
+    <net_value>1644.00</net_value>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK005</salesteam_ID>
+    <customer>0001783059</customer>
+    <createdon>2014-12-11T00:00:00+08:00</createdon>
+    <doc_number>0018068059</doc_number>
+    <header_del_block_desc>Past Due/Contact Cus</header_del_block_desc>
+    <s_ord_item>10</s_ord_item>
+    <material>Y929451</material>
+    <mat_entrd>GHSR21CR</mat_entrd>
+    <net_value>209.90</net_value>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK004</salesteam_ID>
+    <customer>0001069297</customer>
+    <createdon>2014-12-10T00:00:00+08:00</createdon>
+    <doc_number>0018061870</doc_number>
+    <header_del_block_desc>Past Due/Contact Cus</header_del_block_desc>
+    <s_ord_item>10</s_ord_item>
+    <material>Y1427576</material>
+    <mat_entrd>6PML015A4RP</mat_entrd>
+    <net_value>81.95</net_value>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK004</salesteam_ID>
+    <customer>0001069297</customer>
+    <createdon>2014-12-10T00:00:00+08:00</createdon>
+    <doc_number>0018061870</doc_number>
+    <header_del_block_desc>Past Due/Contact Cus</header_del_block_desc>
+    <s_ord_item>20</s_ord_item>
+    <material>Y1342901</material>
+    <mat_entrd>ML015A4RP</mat_entrd>
+    <net_value>0.00</net_value>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK004</salesteam_ID>
+    <customer>0001192989</customer>
+    <createdon>2014-12-10T00:00:00+08:00</createdon>
+    <doc_number>0018061991</doc_number>
+    <s_ord_item>10</s_ord_item>
+    <material>Y644302</material>
+    <mat_entrd>ETO SL MIM</mat_entrd>
+    <net_value>78.11</net_value>
+    <item_del_block_desc>Proof Creation   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK003</salesteam_ID>
+    <customer>0002184112</customer>
+    <createdon>2014-12-09T00:00:00+08:00</createdon>
+    <doc_number>0018054396</doc_number>
+    <s_ord_item>10</s_ord_item>
+    <material>Y644302</material>
+    <mat_entrd>ETO SL MIM</mat_entrd>
+    <net_value>96.91</net_value>
+    <item_del_block_desc>Proof Approval   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK001</salesteam_ID>
+    <customer>0002942336</customer>
+    <createdon>2014-12-08T00:00:00+08:00</createdon>
+    <doc_number>0018048353</doc_number>
+    <header_del_block_desc>Past Due/Contact Cus</header_del_block_desc>
+    <s_ord_item>20</s_ord_item>
+    <material>Y743823</material>
+    <mat_entrd>MGGN709B</mat_entrd>
+    <net_value>577.36</net_value>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK005</salesteam_ID>
+    <customer>0001957191</customer>
+    <createdon>2014-12-05T00:00:00+08:00</createdon>
+    <doc_number>0018041104</doc_number>
+    <header_del_block_desc>Web Order Review NoA</header_del_block_desc>
+    <s_ord_item>10</s_ord_item>
+    <material>Y916285</material>
+    <mat_entrd>WOR2428</mat_entrd>
+    <net_value>86.94</net_value>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK005</salesteam_ID>
+    <customer>0001957191</customer>
+    <createdon>2014-12-05T00:00:00+08:00</createdon>
+    <doc_number>0018041104</doc_number>
+    <header_del_block_desc>Web Order Review NoA</header_del_block_desc>
+    <s_ord_item>20</s_ord_item>
+    <material>Y1219679</material>
+    <mat_entrd>MHA472</mat_entrd>
+    <net_value>47.41</net_value>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK002</salesteam_ID>
+    <customer>0005433136</customer>
+    <createdon>2014-12-03T00:00:00+08:00</createdon>
+    <doc_number>0018030622</doc_number>
+    <s_ord_item>50</s_ord_item>
+    <material>Y644301</material>
+    <mat_entrd>ETO SL GER</mat_entrd>
+    <net_value>68.64</net_value>
+    <item_del_block_desc>Proof Approval   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK002</salesteam_ID>
+    <customer>0005433136</customer>
+    <createdon>2014-12-03T00:00:00+08:00</createdon>
+    <doc_number>0018030622</doc_number>
+    <s_ord_item>60</s_ord_item>
+    <material>Y1444939</material>
+    <mat_entrd>CUST3RP</mat_entrd>
+    <net_value>28.00</net_value>
+    <item_del_block_desc>Proof Approval   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK002</salesteam_ID>
+    <customer>0005433136</customer>
+    <createdon>2014-12-03T00:00:00+08:00</createdon>
+    <doc_number>0018030622</doc_number>
+    <s_ord_item>70</s_ord_item>
+    <material>Y1444939</material>
+    <mat_entrd>CUST3RP</mat_entrd>
+    <net_value>141.00</net_value>
+    <item_del_block_desc>Proof Approval   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK001</salesteam_ID>
+    <customer>0001756548</customer>
+    <createdon>2014-11-28T00:00:00+08:00</createdon>
+    <doc_number>0018017283</doc_number>
+    <s_ord_item>10</s_ord_item>
+    <material>Y644301</material>
+    <mat_entrd>ETO SL GER</mat_entrd>
+    <net_value>42.15</net_value>
+    <item_del_block_desc>Proof Approval   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK005</salesteam_ID>
+    <customer>0007043865</customer>
+    <createdon>2014-11-28T00:00:00+08:00</createdon>
+    <doc_number>0018016409</doc_number>
+    <s_ord_item>10</s_ord_item>
+    <material>Y1444939</material>
+    <mat_entrd>GENE03RP</mat_entrd>
+    <net_value>340.00</net_value>
+    <item_del_block_desc>Proof Approval   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK005</salesteam_ID>
+    <customer>0007043865</customer>
+    <createdon>2014-11-28T00:00:00+08:00</createdon>
+    <doc_number>0018016409</doc_number>
+    <s_ord_item>20</s_ord_item>
+    <material>Y1444939</material>
+    <mat_entrd>GENE06RP</mat_entrd>
+    <net_value>87.45</net_value>
+    <item_del_block_desc>Proof Approval   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK005</salesteam_ID>
+    <customer>0007043865</customer>
+    <createdon>2014-11-28T00:00:00+08:00</createdon>
+    <doc_number>0018016409</doc_number>
+    <s_ord_item>40</s_ord_item>
+    <material>Y644302</material>
+    <mat_entrd>ETO SL MIM</mat_entrd>
+    <net_value>158.30</net_value>
+    <item_del_block_desc>Proof Approval   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK002</salesteam_ID>
+    <customer>0002156259</customer>
+    <createdon>2014-11-25T00:00:00+08:00</createdon>
+    <doc_number>0018002857</doc_number>
+    <s_ord_item>10</s_ord_item>
+    <material>Y456302</material>
+    <mat_entrd>DRG3</mat_entrd>
+    <net_value>500.95</net_value>
+    <item_del_block_desc>Proof Approval   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK004</salesteam_ID>
+    <customer>0001958017</customer>
+    <createdon>2014-11-25T00:00:00+08:00</createdon>
+    <doc_number>0023840400</doc_number>
+    <s_ord_item>10</s_ord_item>
+    <material>Y456974</material>
+    <mat_entrd>CFG9</mat_entrd>
+    <net_value>39.45</net_value>
+    <item_del_block_desc>Proof Creation   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK003</salesteam_ID>
+    <customer>0007199173</customer>
+    <createdon>2014-11-24T00:00:00+08:00</createdon>
+    <doc_number>0017995577</doc_number>
+    <header_del_block_desc>Past Due/Contact Cus</header_del_block_desc>
+    <s_ord_item>10</s_ord_item>
+    <material>Y513225</material>
+    <mat_entrd>TRAF572</mat_entrd>
+    <net_value>408.62</net_value>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK001</salesteam_ID>
+    <customer>0002942336</customer>
+    <createdon>2014-11-21T00:00:00+08:00</createdon>
+    <doc_number>0017990313</doc_number>
+    <header_del_block_desc>Past Due/Contact Cus</header_del_block_desc>
+    <s_ord_item>10</s_ord_item>
+    <material>Y4026949</material>
+    <mat_entrd>TRF0284</mat_entrd>
+    <net_value>81.21</net_value>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK001</salesteam_ID>
+    <customer>0002942336</customer>
+    <createdon>2014-11-21T00:00:00+08:00</createdon>
+    <doc_number>0017990313</doc_number>
+    <header_del_block_desc>Past Due/Contact Cus</header_del_block_desc>
+    <s_ord_item>20</s_ord_item>
+    <material>Y1307732</material>
+    <mat_entrd>PED80</mat_entrd>
+    <net_value>0.00</net_value>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK001</salesteam_ID>
+    <customer>0002942336</customer>
+    <createdon>2014-11-21T00:00:00+08:00</createdon>
+    <doc_number>0017990313</doc_number>
+    <header_del_block_desc>Past Due/Contact Cus</header_del_block_desc>
+    <s_ord_item>30</s_ord_item>
+    <material>Y742702</material>
+    <mat_entrd>PSX8ZA</mat_entrd>
+    <net_value>0.00</net_value>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK001</salesteam_ID>
+    <customer>0002942336</customer>
+    <createdon>2014-11-21T00:00:00+08:00</createdon>
+    <doc_number>0017990313</doc_number>
+    <header_del_block_desc>Past Due/Contact Cus</header_del_block_desc>
+    <s_ord_item>40</s_ord_item>
+    <material>Y742703</material>
+    <mat_entrd>PSX9ZA</mat_entrd>
+    <net_value>0.00</net_value>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK001</salesteam_ID>
+    <customer>0002942336</customer>
+    <createdon>2014-11-21T00:00:00+08:00</createdon>
+    <doc_number>0017990313</doc_number>
+    <header_del_block_desc>Past Due/Contact Cus</header_del_block_desc>
+    <s_ord_item>50</s_ord_item>
+    <material>Y4024880</material>
+    <mat_entrd>TRF0367BHPMP</mat_entrd>
+    <net_value>90.24</net_value>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK002</salesteam_ID>
+    <customer>0001700544</customer>
+    <createdon>2014-11-20T00:00:00+08:00</createdon>
+    <doc_number>0017983095</doc_number>
+    <s_ord_item>30</s_ord_item>
+    <material>Y644301</material>
+    <mat_entrd>ETO SL GER</mat_entrd>
+    <net_value>244.95</net_value>
+    <item_del_block_desc>Proof Approval   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK003</salesteam_ID>
+    <customer>0005788066</customer>
+    <createdon>2014-11-19T00:00:00+08:00</createdon>
+    <doc_number>0017978089</doc_number>
+    <s_ord_item>70</s_ord_item>
+    <material>Y1632757</material>
+    <mat_entrd>Z1175</mat_entrd>
+    <net_value>0.00</net_value>
+    <item_del_block_desc>High Risk Item   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK003</salesteam_ID>
+    <customer>0001786605</customer>
+    <createdon>2014-11-18T00:00:00+08:00</createdon>
+    <doc_number>0017969181</doc_number>
+    <s_ord_item>10</s_ord_item>
+    <material>Y747693</material>
+    <mat_entrd>TC8</mat_entrd>
+    <net_value>65.70</net_value>
+    <item_del_block_desc>High Risk Item   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK005</salesteam_ID>
+    <customer>0002034856</customer>
+    <createdon>2014-11-18T00:00:00+08:00</createdon>
+    <doc_number>0017969812</doc_number>
+    <s_ord_item>20</s_ord_item>
+    <material>Y1632757</material>
+    <mat_entrd>Z1175</mat_entrd>
+    <net_value>0.00</net_value>
+    <item_del_block_desc>High Risk Item   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK006</salesteam_ID>
+    <customer>0004859391</customer>
+    <createdon>2014-11-12T00:00:00+08:00</createdon>
+    <doc_number>0017946769</doc_number>
+    <s_ord_item>30</s_ord_item>
+    <material>Y1632757</material>
+    <mat_entrd>Z1175</mat_entrd>
+    <net_value>0.00</net_value>
+    <item_del_block_desc>High Risk Item   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK006</salesteam_ID>
+    <customer>0006916401</customer>
+    <createdon>2014-11-11T00:00:00+08:00</createdon>
+    <doc_number>0017942938</doc_number>
+    <s_ord_item>30</s_ord_item>
+    <material>Y2094460</material>
+    <mat_entrd>Y2094460</mat_entrd>
+    <net_value>384.00</net_value>
+    <item_del_block_desc>Incomp/Cust      NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK003</salesteam_ID>
+    <customer>0001638074</customer>
+    <createdon>2014-11-10T00:00:00+08:00</createdon>
+    <doc_number>0023821376</doc_number>
+    <s_ord_item>20</s_ord_item>
+    <material>Y644302</material>
+    <mat_entrd>ETO SL MIM</mat_entrd>
+    <net_value>314.85</net_value>
+    <item_del_block_desc>Proof Creation   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK005</salesteam_ID>
+    <customer>0007177774</customer>
+    <createdon>2014-11-05T00:00:00+08:00</createdon>
+    <doc_number>0017919806</doc_number>
+    <s_ord_item>20</s_ord_item>
+    <material>Y1449296</material>
+    <mat_entrd>Z1110</mat_entrd>
+    <net_value>0.00</net_value>
+    <item_del_block_desc>High Risk Item   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK003</salesteam_ID>
+    <customer>0001779072</customer>
+    <createdon>2014-10-22T00:00:00+08:00</createdon>
+    <doc_number>0017867380</doc_number>
+    <s_ord_item>10</s_ord_item>
+    <material>Y1337457</material>
+    <mat_entrd>FR012AXARP</mat_entrd>
+    <net_value>59.39</net_value>
+    <item_del_block_desc>Inv Dep Qty Exceeded</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK006</salesteam_ID>
+    <customer>0001762311</customer>
+    <createdon>2014-10-17T00:00:00+08:00</createdon>
+    <doc_number>0017847018</doc_number>
+    <s_ord_item>10</s_ord_item>
+    <material>Y644302</material>
+    <mat_entrd>ETO SL MIM</mat_entrd>
+    <net_value>36.11</net_value>
+    <item_del_block_desc>Proof Approval   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK006</salesteam_ID>
+    <customer>0001762311</customer>
+    <createdon>2014-10-17T00:00:00+08:00</createdon>
+    <doc_number>0017847018</doc_number>
+    <s_ord_item>20</s_ord_item>
+    <material>Y644302</material>
+    <mat_entrd>ETO SL MIM</mat_entrd>
+    <net_value>33.36</net_value>
+    <item_del_block_desc>Proof Approval   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK003</salesteam_ID>
+    <customer>0001525186</customer>
+    <createdon>2014-10-15T00:00:00+08:00</createdon>
+    <doc_number>0017833806</doc_number>
+    <s_ord_item>10</s_ord_item>
+    <material>Y508110</material>
+    <mat_entrd>WBUF1</mat_entrd>
+    <net_value>43.93</net_value>
+    <item_del_block_desc>Inv Dep Qty Exceeded</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK004</salesteam_ID>
+    <customer>0002223598</customer>
+    <createdon>2014-10-13T00:00:00+08:00</createdon>
+    <doc_number>0017823101</doc_number>
+    <s_ord_item>20</s_ord_item>
+    <material>Y644272</material>
+    <mat_entrd>ETO-GI</mat_entrd>
+    <net_value>630.35</net_value>
+    <item_del_block_desc>Proof Approval   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK002</salesteam_ID>
+    <customer>0002093789</customer>
+    <createdon>2014-10-09T00:00:00+08:00</createdon>
+    <doc_number>0017812234</doc_number>
+    <s_ord_item>10</s_ord_item>
+    <material>Y644301</material>
+    <mat_entrd>ETO SL GER</mat_entrd>
+    <net_value>110.27</net_value>
+    <item_del_block_desc>Proof Approval   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK005</salesteam_ID>
+    <customer>0001897110</customer>
+    <createdon>2014-10-08T00:00:00+08:00</createdon>
+    <doc_number>0017804931</doc_number>
+    <s_ord_item>40</s_ord_item>
+    <material>Y3979144</material>
+    <mat_entrd>ETO SL HOT</mat_entrd>
+    <net_value>108.72</net_value>
+    <item_del_block_desc>Proof Approval   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK006</salesteam_ID>
+    <customer>0002156518</customer>
+    <createdon>2014-09-19T00:00:00+08:00</createdon>
+    <doc_number>0017727720</doc_number>
+    <s_ord_item>10</s_ord_item>
+    <material>Y1444939</material>
+    <mat_entrd>CUST2SAV</mat_entrd>
+    <net_value>325.00</net_value>
+    <item_del_block_desc>Proof Approval   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK006</salesteam_ID>
+    <customer>0002156518</customer>
+    <createdon>2014-09-19T00:00:00+08:00</createdon>
+    <doc_number>0017727720</doc_number>
+    <s_ord_item>20</s_ord_item>
+    <material>Y1444939</material>
+    <mat_entrd>CUST2SAV</mat_entrd>
+    <net_value>325.00</net_value>
+    <item_del_block_desc>Proof Approval   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK006</salesteam_ID>
+    <customer>0002156518</customer>
+    <createdon>2014-09-19T00:00:00+08:00</createdon>
+    <doc_number>0017727720</doc_number>
+    <s_ord_item>30</s_ord_item>
+    <material>Y1444939</material>
+    <mat_entrd>GENE02SAV</mat_entrd>
+    <net_value>21.00</net_value>
+    <item_del_block_desc>Proof Approval   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK006</salesteam_ID>
+    <customer>0002156518</customer>
+    <createdon>2014-09-19T00:00:00+08:00</createdon>
+    <doc_number>0017727720</doc_number>
+    <s_ord_item>40</s_ord_item>
+    <material>Y1444939</material>
+    <mat_entrd>GENE02SAV</mat_entrd>
+    <net_value>21.00</net_value>
+    <item_del_block_desc>Proof Approval   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK005</salesteam_ID>
+    <customer>0001840585</customer>
+    <createdon>2014-08-08T00:00:00+08:00</createdon>
+    <doc_number>0017561448</doc_number>
+    <s_ord_item>150</s_ord_item>
+    <material>Y503072</material>
+    <mat_entrd>JAN1031R</mat_entrd>
+    <net_value>105.72</net_value>
+    <item_del_block_desc>High Risk Item   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK004</salesteam_ID>
+    <customer>0001483641</customer>
+    <createdon>2014-08-08T00:00:00+08:00</createdon>
+    <doc_number>0017560981</doc_number>
+    <s_ord_item>10</s_ord_item>
+    <material>Y977177</material>
+    <mat_entrd>CAS856</mat_entrd>
+    <net_value>32.95</net_value>
+    <item_del_block_desc>Inv Dep Qty Exceeded</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK004</salesteam_ID>
+    <customer>0002075807</customer>
+    <createdon>2014-07-30T00:00:00+08:00</createdon>
+    <doc_number>0017525483</doc_number>
+    <header_del_block_desc>Incomp/Cust      NoA</header_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK003</salesteam_ID>
+    <customer>0001662571</customer>
+    <createdon>2014-07-23T00:00:00+08:00</createdon>
+    <doc_number>WK00016046</doc_number>
+    <s_ord_item>10</s_ord_item>
+    <material>Y456314</material>
+    <mat_entrd>TEDRGB1</mat_entrd>
+    <net_value>2087.10</net_value>
+    <item_del_block_desc>Proof Approval   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK005</salesteam_ID>
+    <customer>0001583269</customer>
+    <createdon>2014-07-21T00:00:00+08:00</createdon>
+    <doc_number>0023682581</doc_number>
+    <s_ord_item>10</s_ord_item>
+    <material>Y518779</material>
+    <mat_entrd>JAN360</mat_entrd>
+    <net_value>755.00</net_value>
+    <item_del_block_desc>High Risk Item   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK004</salesteam_ID>
+    <customer>0002200167</customer>
+    <createdon>2014-07-11T00:00:00+08:00</createdon>
+    <doc_number>0017453998</doc_number>
+    <s_ord_item>30</s_ord_item>
+    <material>Y3025906</material>
+    <mat_entrd>Z1305</mat_entrd>
+    <net_value>0.00</net_value>
+    <item_del_block_desc>High Risk Item   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK003</salesteam_ID>
+    <customer>0003111634</customer>
+    <createdon>2014-06-26T00:00:00+08:00</createdon>
+    <doc_number>0017395728</doc_number>
+    <s_ord_item>10</s_ord_item>
+    <material>Y1444939</material>
+    <mat_entrd>CUST2RP</mat_entrd>
+    <net_value>28.95</net_value>
+    <item_del_block_desc>Proof Approval   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK002</salesteam_ID>
+    <customer>0001486528</customer>
+    <createdon>2014-06-23T00:00:00+08:00</createdon>
+    <doc_number>0017378736</doc_number>
+    <s_ord_item>30</s_ord_item>
+    <material>Y2321832</material>
+    <mat_entrd>Z1215</mat_entrd>
+    <net_value>0.00</net_value>
+    <item_del_block_desc>High Risk Item   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK005</salesteam_ID>
+    <customer>0002482146</customer>
+    <createdon>2014-06-18T00:00:00+08:00</createdon>
+    <doc_number>0017362545</doc_number>
+    <s_ord_item>20</s_ord_item>
+    <material>Y4028473</material>
+    <mat_entrd>QTUK0202</mat_entrd>
+    <net_value>625.00</net_value>
+    <item_del_block_desc>Proof Approval   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK001</salesteam_ID>
+    <customer>0002500807</customer>
+    <createdon>2014-06-17T00:00:00+08:00</createdon>
+    <doc_number>0017355052</doc_number>
+    <s_ord_item>70</s_ord_item>
+    <material>Y2531375</material>
+    <mat_entrd>SG2</mat_entrd>
+    <net_value>461.04</net_value>
+    <item_del_block_desc>Proof Approval   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK001                   </salesteam_ID>
+    <customer>0001664862                    </customer>
+    <createdon>2014-06-13T00:00:00+08:00</createdon>
+    <doc_number>0017343912                    </doc_number>
+    <s_ord_item>10</s_ord_item>
+    <material>Y844878                                               </material>
+    <mat_entrd>ETO1041                                               </mat_entrd>
+    <net_value>53.66</net_value>
+    <item_del_block_desc>Proof Creation   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK003</salesteam_ID>
+    <customer>0001654183</customer>
+    <createdon>2014-06-13T00:00:00+08:00</createdon>
+    <doc_number>WK00014057</doc_number>
+    <s_ord_item>10</s_ord_item>
+    <material>Y457047</material>
+    <mat_entrd>FAST2</mat_entrd>
+    <net_value>830.50</net_value>
+    <item_del_block_desc>Proof Creation   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK003</salesteam_ID>
+    <customer>0003071536</customer>
+    <createdon>2014-06-11T00:00:00+08:00</createdon>
+    <doc_number>0017331696</doc_number>
+    <s_ord_item>90</s_ord_item>
+    <material>Y1449296</material>
+    <mat_entrd>Z1110</mat_entrd>
+    <net_value>0.00</net_value>
+    <item_del_block_desc>High Risk Item   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK005</salesteam_ID>
+    <customer>0001682816</customer>
+    <createdon>2014-06-06T00:00:00+08:00</createdon>
+    <doc_number>0017314074</doc_number>
+    <s_ord_item>20</s_ord_item>
+    <material>Y456302</material>
+    <mat_entrd>DRGB2</mat_entrd>
+    <net_value>479.85</net_value>
+    <item_del_block_desc>Proof Creation   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK003</salesteam_ID>
+    <customer>0001798281</customer>
+    <createdon>2014-06-04T00:00:00+08:00</createdon>
+    <doc_number>WK00013625</doc_number>
+    <s_ord_item>10</s_ord_item>
+    <material>Y456314</material>
+    <mat_entrd>TEDRGB2</mat_entrd>
+    <net_value>1159.50</net_value>
+    <item_del_block_desc>Proof Creation   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK006</salesteam_ID>
+    <customer>0007272425</customer>
+    <createdon>2014-05-29T00:00:00+08:00</createdon>
+    <doc_number>WK00013321</doc_number>
+    <s_ord_item>10</s_ord_item>
+    <material>Y503072</material>
+    <mat_entrd>JAN1031R</mat_entrd>
+    <net_value>99.95</net_value>
+    <item_del_block_desc>High Risk Item   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK005</salesteam_ID>
+    <customer>0000847720</customer>
+    <createdon>2014-05-27T00:00:00+08:00</createdon>
+    <doc_number>0017270120</doc_number>
+    <s_ord_item>90</s_ord_item>
+    <material>Y1542910</material>
+    <mat_entrd>Z1145</mat_entrd>
+    <net_value>0.00</net_value>
+    <item_del_block_desc>High Risk Item   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK001</salesteam_ID>
+    <customer>0002426922</customer>
+    <createdon>2014-05-22T00:00:00+08:00</createdon>
+    <doc_number>0017257852</doc_number>
+    <s_ord_item>110</s_ord_item>
+    <material>Y2718723</material>
+    <mat_entrd>Z1260</mat_entrd>
+    <net_value>0.00</net_value>
+    <item_del_block_desc>High Risk Item   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK003</salesteam_ID>
+    <customer>0004872060</customer>
+    <createdon>2014-05-14T00:00:00+08:00</createdon>
+    <doc_number>0017221050</doc_number>
+    <header_del_block_desc>Await Verif      NoA</header_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK001</salesteam_ID>
+    <customer>0002030920</customer>
+    <createdon>2014-05-02T00:00:00+08:00</createdon>
+    <doc_number>0017171326</doc_number>
+    <s_ord_item>20</s_ord_item>
+    <material>Y1542910</material>
+    <mat_entrd>Z1145</mat_entrd>
+    <net_value>0.00</net_value>
+    <item_del_block_desc>High Risk Item   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK005</salesteam_ID>
+    <customer>0006851350</customer>
+    <createdon>2014-05-02T00:00:00+08:00</createdon>
+    <doc_number>0017171798</doc_number>
+    <header_del_block_desc>Await Verif      NoA</header_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK006</salesteam_ID>
+    <customer>0007259109</customer>
+    <createdon>2014-04-30T00:00:00+08:00</createdon>
+    <doc_number>WK00011968</doc_number>
+    <s_ord_item>10</s_ord_item>
+    <material>Y456302</material>
+    <mat_entrd>DRGB1</mat_entrd>
+    <net_value>639.80</net_value>
+    <item_del_block_desc>Proof Approval   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK006</salesteam_ID>
+    <customer>0007259109</customer>
+    <createdon>2014-04-30T00:00:00+08:00</createdon>
+    <doc_number>WK00011968</doc_number>
+    <s_ord_item>20</s_ord_item>
+    <material>Y456302</material>
+    <mat_entrd>DRGB1</mat_entrd>
+    <net_value>359.90</net_value>
+    <item_del_block_desc>Proof Approval   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK006</salesteam_ID>
+    <customer>0001611614</customer>
+    <createdon>2014-04-28T00:00:00+08:00</createdon>
+    <doc_number>0023578711</doc_number>
+    <s_ord_item>10</s_ord_item>
+    <material>Y498575</material>
+    <mat_entrd>06317L</mat_entrd>
+    <net_value>14.45</net_value>
+    <item_del_block_desc>&lt; Min Qty Order  NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK005</salesteam_ID>
+    <customer>0006592186</customer>
+    <createdon>2014-04-16T00:00:00+08:00</createdon>
+    <doc_number>0017103580</doc_number>
+    <s_ord_item>50</s_ord_item>
+    <material>Y502022</material>
+    <mat_entrd>FD257</mat_entrd>
+    <net_value>22.67</net_value>
+    <item_del_block_desc>Inv Dep Qty Exceeded</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK005</salesteam_ID>
+    <customer>0006592186</customer>
+    <createdon>2014-04-16T00:00:00+08:00</createdon>
+    <doc_number>0017103580</doc_number>
+    <s_ord_item>60</s_ord_item>
+    <material>Y502019</material>
+    <mat_entrd>FD254</mat_entrd>
+    <net_value>0.00</net_value>
+    <item_del_block_desc>Inv Dep Qty Exceeded</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK006</salesteam_ID>
+    <customer>0007205413</customer>
+    <createdon>2014-04-16T00:00:00+08:00</createdon>
+    <doc_number>0017103381</doc_number>
+    <s_ord_item>190</s_ord_item>
+    <material>Y644301</material>
+    <mat_entrd>ETO SL GER</mat_entrd>
+    <net_value>22.65</net_value>
+    <item_del_block_desc>Proof Approval   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK006</salesteam_ID>
+    <customer>0001875455</customer>
+    <createdon>2014-04-11T00:00:00+08:00</createdon>
+    <doc_number>0017083491</doc_number>
+    <s_ord_item>30</s_ord_item>
+    <material>Y2475814</material>
+    <mat_entrd>Z1240</mat_entrd>
+    <net_value>0.00</net_value>
+    <item_del_block_desc>High Risk Item   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK002</salesteam_ID>
+    <customer>0002663934</customer>
+    <createdon>2014-04-09T00:00:00+08:00</createdon>
+    <doc_number>0017070291</doc_number>
+    <s_ord_item>20</s_ord_item>
+    <material>Y644272</material>
+    <mat_entrd>ETO-PP</mat_entrd>
+    <net_value>111.43</net_value>
+    <item_del_block_desc>Proof Creation   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK003</salesteam_ID>
+    <customer>0005380441</customer>
+    <createdon>2014-04-03T00:00:00+08:00</createdon>
+    <doc_number>0017044938</doc_number>
+    <s_ord_item>10</s_ord_item>
+    <material>Y844878</material>
+    <mat_entrd>ETO1041</mat_entrd>
+    <net_value>31.75</net_value>
+    <item_del_block_desc>Proof Approval   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK005</salesteam_ID>
+    <customer>0003078211</customer>
+    <createdon>2014-03-26T00:00:00+08:00</createdon>
+    <doc_number>0023538902</doc_number>
+    <s_ord_item>30</s_ord_item>
+    <material>Y236696</material>
+    <mat_entrd>BARR1</mat_entrd>
+    <net_value>0.00</net_value>
+    <item_del_block_desc>Inv Dep Qty Exceeded</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK001</salesteam_ID>
+    <customer>0002626078</customer>
+    <createdon>2014-03-25T00:00:00+08:00</createdon>
+    <doc_number>0017000194</doc_number>
+    <s_ord_item>10</s_ord_item>
+    <material>Y1333160</material>
+    <mat_entrd>DVB</mat_entrd>
+    <net_value>787.60</net_value>
+    <item_del_block_desc>Proof Approval   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK001</salesteam_ID>
+    <customer>0002508666</customer>
+    <createdon>2014-03-20T00:00:00+08:00</createdon>
+    <doc_number>0016978888</doc_number>
+    <s_ord_item>90</s_ord_item>
+    <material>Y3881196</material>
+    <mat_entrd>QTUK0027</mat_entrd>
+    <net_value>35.08</net_value>
+    <item_del_block_desc>Proof Creation   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK001</salesteam_ID>
+    <customer>0002508666</customer>
+    <createdon>2014-03-20T00:00:00+08:00</createdon>
+    <doc_number>0016978888</doc_number>
+    <s_ord_item>100</s_ord_item>
+    <material>Y3881197</material>
+    <mat_entrd>QTUK0028</mat_entrd>
+    <net_value>57.17</net_value>
+    <item_del_block_desc>Proof Creation   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK002</salesteam_ID>
+    <customer>0006943418</customer>
+    <createdon>2014-03-20T00:00:00+08:00</createdon>
+    <doc_number>0023530431</doc_number>
+    <s_ord_item>10</s_ord_item>
+    <material>Y644301</material>
+    <mat_entrd>ETO SL GER</mat_entrd>
+    <net_value>49.03</net_value>
+    <item_del_block_desc>Proof Approval   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK004</salesteam_ID>
+    <customer>0001658017</customer>
+    <createdon>2014-03-17T00:00:00+08:00</createdon>
+    <doc_number>0016955312</doc_number>
+    <header_del_block_desc>Await Verif      NoA</header_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK002</salesteam_ID>
+    <customer>0001523501</customer>
+    <createdon>2014-03-13T00:00:00+08:00</createdon>
+    <doc_number>0016943677</doc_number>
+    <s_ord_item>20</s_ord_item>
+    <material>Y644301</material>
+    <mat_entrd>ETO SL GER</mat_entrd>
+    <net_value>23.80</net_value>
+    <item_del_block_desc>Proof Approval   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK001</salesteam_ID>
+    <customer>0002508666</customer>
+    <createdon>2014-03-06T00:00:00+08:00</createdon>
+    <doc_number>0016908943</doc_number>
+    <s_ord_item>50</s_ord_item>
+    <material>Y3881196</material>
+    <mat_entrd>ETO-Y3881196</mat_entrd>
+    <net_value>59.94</net_value>
+    <item_del_block_desc>Proof Creation   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK001</salesteam_ID>
+    <customer>0002508666</customer>
+    <createdon>2014-03-06T00:00:00+08:00</createdon>
+    <doc_number>0016908943</doc_number>
+    <s_ord_item>60</s_ord_item>
+    <material>Y3881197</material>
+    <mat_entrd>ETO-Y3881197</mat_entrd>
+    <net_value>101.99</net_value>
+    <item_del_block_desc>Proof Creation   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK001</salesteam_ID>
+    <customer>0006862028</customer>
+    <createdon>2014-02-27T00:00:00+08:00</createdon>
+    <doc_number>0016875463</doc_number>
+    <s_ord_item>20</s_ord_item>
+    <material>Y644301</material>
+    <mat_entrd>ETO SL GER</mat_entrd>
+    <net_value>48.30</net_value>
+    <item_del_block_desc>Proof Approval   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK002</salesteam_ID>
+    <customer>0001095139</customer>
+    <createdon>2014-02-25T00:00:00+08:00</createdon>
+    <doc_number>0016863552</doc_number>
+    <s_ord_item>20</s_ord_item>
+    <material>Y644302</material>
+    <mat_entrd>ETO SL MIM</mat_entrd>
+    <net_value>33.00</net_value>
+    <item_del_block_desc>Proof Approval   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK001</salesteam_ID>
+    <customer>0007167620</customer>
+    <createdon>2014-02-19T00:00:00+08:00</createdon>
+    <doc_number>0023490630</doc_number>
+    <s_ord_item>90</s_ord_item>
+    <material>Y3326922</material>
+    <mat_entrd>JAN0040</mat_entrd>
+    <net_value>26.97</net_value>
+    <item_del_block_desc>&lt; Min Qty Order  NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK002</salesteam_ID>
+    <customer>0007119118</customer>
+    <createdon>2014-02-10T00:00:00+08:00</createdon>
+    <doc_number>0016787246</doc_number>
+    <s_ord_item>70</s_ord_item>
+    <material>Y3326922</material>
+    <mat_entrd>JAN0040</mat_entrd>
+    <net_value>9.99</net_value>
+    <item_del_block_desc>Hazardous Goods  NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK002</salesteam_ID>
+    <customer>0007119118</customer>
+    <createdon>2014-02-10T00:00:00+08:00</createdon>
+    <doc_number>0016787246</doc_number>
+    <s_ord_item>100</s_ord_item>
+    <material>Y503072</material>
+    <mat_entrd>JAN1031R</mat_entrd>
+    <net_value>99.95</net_value>
+    <item_del_block_desc>High Risk Item   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK002</salesteam_ID>
+    <customer>0007119118</customer>
+    <createdon>2014-02-10T00:00:00+08:00</createdon>
+    <doc_number>0016787246</doc_number>
+    <s_ord_item>130</s_ord_item>
+    <material>Y1632757</material>
+    <mat_entrd>Z1175</mat_entrd>
+    <net_value>0.00</net_value>
+    <item_del_block_desc>High Risk Item   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK005</salesteam_ID>
+    <customer>0006592186</customer>
+    <createdon>2014-02-06T00:00:00+08:00</createdon>
+    <doc_number>0016773594</doc_number>
+    <s_ord_item>40</s_ord_item>
+    <material>Y515206</material>
+    <mat_entrd>FD251</mat_entrd>
+    <net_value>22.81</net_value>
+    <item_del_block_desc>Inv Dep Qty Exceeded</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK001</salesteam_ID>
+    <customer>0001876041</customer>
+    <createdon>2014-02-04T00:00:00+08:00</createdon>
+    <doc_number>0016761103</doc_number>
+    <s_ord_item>40</s_ord_item>
+    <material>Y844878</material>
+    <mat_entrd>ETO1041</mat_entrd>
+    <net_value>18.26</net_value>
+    <item_del_block_desc>Proof Creation   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK004</salesteam_ID>
+    <customer>0002497069</customer>
+    <createdon>2014-01-29T00:00:00+08:00</createdon>
+    <doc_number>0016736070</doc_number>
+    <s_ord_item>10</s_ord_item>
+    <material>Y844878</material>
+    <mat_entrd>ETO1041</mat_entrd>
+    <net_value>349.90</net_value>
+    <item_del_block_desc>Proof Creation   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK001</salesteam_ID>
+    <customer>0001780854</customer>
+    <createdon>2014-01-15T00:00:00+08:00</createdon>
+    <doc_number>0023445559</doc_number>
+    <s_ord_item>10</s_ord_item>
+    <material>Y2544063</material>
+    <mat_entrd>SGBAR2</mat_entrd>
+    <net_value>1426.00</net_value>
+    <item_del_block_desc>Proof Approval   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK001</salesteam_ID>
+    <customer>0001780854</customer>
+    <createdon>2014-01-15T00:00:00+08:00</createdon>
+    <doc_number>0023445559</doc_number>
+    <s_ord_item>20</s_ord_item>
+    <material>Y2544063</material>
+    <mat_entrd>SGBAR2</mat_entrd>
+    <net_value>1034.77</net_value>
+    <item_del_block_desc>Proof Approval   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK001</salesteam_ID>
+    <customer>0001780854</customer>
+    <createdon>2014-01-15T00:00:00+08:00</createdon>
+    <doc_number>0023445559</doc_number>
+    <s_ord_item>30</s_ord_item>
+    <material>Y2544063</material>
+    <mat_entrd>SGBAR2</mat_entrd>
+    <net_value>739.12</net_value>
+    <item_del_block_desc>Proof Approval   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK002</salesteam_ID>
+    <customer>0002063369</customer>
+    <createdon>2014-01-10T00:00:00+08:00</createdon>
+    <doc_number>0023440027</doc_number>
+    <s_ord_item>10</s_ord_item>
+    <material>Y458467</material>
+    <mat_entrd>Y458467</mat_entrd>
+    <net_value>0.00</net_value>
+    <item_del_block_desc>Inv Dep Qty Exceeded</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK002</salesteam_ID>
+    <customer>0006096487</customer>
+    <createdon>2014-01-08T00:00:00+08:00</createdon>
+    <doc_number>0016626454</doc_number>
+    <s_ord_item>30</s_ord_item>
+    <material>Y516702</material>
+    <mat_entrd>PPE393</mat_entrd>
+    <net_value>0.00</net_value>
+    <item_del_block_desc>Inv Dep Qty Exceeded</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK005</salesteam_ID>
+    <customer>0002454313</customer>
+    <createdon>2014-01-02T00:00:00+08:00</createdon>
+    <doc_number>0023431578</doc_number>
+    <s_ord_item>10</s_ord_item>
+    <material>Y456302</material>
+    <mat_entrd>DRG2</mat_entrd>
+    <net_value>716.52</net_value>
+    <item_del_block_desc>Proof Approval   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK005</salesteam_ID>
+    <customer>0003039627</customer>
+    <createdon>2013-12-11T00:00:00+08:00</createdon>
+    <doc_number>0016538035</doc_number>
+    <s_ord_item>10</s_ord_item>
+    <material>Y1100751</material>
+    <mat_entrd>Y1100751</mat_entrd>
+    <net_value>0.00</net_value>
+    <item_del_block_desc>Inv Dep Qty Exceeded</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK005</salesteam_ID>
+    <customer>0001122455</customer>
+    <createdon>2013-12-06T00:00:00+08:00</createdon>
+    <doc_number>0016517834</doc_number>
+    <s_ord_item>20</s_ord_item>
+    <material>Y1632757</material>
+    <mat_entrd>Z1175</mat_entrd>
+    <net_value>0.00</net_value>
+    <item_del_block_desc>High Risk Item   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK002</salesteam_ID>
+    <customer>0005433136</customer>
+    <createdon>2013-12-06T00:00:00+08:00</createdon>
+    <doc_number>0016518315</doc_number>
+    <s_ord_item>30</s_ord_item>
+    <material>Y508639</material>
+    <mat_entrd>WOR8</mat_entrd>
+    <net_value>12.97</net_value>
+    <item_del_block_desc>Inv Dep Qty Exceeded</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK003</salesteam_ID>
+    <customer>0001075504</customer>
+    <createdon>2013-11-28T00:00:00+08:00</createdon>
+    <doc_number>0023404382</doc_number>
+    <s_ord_item>20</s_ord_item>
+    <material>Y1112005</material>
+    <mat_entrd>Z1070</mat_entrd>
+    <net_value>0.00</net_value>
+    <item_del_block_desc>High Risk Item   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK002</salesteam_ID>
+    <customer>0001885081</customer>
+    <createdon>2013-11-22T00:00:00+08:00</createdon>
+    <doc_number>0016465462</doc_number>
+    <s_ord_item>10</s_ord_item>
+    <material>Y548416</material>
+    <mat_entrd>Y548416</mat_entrd>
+    <net_value>0.00</net_value>
+    <item_del_block_desc>Inv Dep Qty Exceeded</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK005</salesteam_ID>
+    <customer>0006592186</customer>
+    <createdon>2013-11-20T00:00:00+08:00</createdon>
+    <doc_number>0016453302</doc_number>
+    <s_ord_item>10</s_ord_item>
+    <material>Y515206</material>
+    <mat_entrd>FD251</mat_entrd>
+    <net_value>0.00</net_value>
+    <item_del_block_desc>Inv Dep Qty Exceeded</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK005</salesteam_ID>
+    <customer>0006592186</customer>
+    <createdon>2013-11-20T00:00:00+08:00</createdon>
+    <doc_number>0016453302</doc_number>
+    <s_ord_item>20</s_ord_item>
+    <material>Y502022</material>
+    <mat_entrd>FD257</mat_entrd>
+    <net_value>40.50</net_value>
+    <item_del_block_desc>Inv Dep Qty Exceeded</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK002</salesteam_ID>
+    <customer>0002948301</customer>
+    <createdon>2013-11-13T00:00:00+08:00</createdon>
+    <doc_number>0016418482</doc_number>
+    <s_ord_item>10</s_ord_item>
+    <material>Y456302</material>
+    <mat_entrd>DRGB1</mat_entrd>
+    <net_value>143.96</net_value>
+    <item_del_block_desc>Proof Approval   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK006</salesteam_ID>
+    <customer>0007029347</customer>
+    <createdon>2013-10-25T00:00:00+08:00</createdon>
+    <doc_number>0016340621</doc_number>
+    <s_ord_item>10</s_ord_item>
+    <material>Y2531375</material>
+    <mat_entrd>SG6</mat_entrd>
+    <net_value>785.00</net_value>
+    <item_del_block_desc>Proof Creation   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK004</salesteam_ID>
+    <customer>0006990108</customer>
+    <createdon>2013-09-18T00:00:00+08:00</createdon>
+    <doc_number>0023315716</doc_number>
+    <s_ord_item>20</s_ord_item>
+    <material>Y644304</material>
+    <mat_entrd>ETO SL SCR</mat_entrd>
+    <net_value>2798.51</net_value>
+    <item_del_block_desc>Proof Creation   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK001</salesteam_ID>
+    <customer>0002426922</customer>
+    <createdon>2013-09-03T00:00:00+08:00</createdon>
+    <doc_number>0016106038</doc_number>
+    <s_ord_item>10</s_ord_item>
+    <material>Y644301</material>
+    <mat_entrd>ETO SL GER</mat_entrd>
+    <net_value>42.97</net_value>
+    <item_del_block_desc>Proof Approval   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK002</salesteam_ID>
+    <customer>0005616833</customer>
+    <createdon>2013-08-28T00:00:00+08:00</createdon>
+    <doc_number>0016088312</doc_number>
+    <s_ord_item>10</s_ord_item>
+    <material>Y644301</material>
+    <mat_entrd>ETO SL GER</mat_entrd>
+    <net_value>47.91</net_value>
+    <item_del_block_desc>Proof Creation   NoA</item_del_block_desc>
+  </Table>
+  <Table>
+    <salesteam_ID>KAMUK001</salesteam_ID>
+    <customer>0002426922</customer>
+    <createdon>2013-08-21T00:00:00+08:00</createdon>
+    <doc_number>0016059833</doc_number>
+    <s_ord_item>20</s_ord_item>
+    <material>Y644302</material>
+    <mat_entrd>ETO SL MIM</mat_entrd>
+    <net_value>34.82</net_value>
+    <item_del_block_desc>Proof Approval   NoA</item_del_block_desc>
+  </Table>
+</NewDataSet>

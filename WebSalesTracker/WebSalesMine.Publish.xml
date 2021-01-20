@@ -1,0 +1,391 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\WSM Compiled" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="http://whis2008/WebSalesMine" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="False" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="App_Themes/Images/icon-administration_07.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/YahooSprite.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/New Design/button-login-enable.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/New Design/icon-1.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/u27_original.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="WebPages/Home/Message.aspx" publishTime="05/09/2014 20:11:26" />
+    <file relUrl="bin/WebSalesMine.dll" publishTime="07/05/2017 14:53:53" />
+    <file relUrl="App_Themes/Images/New Design/icon-6.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/btn-over.jpg" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/bg-login_03.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JsGrid/jquery.tablesorter.min.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JsGrid/jquery-1.4.1-vsdoc.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/table-header-bground.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/brady_logo_big.jpg" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="bin/Visualization.dll" publishTime="05/09/2014 20:11:24" />
+    <file relUrl="App_Themes/Images/desc.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/New Design/button-login-disable.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/u27_hover.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/New Design/bg.jpg" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/CSS/JqueryCSS/header_bg.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/icon-image-gallery.jpg" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Common.dll" publishTime="04/16/2010 14:16:58" />
+    <file relUrl="App_Themes/Images/logout-logo-hover.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/icon-orderHistory_07.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="bin/zh-CHT/AjaxControlToolkit.resources.dll" publishTime="05/09/2014 20:11:24" />
+    <file relUrl="App_Themes/Images/New Design/searchbox-bg1.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/NavCustomerLookup.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/Login_hover.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/New Design/bg-header-bottom.jpg" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JqueryJS/jquery.effects.fade.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/New Design/first.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="bin/hi/AjaxControlToolkit.resources.dll" publishTime="05/09/2014 20:11:24" />
+    <file relUrl="App_Themes/Images/brady-logo.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/u18_hover.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/preview.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JqueryJS/jquery.ui.dialog.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JqueryJS/jquery.ui.widget.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/bg-loginbuttonHover_07.jpg" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JqueryJS/common.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="bin/AjaxControlToolkit.dll" publishTime="05/09/2014 20:11:24" />
+    <file relUrl="bin/Utilities.dll" publishTime="05/09/2014 20:11:24" />
+    <file relUrl="App_Themes/Images/navi_bg.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/brady_logo_small.jpg" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/sales_mine_icon.ico" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="bin/ru/AjaxControlToolkit.resources.dll" publishTime="05/09/2014 20:11:24" />
+    <file relUrl="App_Themes/JS/JqueryJS/jquery-ui-1.8.17.custom.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="WebPages/UserControl/NewMasterPage.Master" publishTime="06/06/2017 17:03:29" />
+    <file relUrl="bin/LoggerLibrary.pdb" publishTime="05/23/2017 15:23:04" />
+    <file relUrl="App_Themes/Images/icon-customerLookup_07.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="WebPages/ProductSummary/ProductSummary.aspx" publishTime="12/06/2016 16:34:26" />
+    <file relUrl="App_Themes/CSS/Comman.css" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Theme_Roller/jquery-ui-1.8.17.custom/css/custom-theme/images/ui-bg_glass_75_e6e6e6_1x400.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/CSS/Master.skin" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/logo-salesmine-lg_03.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/default-username_03.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/jquery-1.4.1.min.js" publishTime="03/18/2010 23:13:42" />
+    <file relUrl="WebPages/Admin/ManageUsers.aspx" publishTime="07/05/2017 12:52:41" />
+    <file relUrl="App_Themes/JS/JqueryJS/jquery_004.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/update-icon.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="WebPages/Login/Login.aspx" publishTime="05/09/2014 20:11:26" />
+    <file relUrl="bin/nl/AjaxControlToolkit.resources.dll" publishTime="05/09/2014 20:11:24" />
+    <file relUrl="App_Themes/JS/JsGrid/DefaultScript.js" publishTime="03/05/2015 21:04:18" />
+    <file relUrl="App_Themes/Images/New Design/salesmine-logo.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/bg_01_01.jpg" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/brady_logo_small_square.JPG" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="WebPages/Home/Export2ExcelPage.aspx" publishTime="05/09/2014 20:11:26" />
+    <file relUrl="bin/ar/AjaxControlToolkit.resources.dll" publishTime="05/09/2014 20:11:24" />
+    <file relUrl="bin/AppLogic.pdb" publishTime="05/24/2017 17:07:52" />
+    <file relUrl="App_Themes/Images/bg_01.jpg" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/Delete-btn-grey.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/bg1.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/gridviewScroll.min.js" publishTime="03/19/2013 19:33:56" />
+    <file relUrl="App_Themes/Images/top-bg.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/sub-header-right-bg.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/Login_original.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/CSS/styles.css" publishTime="04/17/2015 17:35:20" />
+    <file relUrl="App_Themes/JS/JqueryJS/jquery.ui.tabs.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/btnBack.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Theme_Roller/jquery-ui-1.8.17.custom/css/custom-theme/images/ui-icons_888888_256x240.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/NavKAM.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/ButtonEffect.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Theme_Roller/jquery-ui-1.8.17.custom/css/custom-theme/images/ui-icons_2e83ff_256x240.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Logging.xml" publishTime="04/16/2010 14:12:02" />
+    <file relUrl="WebPages/Home/Main.aspx" publishTime="09/19/2016 15:13:18" />
+    <file relUrl="App_Themes/CSS/all.css" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="WebPages/ProductSummary/ProductSummaryTerritory.aspx" publishTime="05/09/2014 20:11:27" />
+    <file relUrl="bin/DataAccess.dll" publishTime="05/23/2017 15:23:05" />
+    <file relUrl="App_Themes/JS/JqueryJS/jquery.window.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/cross_icon_normal.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JqueryJS/jquery.effects.slide.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/popup-left-top-corner.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JqueryJS/jquery.ui.resizable.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/Login-btn.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/New Design/animated-gifs-exclamation-points-006.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/top.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/BT_Help-b.jpg" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JqueryJS/jquery-1.7.1.min.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="bin/he/AjaxControlToolkit.resources.dll" publishTime="05/09/2014 20:11:24" />
+    <file relUrl="App_Themes/JS/JsGrid/OrderHistory.js" publishTime="09/19/2016 15:05:53" />
+    <file relUrl="App_Themes/Images/btn_refresh.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/bg_01_log.jpg" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JqueryJS/jquery.ui.position.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="bin/AjaxControlToolkit.pdb" publishTime="05/09/2014 20:11:24" />
+    <file relUrl="App_Themes/Images/footer-bg2.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/logo-brady_07.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/sprite_btn-search_3.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Logging.dll" publishTime="04/16/2010 14:16:58" />
+    <file relUrl="App_Themes/Images/New Design/icon-2.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/btnlogin.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="WebPages/Home/ContactLevel.aspx" publishTime="12/15/2016 15:23:34" />
+    <file relUrl="App_Themes/Images/HeaderName.JPG" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/CSS/demos.css" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Theme_Roller/jquery-ui-1.8.17.custom/css/custom-theme/images/ui-bg_glass_75_dadada_1x400.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="WebPages/NotesCommHistory/NotesCommHistoryTerritory.aspx" publishTime="05/09/2014 20:11:26" />
+    <file relUrl="App_Themes/Images/logo-emedco.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JqueryJS/index.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JqueryJS/jquery_003.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JqueryJS/jquery.ui.draggable.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/publue-bg.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/login_blue_bg.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/jquery-ui.min.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/sales_mine_icon.JPG" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="WebPages/OnHoldOrder/OnHoldOrder.aspx" publishTime="10/28/2015 18:28:25" />
+    <file relUrl="App_Themes/CSS/main-stylesheet.css" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JqueryJS/jquery-1.4.1.min.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/right-border.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/titlebar_bg.jpg" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/Reset_hover_r.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JQueryImg/loading.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/AutoComplete/jquery-1.8.3.js" publishTime="05/18/2017 07:29:04" />
+    <file relUrl="App_Themes/Images/NewNav.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/navi_bg_divider.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="WebPages/Mining/Mining.aspx" publishTime="05/09/2014 20:11:26" />
+    <file relUrl="App_Themes/Images/New Design/next.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/u35_original.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/delete-btn.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/jquery.cookie.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/NavAdministration.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/popup-left-top-corner2.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JqueryJS/jquery.effects.scale.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/user-administration.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Logging.pdb" publishTime="04/16/2010 14:12:02" />
+    <file relUrl="App_Themes/Images/u39_hover.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/HeaderGlassBlack.jpg" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JqueryJS/jquery.effects.pulsate.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/AutoComplete/jquery-ui-1.9.2.custom.js" publishTime="05/18/2017 07:29:04" />
+    <file relUrl="App_Themes/Images/ToggleUp.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JQueryImg/buttons.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Theme_Roller/jquery-ui-1.8.17.custom/css/custom-theme/images/ui-icons_454545_256x240.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JsGrid/ArrangeColumn.js" publishTime="09/17/2014 21:14:41" />
+    <file relUrl="App_Themes/Images/New Design/login-textbox-emptypassword-2.jpg" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="Global.asax" publishTime="05/09/2014 20:11:26" />
+    <file relUrl="App_Themes/Images/New Design/magnifying-glass-search-icon.jpg" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="WebPages/NotesCommHistory/ScheduleNote.aspx" publishTime="01/21/2015 20:16:19" />
+    <file relUrl="bin/Microsoft.Practices.ServiceLocation.dll" publishTime="04/16/2010 14:16:58" />
+    <file relUrl="App_Themes/CSS/PopUpModal.css" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/icon-productSummary_07.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/New Design/ajax-loader.gif" publishTime="05/22/2017 14:35:16" />
+    <file relUrl="bin/Microsoft.Practices.Unity.dll" publishTime="04/16/2010 13:42:32" />
+    <file relUrl="App_Themes/JS/JqueryJS/jquery.ui.accordion.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/Home_Hover.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="bin/Microsoft.Practices.Unity.pdb" publishTime="04/16/2010 13:42:32" />
+    <file relUrl="App_Themes/Images/header-bg.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/lev0_bg1.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/emedco.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JqueryJS/jquery-1.5.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JSSS/CustomGridview.js" publishTime="06/13/2017 14:14:29" />
+    <file relUrl="App_Themes/Images/Emed.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JqueryJS/jquery.ui.sortable.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/login_gradient_bg.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JqueryJS/jquery.window.min.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="WebPages/Home/Notes.aspx" publishTime="05/09/2014 20:11:26" />
+    <file relUrl="App_Themes/Theme_Roller/jquery-ui-1.8.17.custom/css/custom-theme/images/ui-bg_glass_55_fbf9ee_1x400.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/ToggleDown.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/icon-btn-show_orders_07.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/DyoOrderDetails.JPG" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Theme_Roller/jquery-ui-1.8.17.custom/css/custom-theme/images/ui-bg_highlight-soft_75_cccccc_1x100.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JqueryJS/jquery.effects.bounce.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/u9_original.jpg" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="WebPages/OrderHistory/OrderHistory.aspx" publishTime="12/20/2016 12:48:25" />
+    <file relUrl="App_code/SplitterBar.cs" publishTime="01/31/2017 12:57:54" />
+    <file relUrl="App_Themes/JS/wz_tooltip_new.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JqueryJS/jquery.effects.highlight.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Theme_Roller/jquery-ui-1.8.17.custom/css/custom-theme/images/ui-bg_inset-soft_95_fef1ec_1x100.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JsGrid/jquery-1.4.1.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JqueryJS/jquery.bgiframe-2.1.2.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/New Design/divider-2.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Theme_Roller/jquery-ui-1.8.17.custom/js/jquery-ui-1.8.17.custom.min.js" publishTime="05/09/2014 20:11:26" />
+    <file relUrl="bin/ko/AjaxControlToolkit.resources.dll" publishTime="05/09/2014 20:11:24" />
+    <file relUrl="App_Themes/JS/u18_original.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/New Design/login-btn.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="WebPages/Home/ArrangeColumns.aspx" publishTime="01/04/2017 11:26:17" />
+    <file relUrl="App_Themes/Images/bg2.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/ScrollableGridPlugin.js" publishTime="06/17/2015 20:47:11" />
+    <file relUrl="App_Themes/Images/New Design/prev.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/BD21481_.GIF" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/ETimeReport.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/New Design/btn-red-x.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/ok-btn.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/Reset-btn.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/Emedco.jpg" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/CSS/KamCss.css" publishTime="09/15/2014 18:06:13" />
+    <file relUrl="App_Themes/Theme_Roller/jquery-ui-1.8.17.custom/css/custom-theme/images/ui-bg_glass_65_ffffff_1x400.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="bin/fr/AjaxControlToolkit.resources.dll" publishTime="05/09/2014 20:11:24" />
+    <file relUrl="App_Themes/Images/bg-loginbutton_07_2.jpg" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="Default.aspx" publishTime="05/09/2014 20:11:26" />
+    <file relUrl="App_Themes/Images/u29_original.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/bg-loginbutton_07.jpg" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="bin/zh-CHS/AjaxControlToolkit.resources.dll" publishTime="05/09/2014 20:11:24" />
+    <file relUrl="App_Themes/Images/Button_Down.jpg" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="WebPages/NotesCommHistory/NotesCommHistoryT.aspx" publishTime="05/09/2014 20:11:26" />
+    <file relUrl="App_Themes/Images/btnlogin_hover.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/u37_original.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="WebPages/ProductSummary/ProductSummaryT.aspx" publishTime="10/28/2016 18:22:29" />
+    <file relUrl="App_Themes/Images/u15_hover.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/bg-btn-hover_04.jpg" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/default-password_03.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/logoCampaign-emedco_07.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/logo-salesmine-sm_03.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/icon-quotes_07.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JqueryJS/jquery-ui.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/save.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/SetonUS.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/salesmine-logo_big.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/Seton.jpg" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/Home.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/bg-txtbox_03.jpg" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/Reset_original_r.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JqueryJS/jquery.effects.core.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/u37_hover.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JQueryImg/header_bg.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/CSS/Site.css" publishTime="05/05/2015 13:09:21" />
+    <file relUrl="App_Themes/Images/Navbackground.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/CA.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/bottom-bg.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="bin/Microsoft.Web.Preview.dll" publishTime="05/09/2014 20:11:24" />
+    <file relUrl="App_Themes/JS/JqueryJS/jquery.effects.transfer.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/DyoOrderDetailsBottom.JPG" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="bin/ja/AjaxControlToolkit.resources.dll" publishTime="05/09/2014 20:11:24" />
+    <file relUrl="App_Themes/Images/logout-logo.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JqueryJS/jquery.effects.fold.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/CSS/JqueryCSS/index.css" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/bg-login_03.jpg" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="bin/FunctionVB.dll" publishTime="05/09/2014 20:11:24" />
+    <file relUrl="App_Themes/JS/JSSS/CustomPaging.js" publishTime="06/13/2017 14:43:42" />
+    <file relUrl="App_Themes/Images/bg-btn_04.jpg" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="bin/Microsoft.Practices.Unity.Interception.pdb" publishTime="04/16/2010 13:42:32" />
+    <file relUrl="App_Themes/Images/icon-siteAndContactInfo_07.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="WebPages/CustomerLookUp/CustomerLookUp.aspx" publishTime="05/09/2014 20:11:26" />
+    <file relUrl="App_Themes/Images/login_back.jpg" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="WebPages/ProductSummary/Quotes/Quotes.aspx" publishTime="11/16/2015 16:32:26" />
+    <file relUrl="App_Themes/Images/u39_original.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/ChampionAmerica.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/MasterPage.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="bin/DataAccess.pdb" publishTime="05/23/2017 15:23:05" />
+    <file relUrl="App_Themes/Images/New Design/login-btn-hover.jpg" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/googleAPI.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="WebPages/QuotesOver1K/QuotesOver1K.aspx" publishTime="02/04/2015 15:16:13" />
+    <file relUrl="bin/es/AjaxControlToolkit.resources.dll" publishTime="05/09/2014 20:11:24" />
+    <file relUrl="App_Themes/Images/New Design/divider-1.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/New Design/magnifying-glass-search-icon-white.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="bin/it/AjaxControlToolkit.resources.dll" publishTime="05/09/2014 20:11:24" />
+    <file relUrl="WebPages/Home/KamWindow1.aspx" publishTime="07/05/2017 14:53:15" />
+    <file relUrl="App_Themes/Images/New Design/login-textbox-emptyUser.jpg" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JqueryJS/jquery.ui.core.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/add-btn.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/Store.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/u31_original.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/pu-top-curve.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/New Design/calendar-icon.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Common.xml" publishTime="04/16/2010 14:11:48" />
+    <file relUrl="App_Themes/Images/menuarrow.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/footer-bg.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JqueryJS/jquery.tablesorter.min.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/NavProductSummary.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Theme_Roller/jquery-ui-1.8.17.custom/css/custom-theme/images/ui-bg_glass_75_ffffff_1x400.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JqueryJS/jquery.ui.progressbar.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/CSS/JqueryCSS/buttons.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/SetonCA.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JqueryJS/jquery.ui.slider.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/seton.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/bg-header_01.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/accounting.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/AutoComplete/jquery-ui-1.9.2.custom.min.js" publishTime="05/18/2017 07:29:04" />
+    <file relUrl="WebPages/Construction/Construction.aspx" publishTime="02/19/2016 17:07:42" />
+    <file relUrl="App_Themes/Images/asc.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/Update-btn-grey.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JqueryJS/jquery.effects.shake.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/New Design/login-textbox.jpg" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="WebPages/NotesCommHistory/NotesCommHistory.aspx" publishTime="01/27/2016 16:29:11" />
+    <file relUrl="App_Themes/JS/jquery-ui.min-1.9.2.js" publishTime="12/10/2014 16:10:55" />
+    <file relUrl="App_Themes/CSS/JqueryCSS/jquery.css" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/New Design/icon-5.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/Home_Hover2.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/Calender.jpg" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JqueryJS/jquery.chromatable.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JsGrid/VwdCmsSplitterBar.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/NavQuotes.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="WebPages/ManageMessage/ManageMessage.aspx" publishTime="03/10/2016 17:18:13" />
+    <file relUrl="bin/WebSalesMine.pdb" publishTime="07/05/2017 14:53:53" />
+    <file relUrl="App_Themes/Theme_Roller/jquery-ui-1.8.17.custom/css/custom-theme/images/ui-bg_flat_0_aaaaaa_40x100.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/NavSiteContact.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/New Design/icon-4.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JqueryJS/jquery.effects.clip.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/New Design/salesmine-logo_big.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/New Design/searchbox-bg2.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="WebPages/SiteAndContactInfo/SiteAndContactInfo.aspx" publishTime="01/05/2017 16:39:09" />
+    <file relUrl="App_Themes/JS/GridHeader.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="bin/tr-TR/AjaxControlToolkit.resources.dll" publishTime="05/09/2014 20:11:24" />
+    <file relUrl="App_Themes/Images/right-top-crnr-bg.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/Button_Top.jpg" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JqueryJS/jquery.ui.button.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Common.pdb" publishTime="04/16/2010 14:11:48" />
+    <file relUrl="App_Themes/Images/u15_original.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/btn-hover.jpg" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/top-curve.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/indicator_medium.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/line.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="bin/LoggerLibrary.dll" publishTime="05/23/2017 15:23:04" />
+    <file relUrl="bin/pt/AjaxControlToolkit.resources.dll" publishTime="05/09/2014 20:11:24" />
+    <file relUrl="WebPages/Home/SessionSetFromjquery.aspx" publishTime="05/09/2014 20:11:26" />
+    <file relUrl="App_Themes/JS/JqueryJS/jquery.ui.droppable.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JqueryJS/jquery_002.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JqueryJS/jquery.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="bin/AppLogic.dll" publishTime="05/24/2017 17:07:52" />
+    <file relUrl="bin/de/AjaxControlToolkit.resources.dll" publishTime="05/09/2014 20:11:24" />
+    <file relUrl="App_Themes/Images/New Design/login-container.jpg" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JqueryJS/jquery.fixedtable.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/menu_header.jpg" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="WebPages/Home/Splash.aspx" publishTime="05/09/2014 20:11:26" />
+    <file relUrl="App_Themes/Images/Setonlogo.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/u31_hover.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JqueryJS/jquery.effects.blind.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JqueryJS/csshorizontalmenu.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/popup-right-bottom-corner.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/jquery.min.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/icon-notesAndCommHist_07.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JqueryJS/jquery.effects.explode.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/sprite_btn-search.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/CSS/LoginControl.css" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/bottom.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="bin/Microsoft.Practices.Unity.Interception.dll" publishTime="04/16/2010 13:42:32" />
+    <file relUrl="App_Themes/Images/update-btn.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="bin/Microsoft.Practices.ServiceLocation.pdb" publishTime="04/16/2010 13:42:32" />
+    <file relUrl="App_Themes/Theme_Roller/jquery-ui-1.8.17.custom/css/custom-theme/images/ui-icons_cd0a0a_256x240.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/btn-disable.jpg" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JsGrid/ArrangeColumnProductSummary.js" publishTime="09/18/2014 16:07:58" />
+    <file relUrl="App_Themes/Images/New Design/RightSelectedArrow.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Theme_Roller/jquery-ui-1.8.17.custom/css/custom-theme/jquery-ui-1.8.17.custom.css" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="bin/cs/AjaxControlToolkit.resources.dll" publishTime="05/09/2014 20:11:24" />
+    <file relUrl="App_Themes/Images/apply-filter.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/popup-left-bottom-corner.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JqueryJS/jquery.effects.drop.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="Web.config" publishTime="07/05/2017 14:53:57" />
+    <file relUrl="App_Themes/Images/New Design/searchbox-gradient.jpg" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/transparent.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/u35_hover.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/New Design/salesmine-icon.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JqueryJS/jquery.ui.datepicker.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/US.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/uploadBtn.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JqueryJS/jquery.ui.mouse.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/menu_header_hover.jpg" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/New Design/login-textbox-emptypassword.jpg" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/icon-products.jpg" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JqueryJS/jquery.ui.autocomplete.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/JqueryJS/jquery.ui.selectable.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/add-dis.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/popup-right-top-corner.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Theme_Roller/jquery-ui-1.8.17.custom/index.html" publishTime="05/09/2014 20:11:26" />
+    <file relUrl="App_Themes/Images/New Design/last.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Theme_Roller/jquery-ui-1.8.17.custom/css/custom-theme/images/ui-icons_222222_256x240.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/CSS/JqueryCSS/jquery-ui.css" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/QuotePipeline.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/bg-loginbuttonHover_07_2.jpg" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="WebPages/QuotesGuidance/QuotesGuidance.aspx" publishTime="03/25/2015 20:50:23" />
+    <file relUrl="App_Themes/Images/User.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/btn-over_2.jpg" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/NavyButton.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/1.jpg" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/font-library.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/New Design/icon-3.png" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/CSS/JqueryCSS/loading.gif" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/JS/jquery.tablesorter.min.js" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/cost_model_logo.jpg" publishTime="05/09/2014 20:11:25" />
+    <file relUrl="App_Themes/Images/u29_hover.png" publishTime="05/09/2014 20:11:25" />
+  </publishProfile>
+</publishData>

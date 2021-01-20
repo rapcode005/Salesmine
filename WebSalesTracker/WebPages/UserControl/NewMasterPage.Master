@@ -1,0 +1,587 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="NewMasterPage.master.cs"
+    Inherits="WebSalesMine.WebPages.UserControl.NewMasterPage" %>
+
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="asp" %>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<%--<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">--%>
+<%@ Import Namespace="AppLogic" %>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>SalesMine</title>
+    <link href="../../App_Themes/CSS/ButtonEffect.css" rel="stylesheet" type="text/css" />
+    <meta http-equiv='refresh' content='3600;url=../Home/SessionSetFromjquery.aspx' />
+    <link href="../../App_Themes/CSS/styles.css" rel="stylesheet" type="text/css" />
+    <link type="text/css" rel="stylesheet" href="../../App_Themes/CSS/demos.css" />
+    <link href="../../App_Themes/CSS/PopUpModal.css" rel="stylesheet" type="text/css" />
+    <link href="../../App_Themes/Theme_Roller/jquery-ui-1.8.17.custom/css/custom-theme/jquery-ui-1.8.17.custom.css"
+        rel="stylesheet" type="text/css" />
+    <%--    <script src="../../App_Themes/JS/jquery.min.js" type="text/javascript"></script>
+   <script src="../../App_Themes/JS/jquery-ui.min.js" type="text/javascript"></script>--%>
+    <script src="../../App_Themes/Theme_Roller/jquery-ui-1.8.17.custom/development-bundle/external/qunit.js"
+        type="text/javascript"></script>
+    <script src="../../App_Themes/JS/JsGrid/DefaultScript.js" type="text/javascript"></script>
+    <%-- <script src="../../App_Themes/JS/jquery.tablesorter.min.js" type="text/javascript"></script>--%>
+    <link id="LoginIco" runat="server" rel="shortcut icon" href="../../App_Themes/Images/sales_mine_icon.ico"
+        type="image/x-icon" />
+    <link id="LoginIco2" runat="server" rel="icon" href="../../App_Themes/Images/sales_mine_icon.ico"
+        type="image/ico" />
+    <script src="../../App_Themes/JS/AutoComplete/jquery-1.8.3.js" type="text/javascript"></script>
+    <script src="../../App_Themes/JS/AutoComplete/jquery-ui-1.9.2.custom.js" type="text/javascript"></script>
+    <script src="../../App_Themes/JS/AutoComplete/jquery-ui-1.9.2.custom.min.js" type="text/javascript"></script>
+    <style type="text/css">
+        .FixedPostionTest
+        {
+            position: fixed;
+        }
+    </style>
+    <script type="text/javascript">
+
+        var CurrentPage;
+        var openWindowKAm = null;
+        var FIREFOX = /Firefox/i.test(navigator.userAgent);
+
+
+        function FocusValueAccount(txt) {
+            var elem = $get("AccountNumber");
+            elem.value = txt.Value;
+        }
+
+        function __doPostBack(eventTarget, eventArgument) {
+            if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+                theForm.__EVENTTARGET.value = eventTarget;
+                theForm.__EVENTARGUMENT.value = eventArgument;
+                theForm.submit();
+            }
+        }
+
+        function openWindow() {
+
+            if (!FIREFOX)
+                openWindowKAm = window.open('../Home/KamWindow1.aspx', 'KAMwindow', 'width=1200,height=400,scrollbars=yes');
+            else
+                openWindowKAm = window.open('../Home/KamWindow1.aspx', 'KAMwindow', 'width=1200,height=400,scrollbars=yes');
+
+
+            if (openWindowKAm) {
+                openWindowKAm.window.focus();
+            }
+        }
+
+        function RefreshWinodw() {
+            var kid = window.open("", "KAMwindow");
+            kid.location.reload();
+        }
+
+
+        function closeChildWindows() {
+            if (openWindowKAm) {
+                openWindowKAm.window.focus();
+            }
+        }
+
+        function hideDiv() {
+            if (document.getElementById) {
+                document.getElementById('searchbox').style.visibility = 'hidden';
+            }
+        }
+
+        function pageLoad() {
+            $addHandler(document, 'keydown', onKeydownMessage);
+
+            $(document).ready(function (e) {
+                try {
+                    var ProjectID = document.getElementById('txtProjectID').value; // jQuery("#txtProjectID").val(); //$get("txtProjectID");
+                    $("#imbSearchProjID").click(function () {
+                        setCookie('CProjID', document.getElementById('txtProjectID').value, 1);
+                    });
+                }
+                catch (err) {
+                    //Handle errors here
+                }
+            });
+        }
+
+        function onKeydownMessage(e) {
+            if (e.keyCode == Sys.UI.Key.esc) {
+                var mydiv = $('<div></div>')
+                .html('<iframe frameborder="0" src="../Home/Message.aspx" width="100%" height="100%"></iframe>')
+                .dialog({ autoOpen: false,
+                    title: GetStateName($get('Region').value),
+                    resizable: false,
+                    position: ["right", "bottom"],
+                    modal: false,
+                    height: 240,
+                    width: 445,
+                    closeOnEscape: true,
+                    buttons: {
+                        "Ok": function () {
+                            mydiv.dialog('close');
+                        }
+                    }
+                });
+                mydiv.parent().css({ position: "fixed" }).end().dialog('open');
+            }
+        }
+
+        function onSuccessGet() {
+            var mydiv = $('<div></div>')
+            .html('<iframe frameborder="0" src="../Home/Message.aspx" width="100%" height="100%"></iframe>')
+            .dialog({ autoOpen: false,
+                title: GetStateName($get('Region').value),
+                resizable: false,
+                modal: false,
+                position: ["right", "bottom"],
+                height: 240,
+                width: 445,
+                closeOnEscape: true,
+                buttons: {
+                    "Ok": function () {
+                        mydiv.dialog('close');
+                    }
+                }
+            });
+            mydiv.parent().css({ position: "fixed" }).end().dialog('open');
+        }
+
+        function onSuccessGetNote() {
+            var mydiv = $('<div></div>')
+            .html('<iframe frameborder="0" src="../NotesCommHistory/ScheduleNote.aspx" width="100%" height="100%"></iframe>')
+            .dialog({ autoOpen: false,
+                title: "Today's Schdule Note",
+                resizable: false,
+                modal: false,
+                position: ["right", "center"],
+                height: 290,
+                width: 445,
+                closeOnEscape: true,
+                buttons: {
+                    "Ok": function () {
+                        mydiv.dialog('close');
+                    }
+                }
+            });
+            mydiv.parent().css({ position: "fixed" }).end().dialog('open');
+        }
+
+        function GetStateName(state) {
+            switch (state) {
+
+                case 'AL':
+                    return "ALABAMA";
+
+                case 'AK':
+                    return "ALASKA";
+
+                case 'AS':
+                    return "AMERICAN SAMOA";
+
+                case 'AZ':
+                    return "ARIZONA";
+
+                case 'AR':
+                    return "ARKANSAS";
+
+                case 'CA':
+                    return "CALIFORNIA";
+
+                case 'CO':
+                    return "COLORADO";
+
+                case 'CT':
+                    return "CONNECTICUT";
+
+                case 'DE':
+                    return "DELAWARE";
+
+                case 'DC':
+                    return "DISTRICT OF COLUMBIA";
+
+                case 'FM':
+                    return "FEDERATED STATES OF MICRONESIA";
+
+                case 'FL':
+                    return "FLORIDA";
+
+                case 'GA':
+                    return "GEORGIA";
+
+                case 'GU':
+                    return "GUAM";
+
+                case 'HI':
+                    return "HAWAII";
+
+                case 'ID':
+                    return "IDAHO";
+
+                case 'IL':
+                    return "ILLINOIS";
+
+                case 'IN':
+                    return "INDIANA";
+
+                case 'IA':
+                    return "IOWA";
+
+                case 'KS':
+                    return "KANSAS";
+
+                case 'KY':
+                    return "KENTUCKY";
+
+                case 'LA':
+                    return "LOUISIANA";
+
+                case 'ME':
+                    return "MAINE";
+
+                case 'MH':
+                    return "MARSHALL ISLANDS";
+
+                case 'MD':
+                    return "MARYLAND";
+
+                case 'MA':
+                    return "MASSACHUSETTS";
+
+                case 'MI':
+                    return "MICHIGAN";
+
+                case 'MN':
+                    return "MINNESOTA";
+
+                case 'MS':
+                    return "MISSISSIPPI";
+
+                case 'MO':
+                    return "MISSOURI";
+
+                case 'MT':
+                    return "MONTANA";
+
+                case 'NE':
+                    return "NEBRASKA";
+
+                case 'NV':
+                    return "NEVADA";
+
+                case 'NH':
+                    return "NEW HAMPSHIRE";
+
+                case 'NJ':
+                    return "NEW JERSEY";
+
+                case 'NM':
+                    return "NEW MEXICO";
+
+                case 'NY':
+                    return "NEW YORK";
+
+                case 'NC':
+                    return "NORTH CAROLINA";
+
+                case 'ND':
+                    return "NORTH DAKOTA";
+
+                case 'MP':
+                    return "NORTHERN MARIANA ISLANDS";
+
+                case 'OH':
+                    return "OHIO";
+
+                case 'OK':
+                    return "OKLAHOMA";
+
+                case 'OR':
+                    return "OREGON";
+
+                case 'PW':
+                    return "PALAU";
+
+                case 'PA':
+                    return "PENNSYLVANIA";
+
+                case 'PR':
+                    return "PUERTO RICO";
+
+                case 'RI':
+                    return "RHODE ISLAND";
+
+                case 'SC':
+                    return "SOUTH CAROLINA";
+
+                case 'SD':
+                    return "SOUTH DAKOTA";
+
+                case 'TN':
+                    return "TENNESSEE";
+
+                case 'TX':
+                    return "TEXAS";
+
+                case 'UT':
+                    return "UTAH";
+
+                case 'VT':
+                    return "VERMONT";
+
+                case 'VI':
+                    return "VIRGIN ISLANDS";
+
+                case 'VA':
+                    return "VIRGINIA";
+
+                case 'WA':
+                    return "WASHINGTON";
+
+                case 'WV':
+                    return "WEST VIRGINIA";
+
+                case 'WI':
+                    return "WISCONSIN";
+
+                case 'WY':
+                    return "WYOMING";
+            }
+        }
+
+
+    </script>
+</head>
+<body>
+    <form id="form" runat="server">
+    <asp:ScriptManager ID="ScriptManager1" runat="server" EnableScriptGlobalization="True"
+        AsyncPostBackTimeout="7200" EnablePageMethods="true" ScriptMode="Release" LoadScriptsBeforeUI="false"
+        EnablePartialRendering="true">
+    </asp:ScriptManager>
+    <div id="wrapper">
+        <div id="header">
+            <!-- Blue Section -->
+            <div id="header-top">
+                <asp:ImageButton ID="btnHome" ClientIDMode="Static" ImageUrl="../../App_Themes/Images/New Design/salesmine-icon.png"
+                    ToolTip="Home" Width="27" Height="25" border="0" CssClass="logo" OnClick="ClearCSS_Click"
+                    PostBackUrl="../Home/Main.aspx" runat="server" />
+                <div id="searchbox" runat="server" clientidmode="Static" style="white-space: nowrap;">
+                    <%if ((varMining != "Mining") && ((varConst != "Construction" &&
+                             varHideAccountSearch == "false") ||
+                              (varConst == "Construction" &&
+                           varHideAccountSearch == "true"))
+                          )
+                      { %>
+                    <div id="label">
+                        <%if (varConst != "Construction" &&
+                             varHideAccountSearch == "false")
+                          { %>
+                        Account #
+                        <% }%>
+                        <% else if (varConst == "Construction" &&
+                           varHideAccountSearch == "true")
+                          {%>
+                        Project ID
+                        <%}%>
+                    </div>
+                    <%}%>
+                    <%if (varMining == "Mining")
+                      { %>
+                    <div id="labelMining">
+                    </div>
+                    <%}%>
+                    <%if (varConst != "Construction" && varMining != "Mining" &&
+                          varHideAccountSearch == "false")
+                      { %>
+                    <asp:Panel ID="Panel1" runat="server" DefaultButton="imbSearchAcntNumber">
+                        <asp:TextBox ID="txtAccountNumber" runat="server" AutoPostBack="false" ClientIDMode="Static"
+                            onfocus="FocusValueAccount(this);" OnTextChanged="txtAccountNumber_TextChanged"></asp:TextBox>
+                        <asp:FilteredTextBoxExtender ID="ftbe" runat="server" TargetControlID="txtAccountNumber"
+                            FilterType="Custom, Numbers" ValidChars="0123456789" />
+                    </asp:Panel>
+                    <% }%>
+                    <% else if (varConst == "Construction" && varMining != "Mining" &&
+                        varHideAccountSearch == "true")
+                      {%>
+                    <asp:Panel ID="Panel2" runat="server" DefaultButton="imbSearchProjID">
+                        <asp:TextBox ID="txtProjectID" runat="server" AutoPostBack="true" ClientIDMode="Static"
+                            OnTextChanged="txtProjectID_TextChanged"></asp:TextBox>
+                        <asp:FilteredTextBoxExtender ID="ftbe2" runat="server" TargetControlID="txtProjectID"
+                            FilterType="Custom, Numbers" ValidChars="0123456789" />
+                    </asp:Panel>
+                    <%}%>
+                    <% else if (varMining == "Mining" &&
+                        varHideAccountSearch == "true")
+                      {%>
+                    <asp:Panel ID="Panel3" runat="server" DefaultButton="imbSearchMining">
+                        <asp:TextBox ID="txtMiningID" runat="server" AutoPostBack="true" ClientIDMode="Static"
+                            onfocus="FocusValueAccount(this);" OnTextChanged="txtMiningID_TextChanged"></asp:TextBox>
+                        <asp:FilteredTextBoxExtender ID="ftbe3" runat="server" TargetControlID="txtMiningID"
+                            FilterType="Custom, Numbers" ValidChars="0123456789" />
+                    </asp:Panel>
+                    <%}%>
+                    <%if (varConst != "Construction" && varMining != "Mining" &&
+                        varHideAccountSearch == "false")
+                      { %>
+                    <div id="btn">
+                        <asp:ImageButton ID="imbSearchAcntNumber" ClientIDMode="Static" ImageUrl="~/App_Themes/Images/New Design/magnifying-glass-search-icon.jpg"
+                            runat="server" ToolTip="Search Account" /></div>
+                    <% }%>
+                    <% else if (varConst == "Construction" && varMining != "Mining" &&
+                        varHideAccountSearch == "true")
+                      {%>
+                    <div id="btn2">
+                        <asp:ImageButton ID="imbSearchProjID" ClientIDMode="Static" ImageUrl="~/App_Themes/Images/New Design/magnifying-glass-search-icon.jpg"
+                            runat="server" ToolTip="Search Project ID" OnClick="imbSearchProjID_Click" /></div>
+                    <%}%>
+                    <% else if (varMining == "Mining" &&
+                        varHideAccountSearch == "true")
+                      {%>
+                    <div id="btn3">
+                        <asp:ImageButton ID="imbSearchMining" ClientIDMode="Static" ImageUrl="~/App_Themes/Images/New Design/magnifying-glass-search-icon.jpg"
+                            runat="server" ToolTip="Search" OnClick="imbSearchMining_Click" />
+                    </div>
+                    <div id="rdo1" class="rdo">
+                        <asp:RadioButton ID="rdoBestPhone" ClientIDMode="Static" runat="server" Text=" Bestphone"
+                            GroupName="RdoByCals" AutoPostBack="false" CssClass="LabelFont" />
+                        <asp:RadioButton ID="rdoSiteNumber" ClientIDMode="Static" runat="server" Text=" Site Number"
+                            GroupName="RdoByCals" AutoPostBack="false" CssClass="LabelFont" Checked="true" />
+                    </div>
+                    <%}%>
+                    <asp:RegularExpressionValidator ID="RegularExpressionValidator1" runat="server" ControlToValidate="txtAccountNumber"
+                        ErrorMessage="*" ValidationExpression="^\d+$" ValidationGroup="check"></asp:RegularExpressionValidator>
+                    <asp:RegularExpressionValidator ID="RegularExpressionValidator2" runat="server" ControlToValidate="txtProjectID"
+                        ErrorMessage="*" ValidationExpression="^\d+$" ValidationGroup="check"></asp:RegularExpressionValidator>
+                </div>
+                <asp:Label ID="lblAccountName" ClientIDMode="Static" runat="server"></asp:Label>
+                <div id="options">
+                    <ul>
+                        <%if (pcman == "false")
+                          { %>
+                        <li id="LiCustomerLookUp" runat="server"><a href="../CustomerLookUp/CustomerLookUp.aspx"
+                            class="curved  customer-search" id="CustomerSearch" runat="server" clientidmode="Static"
+                            onclick="CustomerLookupClick()">Customer Search</a></li>
+                        <li class="divider">
+                            <img src="../../App_Themes/Images/New Design/divider-1.png" width="1" height="25"
+                                style="border-width: 0" /></li>
+                        <% }%>
+                        <li id="LiBtnKam" runat="server"><a class="curved" onclick="javascript:openWindow();"
+                            style="cursor: pointer">KAM</a></li>
+                        <li class="divider" id="KAMDivider" runat="server">
+                            <img src="../../App_Themes/Images/New Design/divider-1.png" width="1" height="25"
+                                style="border-width: 0" /></li>
+                        <li id="LiManageUsers" runat="server"><a href="../Admin/ManageUsers.aspx" onclick="adminClick()">
+                            ADMIN</a></li>
+                        <li class="divider" id="admindivider" runat="server">
+                            <img src="../../App_Themes/Images/New Design/divider-1.png" width="1" height="25"
+                                style="border-width: 0" /></li>
+                        <li id="LiMessage" runat="server"><a href="../ManageMessage/ManageMessage.aspx" onclick="adminClick()">
+                            MESSAGE</a></li>
+                        <li class="divider" id="messagedivider" runat="server">
+                            <img src="../../App_Themes/Images/New Design/divider-1.png" width="1" height="25"
+                                style="border-width: 0" /></li>
+                        <li id="LiFeedBack" runat="server"><a href="https://docs.google.com/a/bradycorp.com/spreadsheet/viewform?formkey=dDJnMEg4QjNnMy1wSjdVSHc5bWs3Unc6MQ#gid=0"
+                            target="_blank" onclick="adminClick()">FEEDBACK</a></li>
+                        <li class="divider" id="Li2" runat="server">
+                            <img src="../../App_Themes/Images/New Design/divider-1.png" width="1" height="25"
+                                style="border-width: 0" /></li>
+                        <li>
+                            <asp:LinkButton ID="lnkSignout" OnClick="Hypelogout_Click" Text="LOGOUT" runat="server"
+                                CssClass="curved"></asp:LinkButton></li>
+                    </ul>
+                </div>
+                <div class="clear">
+                </div>
+            </div>
+            <!-- Nav Section -->
+            <div id="header-bottom">
+                <div id="nav" runat="server" clientidmode="Static">
+                    <ul id="cssmenu1" runat="server">
+                        <%if (pcman == "true")
+                          { %>
+                        <li id="LiSiteContactInfoMan" runat="server"><a href="../SiteAndContactInfo/SiteAndContactInfo.aspx"
+                            id="CustomerMan" runat="server" clientidmode="Static" onclick="CustomerManClick()">
+                            Customer Info </a></li>
+                        <% }%>
+                        <li id="LiOrderHistory" runat="server" class="OrderHist"><a href="../OrderHistory/OrderHistory.aspx"
+                            id="order_history" runat="server" clientidmode="Static" onclick="OrderHistoryClick()">
+                            Order History </a></li>
+                        <li id="LiProductSummar" runat="server"><a href="../ProductSummary/ProductSummary.aspx"
+                            id="product" runat="server" clientidmode="Static" onclick="productClick()">Product
+                            Summary </a></li>
+                        <%if (pcman == "false")
+                          { %>
+                        <li id="LiSiteContactInfo" runat="server"><a href="../SiteAndContactInfo/SiteAndContactInfo.aspx"
+                            id="Customer" runat="server" clientidmode="Static" onclick="CustomerClick()">Customer
+                            Info </a></li>
+                        <% }%>
+                        <li id="LiNotesComHist" runat="server"><a href="../NotesCommHistory/NotesCommHistory.aspx"
+                            onclick="NotesClick()" id="Notes" runat="server" clientidmode="Static">Notes </a>
+                        </li>
+                        <li id="LiQuotes" runat="server" onclick="QuoteClick()"><a href="../Quotes/Quotes.aspx"
+                            id="Quotes" runat="server" clientidmode="Static">Quotes </a></li>
+                        <%if (ViewQuotePipelineDG == "true")
+                          { %>
+                        <li id="LiQuotesOver1K" runat="server" onclick="QuotesPipeline()"><a href="../QuotesOver1K/QuotesOver1K.aspx"
+                            id="QuotesPipeline" runat="server" clientidmode="Static">Quote Pipeline </a>
+                        </li>
+                        <li id="LiQuoteGuidance" runat="server" onclick="QuotesGuidance()"><a href="../QuotesGuidance/QuotesGuidance.aspx"
+                            id="QuoteGuidance" runat="server" clientidmode="Static">Quote DG </a></li>
+                        <% }%>
+                        <%if (CA == "true")
+                          { %>
+                        <li id="LiConstruction" runat="server" onclick="ConstClick()"><a href="../Construction/Construction.aspx"
+                            id="Construction">Construction </a></li>
+                        <% }%>
+                        <%if (EMED == "true")
+                          { %>
+                        <li id="LiMining" runat="server" onclick="MiningClick()"><a href="../Mining/Mining.aspx"
+                            id="Mining">Mining </a></li>
+                        <% }%>
+                        <%if (ViewOnHoldOrder == "true")
+                          { %>
+                        <li id="LiOnHoldOrder" runat="server" onclick="OnHoldOrderClick()"><a href="../OnHoldOrder/OnHoldOrder.aspx"
+                            id="OnHoldOrder" runat="server" clientidmode="Static">OnHold Order </a></li>
+                        <% }%>
+                    </ul>
+                    <div class="clear">
+                    </div>
+                </div>
+                <!-- End nav -->
+                <div id="brandbox-container">
+                    <asp:DropDownList ID="ddlCampaign" runat="server" AutoPostBack="true" Height="20px"
+                        OnSelectedIndexChanged="ddlCampaign_SelectedIndexChanged1">
+                    </asp:DropDownList>
+                </div>
+                <!-- End brand box -->
+                <!-- End header-bottom -->
+                <div class="clear">
+                </div>
+            </div>
+            <!-- End HEADER -->
+        </div>
+        <asp:ContentPlaceHolder ID="container" runat="server">
+        </asp:ContentPlaceHolder>
+        <asp:UpdateProgress ID="prgId1" runat="server">
+            <ProgressTemplate>
+                <div id="loading" style="position: fixed; width: 100%; text-align: center; top: 300px;">
+                    <asp:Image ID="Image1" runat="server" ImageUrl="~/App_Themes/Images/indicator_medium.gif" />
+                    <br />
+                    Please wait...
+                </div>
+            </ProgressTemplate>
+        </asp:UpdateProgress>
+    </div>
+    <asp:DropDownList ID="ddlCampaignValue" runat="server" AutoPostBack="true" Style="visibility: hidden;"
+        Width="0px" Height="0px">
+    </asp:DropDownList>
+    <asp:HiddenField ID="AccountNumber" ClientIDMode="Static" runat="server" />
+    <asp:HiddenField ID="ProjectID" ClientIDMode="Static" runat="server" />
+    <asp:HiddenField ID="CheckIfCancelOK" ClientIDMode="Static" runat="server" />
+    <asp:HiddenField ID="lblContactNumber" ClientIDMode="Static" runat="server" />
+    <asp:HiddenField ID="lblContactName" ClientIDMode="Static" runat="server" />
+    <asp:HiddenField ID="AccountName" ClientIDMode="Static" runat="server" />
+    <asp:HiddenField ID="CSS" ClientIDMode="Static" runat="server" />
+    <asp:HiddenField ID="Region" ClientIDMode="Static" runat="server" />
+    <asp:HiddenField ID="CampaignValueList" ClientIDMode="Static" runat="server" />
+    <asp:HiddenField ID="CampaignNameList" ClientIDMode="Static" runat="server" />
+    <input id="hf" type="hidden" />
+    </form>
+</body>
+</html>

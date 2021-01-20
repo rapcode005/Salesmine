@@ -1,0 +1,509 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SalesMine.master.cs"
+    Inherits="WebSalesMine.WebPages.UserControl.SalesMine" %>
+
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="asp" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<%@ Register Src="~/WebPages/UserControl/MasterPageMainFooter.ascx" TagName="Footer"
+    TagPrefix="uc1" %>
+<%@ Register Src="~/WebPages/UserControl/MasterPageMainHeader.ascx" TagName="MainHeader"
+    TagPrefix="uc1" %>
+<%@ Register Src="~/WebPages/UserControl/MasterPageMainSubHeader.ascx" TagName="SubHeader"
+    TagPrefix="uc1" %>
+<%@ Import Namespace="AppLogic" %>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>WEB SALESMINE APPLICATION</title>
+    <link href="../../App_Themes/CSS/SalesMineMasterPage.css" rel="stylesheet" type="text/css" />
+    <link href="../../App_Themes/CSS/Site.css" rel="Stylesheet" type="text/css" />
+    <link href="../../App_Themes/CSS/ButtonEffect.css" rel="stylesheet" type="text/css" />
+    <link href="../../App_Themes/CSS/PopUpModal.css" rel="stylesheet" type="text/css" />
+    <link type="text/css" href="../../App_Themes/CSS/JqueryCSS/jquery-ui.css" rel="stylesheet" />
+    <link type="text/css" href="../../App_Themes/CSS/Comman.css" rel="stylesheet" />
+    <link href="../../App_Themes/Theme_Roller/jquery-ui-1.8.17.custom/css/custom-theme/jquery-ui-1.8.17.custom.css"
+        rel="stylesheet" type="text/css" />
+    <script src="../../App_Themes/JS/jquery.min.js" type="text/javascript"></script>
+    <script src="../../App_Themes/JS/jquery-ui.min.js" type="text/javascript"></script>
+    <script type='text/javascript' src="../../App_Themes/JS/JqueryJS/csshorizontalmenu.js"></script>
+    <!-- jQuery Library Ends Here -->
+    <meta http-equiv="Cache-Control" content="no-cache" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <!-- jQuery Library Ends Here -->
+    <link type="text/css" rel="stylesheet" href="../../App_Themes/CSS/demos.css" />
+    <link href="../../App_Themes/CSS/styles.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" language="javascript">
+        function getCookie(c_name) {
+            var i, x, y, ARRcookies = document.cookie.split(";");
+            for (i = 0; i < ARRcookies.length; i++) {
+                x = ARRcookies[i].substr(0, ARRcookies[i].indexOf("="));
+                y = ARRcookies[i].substr(ARRcookies[i].indexOf("=") + 1);
+                x = x.replace(/^\s+|\s+$/g, "");
+                if (x == c_name) {
+                    return unescape(y);
+                }
+            }
+        }
+
+        function setCookie(c_name, value, exdays) {
+            var exdate = new Date();
+            exdate.setDate(exdate.getDate() + exdays);
+            var c_value = escape(value) + ((exdays == null) ? "" : "; expires=" + exdate.toUTCString());
+            document.cookie = c_name + "=" + c_value + ';path=/';
+        }
+
+        function checkCookie() {
+            var username = getCookie("username");
+            if (username != null && username != "") {
+                alert("Welcome again " + username);
+            }
+            else {
+                username = prompt("Please enter your name:", "");
+                if (username != null && username != "") {
+                    setCookie("username", username, 365);
+                }
+            }
+        }
+    </script>
+    <script type="text/javascript" language="javascript">
+
+
+        function FocusValue(txt) {
+            var elem = $get("ContactLevelNumber");
+            elem.value = txt.Value;
+        }
+
+        function FocusValueAccount(txt) {
+            var elem = $get("AccountNumber");
+            elem.value = txt.value;
+        }
+
+        function __doPostBack(eventTarget, eventArgument) {
+            if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+                theForm.__EVENTTARGET.value = eventTarget;
+                theForm.__EVENTARGUMENT.value = eventArgument;
+                theForm.submit();
+            }
+        }
+
+        var openWindows = new Array();
+        function openWindow() {
+
+            openWindows[openWindows.length] = window.open('../Home/KamWindow1.aspx', 'mywindow', 'width=1200,height=400,scrollbars=yes');
+            openWindows[1].window.close();
+        }
+
+        function RefreshWinodw() {
+            var kid = window.open("", "mywindow");
+            kid.location.reload();
+        }
+
+      
+        function closeChildWindows() {
+
+            var kid = window.open("", "mywindow");
+            kid.close();
+
+            if (openWindows.length > 0) {
+                for (i = 0; i < openWindows.length; i++) {
+                    openWindows[i].window.close();
+                }
+            }
+        }
+    </script>
+    <style type="text/css">
+        .Invisible
+        {
+            display: none;
+        }
+        .modalBackground
+        {
+            background-color: Gray;
+            filter: alpha(opacity=70);
+            opacity: 0.7;
+        }
+        
+        .style3
+        {
+            width: 283px;
+        }
+        .style4
+        {
+            width: 285px;
+        }
+        .style5
+        {
+            width: 600px;
+            min-width: 100px;
+            margin-right: 2%;
+            font-size: 15px;
+            color: #555;
+            font-style: normal;
+        }
+        .style6
+        {
+            width: 307px;
+        }
+        .highlightRow
+        {
+            background-color: Yellow;
+        }
+        
+        .select
+        {
+            background-color: #c0c0c0;
+        }
+    </style>
+    <script type="text/javascript" language="javascript">
+        $(function () {
+            // a workaround for a flaw in the demo system (http://dev.jqueryui.com/ticket/4375), ignore!
+            $("#dialog:ui-dialog").dialog("destroy");
+
+            var name = $("#name"),
+                email = $("#email"),
+                password = $("#password"),
+                allFields = $([]).add(name).add(email).add(password),
+                tips = $(".validateTips");
+
+
+
+            function updateTips(t) {
+                tips
+                .text(t)
+                .addClass("ui-state-highlight");
+                setTimeout(function () {
+                    tips.removeClass("ui-state-highlight", 1500);
+                }, 500);
+            }
+
+            function checkLength(o, n, min, max) {
+                if (o.val().length > max || o.val().length < min) {
+                    o.addClass("ui-state-error");
+                    updateTips("Length of " + n + " must be between " +
+                    min + " and " + max + ".");
+                    return false;
+                } else {
+                    return true;
+                }
+            }
+
+            function checkRegexp(o, regexp, n) {
+                if (!(regexp.test(o.val()))) {
+                    o.addClass("ui-state-error");
+                    updateTips(n);
+                    return false;
+                } else {
+                    return true;
+                }
+            }
+
+            $("#Dialog-Contact").dialog({
+                autoOpen: false,
+                height: 350,
+                width: 400,
+                modal: true,
+                buttons: {
+                    "Cancel"
+                        : function () {
+                            $(this).dialog("close");
+                        },
+                    Ok: function () {
+                        PageMethods.ReturnString(txtnotedate, txtnotetype, txtaddnote);
+                        $(this).dialog("close");
+                    }
+                },
+
+
+                close: function () {
+                    allFields.val("").removeClass("ui-state-error");
+                }
+            });
+
+            //---------Notes&Comhist PopUp Notes Dialog--------
+            //            $("#dialog-form").dialog({
+            //                autoOpen: false,
+            //                height: 400,
+            //                width: 500,
+            //                modal: true,
+            //                show: "blind",
+            //                hide: "explode",
+            //                buttons: {
+            //                    "Cancel"
+            //                        : function () {
+            //                            $(this).dialog("close");
+            //                        },
+            //                    Add: function () {
+            //                        if (document.getElementById('txtAddNote').value == "" || document.getElementById('txtNoteDate').value == "" || txtnotetype == "") {
+            //                            window.alert("Invalid Entry");
+            //                        }
+            //                        else {
+            //                            var txtaddnote = document.getElementById('txtAddNote').value;
+            //                            var txtnotedate = document.getElementById('txtNoteDate').value;
+            //                            var e = document.getElementById('NoteType');
+            //                            var txtnotetype = e.options[e.selectedIndex].text;
+
+            //                            PageMethods.ReturnString(txtnotedate, txtnotetype, txtaddnote);
+            //                            window.alert("Successfully Save!");
+            //                            window.alert("OKOKOKOK");
+            //                            $(this).dialog("close");
+            //                        }
+            //                    }
+            //                },
+
+            //                close: function () {
+            //                    allFields.val("").removeClass("ui-state-error");
+            //                }
+
+            //            });
+            //------------------------------------------------------------------------------
+
+        });
+
+        $(function () {
+            // a workaround for a flaw in the demo system (http://dev.jqueryui.com/ticket/4375), ignore!
+            $("#dialog:ui-dialog").dialog("destroy");
+
+            $("#dialog-message").dialog({
+                modal: true,
+                buttons: {
+                    Ok: function () {
+                        $(this).dialog("close");
+                    }
+                }
+            });
+        });
+
+
+        $(document).ready(function () {
+            $('a#Sample').live('click', function (e) {
+                var page = $(this).attr("href") //get url of link
+                var $dialog = $('<div></div>')
+                .html('<iframe frameborder="0" src="' + page + '" width="100%" height="100%"></iframe>')
+                .dialog({
+                    autoOpen: false,
+                    modal: true,
+                    height: 400,
+                    width: 680,
+                    resizable: false,
+                    title: "Contact Level",
+                    buttons: {
+                        "Ok": function () {
+                            var elem1 = $get("CheckIfCancelOK");
+                            elem1.value = "Ok";
+                            __doPostBack('= btnRefresh.ClientID ', '');
+                            setCookie('XposT', getCookie('Xpos'), 1);
+                            setCookie('YposT', getCookie('Ypos'), 1);
+                            $dialog.dialog('close');
+                        },
+                        "Cancel": function () {
+                            var elem = $get("CheckIfCancelOK");
+                            elem.value = "Cancel";
+                            __doPostBack('= btnRefresh.ClientID ', '');
+                            setCookie('CName', $get('lblContactName').innerText, 1);
+                            setCookie('CNo', $get('txtContactNumber').value, 1);
+                            $dialog.dialog('close');
+                        }
+                    }
+                });
+                $dialog.dialog('open');
+                e.preventDefault();
+            });
+        });
+
+        function validate() {
+            if (document.getElementById('txtAddNote').value == "" || document.getElementById('txtNoteDate').value == "" || txtnotetype == "") {
+                window.alert("Invalid Entry");
+
+            }
+            else {
+                window.alert("Invalid Entry");
+            }
+
+
+        }
+
+
+        function HideandUNhideObj(ThisObj) {
+            nav = document.getElementById(ThisObj).style
+            if (nav.display == "none") {
+                nav.display = 'block';
+            }
+            else {
+                nav.display = 'none';
+            }
+        }
+
+
+
+    </script>
+</head>
+<body id="masterBody" runat="server">
+    <form id="form1" runat="server" enctype="multipart/form-data">
+    <asp:ScriptManager ID="ScriptManager1" runat="server" EnableScriptGlobalization="True"
+        AsyncPostBackTimeout="3600" EnablePageMethods="true">
+    </asp:ScriptManager>
+    <asp:UpdatePanel ID="uppanelMain" runat="server" UpdateMode="Conditional">
+        <ContentTemplate>
+            <table id="firstTable" cellpadding="0" cellspacing="0" border="0">
+                <caption>
+                    <tr>
+                        <td>
+                            <table style="padding-left: 110px; padding-right: 140px; background-color: #023269">
+                                <tr>
+                                    <td class="style3">
+                                        <div style="font-size: 15px; color: white">
+                                            Account Number
+                                        </div>
+                                        <div class="search-container">
+                                            <asp:UpdatePanel ID="UpdatePanel1" runat="server" UpdateMode="Conditional">
+                                                <Triggers>
+                                                    <asp:AsyncPostBackTrigger ControlID="txtAccountNumber" />
+                                                </Triggers>
+                                                <ContentTemplate>
+                                                    <asp:TextBox ID="txtAccountNumber" runat="server" AutoPostBack="true" CssClass="txtbox-search"
+                                                        onfocus="FocusValueAccount(this);" OnTextChanged="txtAccountNumber_TextChanged"></asp:TextBox>
+                                                    <asp:Button ID="imbSearchAcntNumber" runat="server" class="btn-search" ClientIDMode="Static"
+                                                        OnClick="imbSearchAcntNumber_Click1" ToolTip="Show Contact Name" type="submit"
+                                                        value="" />
+                                                </ContentTemplate>
+                                            </asp:UpdatePanel>
+                                        </div>
+                                    </td>
+                                    <td class="style3">
+                                        <div style="font-size: 15px; color: white">
+                                            Contact Level
+                                        </div>
+                                        <div class="search-container">
+                                            <asp:TextBox ID="txtContactNumber" ClientIDMode="Static" runat="server" AutoPostBack="True"
+                                                CssClass="txtbox-search" onfocus="FocusValue(this)" OnTextChanged="txtContactNumber_TextChanged1"
+                                                type="text" />
+                                            <a id="Sample" href="../Home/ContactLevel.aspx">
+                                                <asp:Button ID="imbContactLevel" type="submit" value="" CssClass="btn-search" ClientIDMode="Static"
+                                                    ToolTip="Show Contact Level" runat="server" OnClick="imbContactLevel_Click1" /></a></a>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        &nbsp;
+                                    </td>
+                                    <td align="right" class="style5">
+                                        <div style="font-size: 15px; color: white">
+                                            Select Campaign
+                                        </div>
+                                        <asp:DropDownList ID="ddlCampaign" runat="server" AutoPostBack="true" Height="20px"
+                                            OnSelectedIndexChanged="ddlCampaign_SelectedIndexChanged1">
+                                        </asp:DropDownList>
+                                        <div>
+                                            <asp:Label ID="lblUser" runat="server" Visible="true" CssClass="lbluser_Master" meta:resourcekey="lblUserResource1"></asp:Label>
+                                            <asp:Label ID="Label1" runat="server" Text="|"></asp:Label>
+                                            <%--  <asp:Button ID="btnLogoutButton" runat="server" UseSubmitBehavior="False" CssClass="BackButton"
+                                                ToolTip="Logout" OnClick="btnlogout_Click_test" Width="66px" Height="19px" BorderWidth="0" />--%>
+                                            <asp:LinkButton ID="Hypelogout" runat="server" Font-Size="16px" ForeColor="#FFFFFF"
+                                                CssClass="Hypelogout" OnClick="Hypelogout_Click" OnClientClick="javascript:closeChildWindows();">Logout</asp:LinkButton>
+                                            <%-- <asp:HyperLink ID="Hypelogout" runat="server" Font-Size="16px" ForeColor="#FFFFFF" CssClass="Hypelogout">Logout</asp:HyperLink>--%>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <div style="height: auto; min-width: 100px; margin-right: 2%; font-family: Courier New;
+                                            font-size: 16px; color: white; float: left; font-style: normal; line-height: 100%;
+                                            width: 279px; padding: 0px 0px 0px 0px;">
+                                            <asp:Label ID="lblAccountName" runat="server" Font-Bold="true"></asp:Label>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div style="height: auto; min-width: 100px; margin-right: 2%; font-family: Courier New;
+                                            font-size: 16px; color: white; float: left; font-style: normal; line-height: 100%;
+                                            width: 279px; padding: 0px 0px 0px 0px;">
+                                            <asp:Label ID="lblContactName" ClientIDMode="Static" runat="server" Font-Bold="True"></asp:Label>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </caption>
+                <tr>
+                    <td class="ButtonLayoutMaster">
+                        <div style="height: 30px">
+                            <div class="horizontalcssmenu">
+                                <ul id="cssmenu1">
+                                    <li id="NavHome" class="NavHome" runat="server"><a href="../Home/Main.aspx"></a>
+                                    </li>
+                                    <li id="LiOrderHistory" class="NavHistory" runat="server"><a href="../OrderHistory/OrderHistory.aspx">
+                                        Order History</a></li>
+                                    <li id="LiProductSummar" class="NavProductSummary" runat="server"><a href="../ProductSummary/ProductSummary.aspx"
+                                        rel="dropmenu1">Product Summary</a>
+                                        <ul>
+                                            <li class="NavProductSummaryT" runat="server" id="LiProductSummarT"><span onclick="return confirm('Caution: Proceeding to the next window might take long time to load. \n Click ok to Continue.')">
+                                                <a id="A1" runat="server" href="../ProductSummary/ProductSummaryTerritory.aspx">Product
+                                                    Territory</a> </span></li>
+                                        </ul>
+                                    </li>
+                                    <%if (pcman == "false")
+                                      { %>
+                                    <li class="NavSiteAndContact" runat="server" id="LiSiteContactInfo"><a href="../SiteAndContactInfo/SiteAndContactInfo.aspx">
+                                        Site & Contact Info</a></li>
+                                    <% }%>
+                                    <li id="LiNotesComHist" class="NavNotesComhist" runat="server"><a href="../NotesCommHistory/NotesCommHistory.aspx">
+                                        Notes & ComHist</a>
+                                        <ul>
+                                            <li runat="server" id="LiNotesNCompHistT"><span onclick="return confirm('Caution: Proceeding to the next window might take long time to load. \n Click ok to Continue.')">
+                                                <a id="A2" runat="server" href="../NotesCommHistory/NotesCommHistoryTerritory.aspx">
+                                                    Notes Territory</a> </span></li>
+                                        </ul>
+                                    </li>
+                                    <li id="LiQuotes" class="NavQuotes" runat="server"><a href="../Quotes/Quotes.aspx">Quotes</a></li>
+                                    <li id="LiCustomerLookUp" class="NavCustomerLookup" runat="server"><a href="../CustomerLookUp/CustomerLookUp.aspx">
+                                        Customer Lookup</a></li>
+                                    <li id="LiManageUsers" class="NavAdministration" runat="server"><a href="../Admin/ManageUsers.aspx">
+                                        Administration</a></li>
+                                    <li id="LiBtnKam" class="NavAdministration" runat="server"><a href="#" onclick="javascript:openWindow();">
+                                        KAM</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+                <tr class="TDBackgroungLine_Master">
+                    <td>
+                        <table style="height: auto; position: relative">
+                            <tr>
+                                <td id="LeftSide2" style="width: 100%; height: 100%;" valign="top">
+                                    <table border="0">
+                                        <tr>
+                                            <td id="tdSpacer" runat="server" visible="false">
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+            <center>
+                <table>
+                    <tr>
+                        <td id="tdContent" valign="top" style="width: 100%; height: 100%; padding: 5px 5px 5px 5px">
+                            <asp:ContentPlaceHolder ID="MAINCONTENT" runat="server">
+                            </asp:ContentPlaceHolder>
+                        </td>
+                    </tr>
+                </table>
+            </center>
+        </ContentTemplate>
+    </asp:UpdatePanel>
+    <asp:UpdateProgress ID="prgId1" runat="server">
+        <ProgressTemplate>
+            <div id="loading" style="position: absolute; width: 100%; text-align: center; top: 300px;">
+                <asp:Image ID="Image1" runat="server" ImageUrl="~/App_Themes/Images/indicator_medium.gif" />
+                <br />
+                Please wait...
+            </div>
+        </ProgressTemplate>
+    </asp:UpdateProgress>
+    <asp:HiddenField ID="CheckIfCancelOK" ClientIDMode="Static" runat="server" />
+    <asp:HiddenField ID="AccountNumber" ClientIDMode="Static" runat="server" />
+    <asp:HiddenField ID="ContactLevelNumber" ClientIDMode="Static" runat="server" />
+    </form>
+</body>
+</html>

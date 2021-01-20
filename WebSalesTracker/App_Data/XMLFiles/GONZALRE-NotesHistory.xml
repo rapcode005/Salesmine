@@ -1,0 +1,1716 @@
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="DATE" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="CREATED_x0020_BY" type="xs:string" minOccurs="0" />
+                <xs:element name="NOTE_x0020_TYPE" type="xs:string" minOccurs="0" />
+                <xs:element name="NOTES" type="xs:string" minOccurs="0" />
+                <xs:element name="SCHEDULED_x0020_DATE" type="xs:string" minOccurs="0" />
+                <xs:element name="ACCOUNT_x0020_NUMBER" type="xs:double" minOccurs="0" />
+                <xs:element name="CONTACT_x0020_NAME" type="xs:string" minOccurs="0" />
+                <xs:element name="CONTACT_x0020_NUMBER" type="xs:double" minOccurs="0" />
+                <xs:element name="DISPOSITION_x0020_CODE" type="xs:string" minOccurs="0" />
+                <xs:element name="DISPOSITION_x0020_DESCRIPTION" type="xs:string" minOccurs="0" />
+                <xs:element name="AGENT_x0020_NAME" type="xs:string" minOccurs="0" />
+                <xs:element name="PHONE_x0020_NUMBER" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <DATE>2013-03-06T10:15:04+08:00</DATE>
+    <CREATED_x0020_BY>QUADRAEL  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>PROVIDED $10 APPROVED BY TL EENA 1RZQT45                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </NOTES>
+    <SCHEDULED_x0020_DATE>03/06/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-03-06T10:15:32+08:00</DATE>
+    <CREATED_x0020_BY>CAGUINRO  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>PROVIDED $10 APPROVED BY TL EENA 1RZQT45                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </NOTES>
+    <SCHEDULED_x0020_DATE>03/06/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-03-06T10:15:35+08:00</DATE>
+    <CREATED_x0020_BY>SEVILLMA  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>PROVIDED $10 DISCOUNT APPROVED BY TL EENA 1RCQT45                                                                                                                                                                                                                                                                                                                                                                                                                                                                   </NOTES>
+    <SCHEDULED_x0020_DATE>03/06/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-03-06T10:15:41+08:00</DATE>
+    <CREATED_x0020_BY>BOCAOJE   </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>PROVIDED $10 APPROVED BY TL EENA 1RZQT45                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </NOTES>
+    <SCHEDULED_x0020_DATE>03/07/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-03-06T10:15:44+08:00</DATE>
+    <CREATED_x0020_BY>OCAMPOG1  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>PROVIDED $10 DISCOUNT APPROVED BY TL EENA 1RZQT45                                                                                                                                                                                                                                                                                                                                                                                                                                                                   </NOTES>
+    <SCHEDULED_x0020_DATE>03/06/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-03-06T10:15:24+08:00</DATE>
+    <CREATED_x0020_BY>PANTIBE   </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>PROVIDED $10 APPROVED BY TL EENA 1RRZQT45                                                                                                                                                                                                                                                                                                                                                                                                                                                                           </NOTES>
+    <SCHEDULED_x0020_DATE>03/06/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-03-06T10:15:52+08:00</DATE>
+    <CREATED_x0020_BY>MENDELCL  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>PROVIDED 10$ APPROVED BY TL EENA 1RQZT45                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </NOTES>
+    <SCHEDULED_x0020_DATE>03/06/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-03-06T10:17:12+08:00</DATE>
+    <CREATED_x0020_BY>ALAWIJO   </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>PROVIDED $10 APPROVED BY TL EENA 1RZQT45                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </NOTES>
+    <SCHEDULED_x0020_DATE>03/06/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-03-06T10:17:14+08:00</DATE>
+    <CREATED_x0020_BY>COLLADRI  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>PROVIDED $10 APPROVED BY TL EENA 1RZQT45.                                                                                                                                                                                                                                                                                                                                                                                                                                                                           </NOTES>
+    <SCHEDULED_x0020_DATE>03/07/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-03-06T10:15:46+08:00</DATE>
+    <CREATED_x0020_BY>APANJE    </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>PROVIDED $10 APPROVED BY TL EENA 1RZQT45                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </NOTES>
+    <SCHEDULED_x0020_DATE>03/06/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2012-12-12T06:54:36.977+08:00</DATE>
+    <CREATED_x0020_BY>ONGRA     </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>FOLLOW UP</NOTE_x0020_TYPE>
+    <NOTES>Testing 12/12/2012                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  </NOTES>
+    <SCHEDULED_x0020_DATE>12/12/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2012-11-26T08:33:12+08:00</DATE>
+    <CREATED_x0020_BY>ONGRA     </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>REMINDER</NOTE_x0020_TYPE>
+    <NOTES>TESTING RAFAEL ONG - PERSONNEL CONCEPTS                                                                                                                                                                                                                                                                                                                                                                                                                                                                             </NOTES>
+    <SCHEDULED_x0020_DATE>11/26/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2012-11-26T07:05:45+08:00</DATE>
+    <CREATED_x0020_BY>ONGRA     </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>REMINDER</NOTE_x0020_TYPE>
+    <NOTES>TESTING RAP                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         </NOTES>
+    <SCHEDULED_x0020_DATE>11/26/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2012-11-26T07:09:29.377+08:00</DATE>
+    <CREATED_x0020_BY>OngRa     </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES xml:space="preserve">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </NOTES>
+    <SCHEDULED_x0020_DATE>11/26/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>1</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2012-11-26T07:09:36.703+08:00</DATE>
+    <CREATED_x0020_BY>OngRa     </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES xml:space="preserve">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </NOTES>
+    <SCHEDULED_x0020_DATE>11/26/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>1</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2012-11-26T07:16:24.96+08:00</DATE>
+    <CREATED_x0020_BY>OngRa     </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES xml:space="preserve">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </NOTES>
+    <SCHEDULED_x0020_DATE>11/26/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>1</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2012-11-26T07:16:29.887+08:00</DATE>
+    <CREATED_x0020_BY>OngRa     </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES xml:space="preserve">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </NOTES>
+    <SCHEDULED_x0020_DATE>11/26/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>1</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2012-11-26T07:16:45.22+08:00</DATE>
+    <CREATED_x0020_BY>OngRa     </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES xml:space="preserve">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </NOTES>
+    <SCHEDULED_x0020_DATE>11/26/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>1</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2012-11-26T07:16:48.393+08:00</DATE>
+    <CREATED_x0020_BY>OngRa     </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES xml:space="preserve">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </NOTES>
+    <SCHEDULED_x0020_DATE>11/26/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>1</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2012-11-26T07:17:17.377+08:00</DATE>
+    <CREATED_x0020_BY>OngRa     </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES xml:space="preserve">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </NOTES>
+    <SCHEDULED_x0020_DATE>11/26/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>1</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2012-11-26T07:17:20.62+08:00</DATE>
+    <CREATED_x0020_BY>OngRa     </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES xml:space="preserve">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </NOTES>
+    <SCHEDULED_x0020_DATE>11/26/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>1</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2012-11-26T07:32:16+08:00</DATE>
+    <CREATED_x0020_BY>ONGRA     </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>REMINDER</NOTE_x0020_TYPE>
+    <NOTES>TESTING RAFAEL ONG - PC                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             </NOTES>
+    <SCHEDULED_x0020_DATE>11/30/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2012-11-26T07:26:18.03+08:00</DATE>
+    <CREATED_x0020_BY>OngRa     </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES xml:space="preserve">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </NOTES>
+    <SCHEDULED_x0020_DATE>11/26/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>1</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2012-11-26T07:26:22.767+08:00</DATE>
+    <CREATED_x0020_BY>OngRa     </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES xml:space="preserve">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </NOTES>
+    <SCHEDULED_x0020_DATE>11/26/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>1</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2012-11-26T07:26:41.393+08:00</DATE>
+    <CREATED_x0020_BY>OngRa     </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES xml:space="preserve">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </NOTES>
+    <SCHEDULED_x0020_DATE>11/26/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>1</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2012-11-26T08:33:12+08:00</DATE>
+    <CREATED_x0020_BY>ONGRA     </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>REMINDER</NOTE_x0020_TYPE>
+    <NOTES>TESTING RAFAEL ONG - PERSONNEL CONCEPTS                                                                                                                                                                                                                                                                                                                                                                                                                                                                             </NOTES>
+    <SCHEDULED_x0020_DATE>11/26/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-08-29T15:08:44+08:00</DATE>
+    <CREATED_x0020_BY>GUEVARTI  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>REMINDER</NOTE_x0020_TYPE>
+    <NOTES>TALKED TO DM - JOHN WAYNE
+PITCHED OS1 $42.95 (REACQUISITION PRICE)
+CALL BACK TO CONFIRM ORDER ON SEPTEMBER 5, 2PM EST
+                                                                                                                                                                                                                                                                                                                                                                                              </NOTES>
+    <SCHEDULED_x0020_DATE>09/05/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2012-11-26T07:32:16+08:00</DATE>
+    <CREATED_x0020_BY>ONGRA     </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>REMINDER</NOTE_x0020_TYPE>
+    <NOTES>TESTING RAFAEL ONG - PC                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             </NOTES>
+    <SCHEDULED_x0020_DATE>11/30/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-03-20T12:55:05+08:00</DATE>
+    <CREATED_x0020_BY>LOPEZD1   </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>PROVIDED A $10 DISCOUNT APPROVED BY TL BRONSON 1KIU7654R                                                                                                                                                                                                                                                                                                                                                                                                                                                            </NOTES>
+    <SCHEDULED_x0020_DATE>03/20/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-03-20T12:55:12+08:00</DATE>
+    <CREATED_x0020_BY>REYNOSRI  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>PROVIDED DISCOUNT OF $10 APPROVED BY TL BRONSON                                                                                                                                                                                                                                                                                                                                                                                                                                                                     </NOTES>
+    <SCHEDULED_x0020_DATE>03/20/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-03-20T12:55:03+08:00</DATE>
+    <CREATED_x0020_BY>HERNANJE  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>PROVIDED A DISCOUNT OF $10 APPROVED BY TL EENA 1F238QXT                                                                                                                                                                                                                                                                                                                                                                                                                                                             </NOTES>
+    <SCHEDULED_x0020_DATE>03/20/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-03-20T12:55:06+08:00</DATE>
+    <CREATED_x0020_BY>PARCONDE  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>PROVIDED $10.00 DISCOUNT APPROVED BY TL EENA. 4F238QXT                                                                                                                                                                                                                                                                                                                                                                                                                                                              </NOTES>
+    <SCHEDULED_x0020_DATE>03/20/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-03-20T12:54:56+08:00</DATE>
+    <CREATED_x0020_BY>JAMEROPE  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>PROVIDED A DISCOUNT OF $10. APPROVED BY TL EENA. 1F238QXT                                                                                                                                                                                                                                                                                                                                                                                                                                                           </NOTES>
+    <SCHEDULED_x0020_DATE>03/20/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-03-20T12:54:58+08:00</DATE>
+    <CREATED_x0020_BY>GALVEZKA  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>PROVIDED A DISCOUNT OF $10. APPROVED BY TL EENA. 1F238QXT                                                                                                                                                                                                                                                                                                                                                                                                                                                           </NOTES>
+    <SCHEDULED_x0020_DATE>03/20/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-03-20T12:55:18+08:00</DATE>
+    <CREATED_x0020_BY>SANTOSF2  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>PROVIDE DISCOUNT OF $10 APPROVED BY TL EANA 1F238QXT                                                                                                                                                                                                                                                                                                                                                                                                                                                                </NOTES>
+    <SCHEDULED_x0020_DATE>03/21/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-06-05T10:19:00+08:00</DATE>
+    <CREATED_x0020_BY>BANGOYRO  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>DISCOUNT OF $10
+RP42956X APPROVED BY TL LIZ                                                                                                                                                                                                                                                                                                                                                                                                                                                                         </NOTES>
+    <SCHEDULED_x0020_DATE>06/05/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-06-05T10:18:54+08:00</DATE>
+    <CREATED_x0020_BY>ESCANOAI  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>RPY2956X APPROVED BY TL LIZ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         </NOTES>
+    <SCHEDULED_x0020_DATE>06/05/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-06-05T10:21:29+08:00</DATE>
+    <CREATED_x0020_BY>FUERTEED  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>DISCOUNT OF 10%
+RP42956X APPROVED BY TL LIZ
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </NOTES>
+    <SCHEDULED_x0020_DATE>06/05/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-04-24T10:48:43+08:00</DATE>
+    <CREATED_x0020_BY>NOOLJE    </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>PROVIDED $20 DISCOUNT APPROVED BY TL LIZ WT18Z59AF                                                                                                                                                                                                                                                                                                                                                                                                                                                                  </NOTES>
+    <SCHEDULED_x0020_DATE>04/24/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-04-24T10:49:14+08:00</DATE>
+    <CREATED_x0020_BY>DELOCIMA  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>PROVIDED $20 DISCOUNT APPROVED BY TL LIZ WT18Z59AF                                                                                                                                                                                                                                                                                                                                                                                                                                                                  </NOTES>
+    <SCHEDULED_x0020_DATE>04/24/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-04-24T10:49:19+08:00</DATE>
+    <CREATED_x0020_BY>VELASQJO  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>PROVIDED $20 DISCOUNT APPROVED BY TL LIZ WT18Z59AF                                                                                                                                                                                                                                                                                                                                                                                                                                                                  </NOTES>
+    <SCHEDULED_x0020_DATE>04/24/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-04-24T10:49:02+08:00</DATE>
+    <CREATED_x0020_BY>SARMIEJU  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>PROVIDED $20 DISCOUNT AS APPROVED BY TL LIZ - WT18Z59AF                                                                                                                                                                                                                                                                                                                                                                                                                                                             </NOTES>
+    <SCHEDULED_x0020_DATE>04/24/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-04-24T10:49:39+08:00</DATE>
+    <CREATED_x0020_BY>ENOYGL    </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>PROVIDED $20 DISCOUNT APPROVED BY TL LIZ WT18Z59AF                                                                                                                                                                                                                                                                                                                                                                                                                                                                  </NOTES>
+    <SCHEDULED_x0020_DATE>04/24/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-04-24T10:49:02+08:00</DATE>
+    <CREATED_x0020_BY>SANTOSST  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>PROVIDED $20 DISCOUNT                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               </NOTES>
+    <SCHEDULED_x0020_DATE>04/24/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2012-12-06T08:21:10+08:00</DATE>
+    <CREATED_x0020_BY>ONGRA     </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>FOLLOW UP</NOTE_x0020_TYPE>
+    <NOTES>TESTING                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             </NOTES>
+    <SCHEDULED_x0020_DATE>12/06/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2012-12-06T08:07:56+08:00</DATE>
+    <CREATED_x0020_BY>ONGRA     </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>REMINDER</NOTE_x0020_TYPE>
+    <NOTES>TESTING WEB SALESMINE                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               </NOTES>
+    <SCHEDULED_x0020_DATE>12/06/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-04-05T14:31:13+08:00</DATE>
+    <CREATED_x0020_BY>SANTOSJU  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>HI AIMEE!!                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </NOTES>
+    <SCHEDULED_x0020_DATE>04/06/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-04-05T14:32:27+08:00</DATE>
+    <CREATED_x0020_BY>SANTOSJU  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>PROVIDED $10 DISCOUNT APPROVED BY TL LIZ
+X5PTQ1RZ                                                                                                                                                                                                                                                                                                                                                                                                                                                                   </NOTES>
+    <SCHEDULED_x0020_DATE>04/06/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-04-05T14:32:48+08:00</DATE>
+    <CREATED_x0020_BY>HOLASCAN  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>PROVIDE $10.00 DISCOUNT.
+APPROVED BY TL LIZ 4F238QXT
+                                                                                                                                                                                                                                                                                                                                                                                                                                                               </NOTES>
+    <SCHEDULED_x0020_DATE>04/05/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-04-05T14:33:02+08:00</DATE>
+    <CREATED_x0020_BY>MAGALOJO  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>PROVIDED $10 APPROVED BY TL LIZ X5KJJGHGJ                                                                                                                                                                                                                                                                                                                                                                                                                                                                           </NOTES>
+    <SCHEDULED_x0020_DATE>04/05/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-04-05T14:33:16+08:00</DATE>
+    <CREATED_x0020_BY>MAPUSALE  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>PROVIDED $10 APPROVED BY TL LIZ IM GIVING YOU THIS DISCOUNT FOR THE BENEFIT OF THE CM                                                                                                                                                                                                                                                                                                                                                                                                                               </NOTES>
+    <SCHEDULED_x0020_DATE>04/05/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-04-05T14:33:40+08:00</DATE>
+    <CREATED_x0020_BY>BELGICYV  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>REMINDER</NOTE_x0020_TYPE>
+    <NOTES>PROVIDE $10 APPROVED BY TL LIZ XCZVQQ123                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </NOTES>
+    <SCHEDULED_x0020_DATE>04/05/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-04-05T14:33:53+08:00</DATE>
+    <CREATED_x0020_BY>VILLANAR  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>HEHE                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </NOTES>
+    <SCHEDULED_x0020_DATE>04/05/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-04-05T14:34:11+08:00</DATE>
+    <CREATED_x0020_BY>MANGILLO  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>FOLLOW UP</NOTE_x0020_TYPE>
+    <NOTES>PROVIDED $10 DISCOUNT APPROVED BY TL LIZ X5PTQ1R3                                                                                                                                                                                                                                                                                                                                                                                                                                                                   </NOTES>
+    <SCHEDULED_x0020_DATE>04/05/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-04-05T14:34:16+08:00</DATE>
+    <CREATED_x0020_BY>RIBLEZAB  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>GAVE $10 APPROVED BY TL LIZ X5PTQ1RZ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </NOTES>
+    <SCHEDULED_x0020_DATE>04/05/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2011-12-20T11:15:38.803+08:00</DATE>
+    <CREATED_x0020_BY>DRAYCOLE  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>test note for 12/14 training class in buffalo                                                                                                                                                                                                                                                                                                                                                                                                                                                                       </NOTES>
+    <SCHEDULED_x0020_DATE>12/20/2011</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2011-12-29T14:53:55.713+08:00</DATE>
+    <CREATED_x0020_BY>ENAJEMA   </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>REMINDER</NOTE_x0020_TYPE>
+    <NOTES>Cust wants to buy 10 cs1 next year.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 </NOTES>
+    <SCHEDULED_x0020_DATE>12/29/2011</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2011-12-29T14:57:08.703+08:00</DATE>
+    <CREATED_x0020_BY>MANGANJE  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>test note                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           </NOTES>
+    <SCHEDULED_x0020_DATE>12/29/2011</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2011-12-29T15:08:35.157+08:00</DATE>
+    <CREATED_x0020_BY>ENAJEMA   </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>REMINDER</NOTE_x0020_TYPE>
+    <NOTES>Ron Priest budget is $20                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </NOTES>
+    <SCHEDULED_x0020_DATE>12/29/2011</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2011-12-29T14:58:52.257+08:00</DATE>
+    <CREATED_x0020_BY>MANLAPJE  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>FOLLOW UP</NOTE_x0020_TYPE>
+    <NOTES>cust will get 5 csi. need to call back by jen manlapaz                                                                                                                                                                                                                                                                                                                                                                                                                                                              </NOTES>
+    <SCHEDULED_x0020_DATE>01/07/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2011-12-29T15:05:19.41+08:00</DATE>
+    <CREATED_x0020_BY>GONZAGGA  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>REMINDER</NOTE_x0020_TYPE>
+    <NOTES>Ron Priest's budget is $20                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </NOTES>
+    <SCHEDULED_x0020_DATE>12/29/2011</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2011-12-29T15:05:49.543+08:00</DATE>
+    <CREATED_x0020_BY>ENRIQULE  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>REMINDER</NOTE_x0020_TYPE>
+    <NOTES>RONN PRIEST'S BUDGET IS $20                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         </NOTES>
+    <SCHEDULED_x0020_DATE>12/29/2011</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2011-12-29T15:07:27.837+08:00</DATE>
+    <CREATED_x0020_BY>DELEONJA  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>REMINDER</NOTE_x0020_TYPE>
+    <NOTES>ron priest budget is $20.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           </NOTES>
+    <SCHEDULED_x0020_DATE>12/29/2011</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2011-12-29T15:07:50.44+08:00</DATE>
+    <CREATED_x0020_BY>PEREZRO   </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>REMINDER</NOTE_x0020_TYPE>
+    <NOTES>Ron's budget is $20                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 </NOTES>
+    <SCHEDULED_x0020_DATE>12/29/2011</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2011-12-29T15:15:12.053+08:00</DATE>
+    <CREATED_x0020_BY>ESPINARA  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>REMINDER</NOTE_x0020_TYPE>
+    <NOTES>RONN'S BUDGET IS $20                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </NOTES>
+    <SCHEDULED_x0020_DATE>12/29/2011</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-02-06T08:03:33+08:00</DATE>
+    <CREATED_x0020_BY>MANALOCR  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>PROVIDED $25 CREDIT AS APPROVED BY TL ENNA RCXNXCV                                                                                                                                                                                                                                                                                                                                                                                                                                                                  </NOTES>
+    <SCHEDULED_x0020_DATE>02/06/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-02-06T08:04:10+08:00</DATE>
+    <CREATED_x0020_BY>VALENTJE  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>PROVIDED $25 CREDIT AS APPROVED BY TL EENA RXCZW8                                                                                                                                                                                                                                                                                                                                                                                                                                                                   </NOTES>
+    <SCHEDULED_x0020_DATE>02/06/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-02-06T08:03:45+08:00</DATE>
+    <CREATED_x0020_BY>SYES      </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>PROVIDED $26 CREDIT APPROVED BY TL EENA RXCZW8                                                                                                                                                                                                                                                                                                                                                                                                                                                                      </NOTES>
+    <SCHEDULED_x0020_DATE>02/06/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-02-06T08:03:49+08:00</DATE>
+    <CREATED_x0020_BY>IBALECA   </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>PROVIDED $25 CREDIT AS APPROVED BY TL EENA RXCZW8                                                                                                                                                                                                                                                                                                                                                                                                                                                                   </NOTES>
+    <SCHEDULED_x0020_DATE>02/06/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-02-06T08:04:01+08:00</DATE>
+    <CREATED_x0020_BY>DELUNABE  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>PROVIDED $25 CREDIT AS APPROVED BY TL EENA RXCZW8                                                                                                                                                                                                                                                                                                                                                                                                                                                                   </NOTES>
+    <SCHEDULED_x0020_DATE>02/06/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-02-06T08:04:06+08:00</DATE>
+    <CREATED_x0020_BY>CANINODA  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>$10 DISCOUNT APPROVED BY AIMEE                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      </NOTES>
+    <SCHEDULED_x0020_DATE>02/06/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-02-06T08:04:08+08:00</DATE>
+    <CREATED_x0020_BY>SIOSONZE  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>APPROVED $25 CREDIT AS APPROVED BY TL EENA RXCZW8                                                                                                                                                                                                                                                                                                                                                                                                                                                                   </NOTES>
+    <SCHEDULED_x0020_DATE>02/06/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-02-06T08:04:34+08:00</DATE>
+    <CREATED_x0020_BY>BONARE    </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>PROVIDED $25 CREDIT AS APPROVED BY TL EENA. RXCZW8                                                                                                                                                                                                                                                                                                                                                                                                                                                                  </NOTES>
+    <SCHEDULED_x0020_DATE>02/06/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2011-12-29T15:08:40.683+08:00</DATE>
+    <CREATED_x0020_BY>QUIZONKA  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>REMINDER</NOTE_x0020_TYPE>
+    <NOTES>Ron Priest budget is 20$                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </NOTES>
+    <SCHEDULED_x0020_DATE>12/29/2011</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME>TESTER, MIKE</CONTACT_x0020_NAME>
+    <CONTACT_x0020_NUMBER>6087831</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2011-12-29T15:12:18.083+08:00</DATE>
+    <CREATED_x0020_BY>RODRIGE2  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>Ron Priest's budget is $20                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </NOTES>
+    <SCHEDULED_x0020_DATE>12/29/2011</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-05-09T09:42:34+08:00</DATE>
+    <CREATED_x0020_BY>CASADOMA  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>PROVIDED $20 DISCOUNT APPROVED BY AIMEE. YTC556738                                                                                                                                                                                                                                                                                                                                                                                                                                                                  </NOTES>
+    <SCHEDULED_x0020_DATE>05/09/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-05-09T09:42:35+08:00</DATE>
+    <CREATED_x0020_BY>TAGUIAMA  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>PROVIDED A $10 DISCOUNT APPROVED BY TL  LIZ RX510WYZ                                                                                                                                                                                                                                                                                                                                                                                                                                                                </NOTES>
+    <SCHEDULED_x0020_DATE>05/09/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-05-09T09:42:13+08:00</DATE>
+    <CREATED_x0020_BY>VAQUILJO  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>PROVIDED $25.00 DISCOUNT APPROVED BY TL LIZ RX510WYZ                                                                                                                                                                                                                                                                                                                                                                                                                                                                </NOTES>
+    <SCHEDULED_x0020_DATE>05/09/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-05-09T09:42:13+08:00</DATE>
+    <CREATED_x0020_BY>PAULERI   </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>PROVIDE A $500 DC APPROVED BY TL ANNE  RX200WYZ                                                                                                                                                                                                                                                                                                                                                                                                                                                                     </NOTES>
+    <SCHEDULED_x0020_DATE>05/09/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-05-09T09:42:42+08:00</DATE>
+    <CREATED_x0020_BY>COMSTIAR  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>PROVIDED A $10 DISCOUNT APPROVED BY TL PAULE RX510WYZ                                                                                                                                                                                                                                                                                                                                                                                                                                                               </NOTES>
+    <SCHEDULED_x0020_DATE>05/09/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-05-09T09:42:55+08:00</DATE>
+    <CREATED_x0020_BY>ICASIAAN  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>PROVIDED A $1000 DISCOUNT APPROVED BY TL JONES RX510WLR                                                                                                                                                                                                                                                                                                                                                                                                                                                             </NOTES>
+    <SCHEDULED_x0020_DATE>05/09/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-05-09T09:43:03+08:00</DATE>
+    <CREATED_x0020_BY>DELOSRAR  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>SHIPPING IS WAIVED PER CX'S REQUEST AND TL'S APPROVAL.                                                                                                                                                                                                                                                                                                                                                                                                                                                              </NOTES>
+    <SCHEDULED_x0020_DATE>05/09/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-05-09T09:42:37+08:00</DATE>
+    <CREATED_x0020_BY>PELARIMA  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>PROVIDED A $10 APPROVED BY TL LIZ RX23456                                                                                                                                                                                                                                                                                                                                                                                                                                                                           </NOTES>
+    <SCHEDULED_x0020_DATE>05/09/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-05-09T09:42:56+08:00</DATE>
+    <CREATED_x0020_BY>ACALISJE  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>PROVIDED A $10 DISCOUNT APPROVED BY AIMEE 23W510F1                                                                                                                                                                                                                                                                                                                                                                                                                                                                  </NOTES>
+    <SCHEDULED_x0020_DATE>05/09/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-05-09T09:42:58+08:00</DATE>
+    <CREATED_x0020_BY>VILLANJE  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>PROVIDED A $10 DISCOUNT APPROVED BY MYSELF                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </NOTES>
+    <SCHEDULED_x0020_DATE>05/09/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-05-09T09:43:17+08:00</DATE>
+    <CREATED_x0020_BY>SALEMSH   </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>PROVIDED A $100 DISCOUNT. APPROVED BY TL AIMEE RX510WYZ                                                                                                                                                                                                                                                                                                                                                                                                                                                             </NOTES>
+    <SCHEDULED_x0020_DATE>05/09/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-05-09T09:43:35+08:00</DATE>
+    <CREATED_x0020_BY>PAULERI   </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>PROVIDE A $2500.00 DC APPROVED BY TL COMSTI RX200WYZ                                                                                                                                                                                                                                                                                                                                                                                                                                                                </NOTES>
+    <SCHEDULED_x0020_DATE>05/09/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2012-02-02T13:16:59.093+08:00</DATE>
+    <CREATED_x0020_BY>ENAJEMA   </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>REMINDER</NOTE_x0020_TYPE>
+    <NOTES>Jedd Pratts will purchase ss1-u on feb3.                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </NOTES>
+    <SCHEDULED_x0020_DATE>02/02/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2012-11-27T03:31:47.887+08:00</DATE>
+    <CREATED_x0020_BY>ONGRA     </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>Testing Rafael Ong - PC Desktop                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     </NOTES>
+    <SCHEDULED_x0020_DATE>11/27/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-12-11T08:54:57+08:00</DATE>
+    <CREATED_x0020_BY>ALBERTJA  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>FOLLOW UP</NOTE_x0020_TYPE>
+    <NOTES>system test                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         </NOTES>
+    <SCHEDULED_x0020_DATE>12/11/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-12-11T08:54:58+08:00</DATE>
+    <CREATED_x0020_BY>DAYAOKE   </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>FOLLOW UP</NOTE_x0020_TYPE>
+    <NOTES>System Test                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         </NOTES>
+    <SCHEDULED_x0020_DATE>12/11/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2012-01-12T09:35:26.943+08:00</DATE>
+    <CREATED_x0020_BY>ENAJEMA   </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>REMINDER</NOTE_x0020_TYPE>
+    <NOTES>Renz is buying 10 ens-g on 01/13/2012                                                                                                                                                                                                                                                                                                                                                                                                                                                                               </NOTES>
+    <SCHEDULED_x0020_DATE>01/12/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2012-01-26T08:40:51.123+08:00</DATE>
+    <CREATED_x0020_BY>MALIGEC   </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>FOLLOW UP</NOTE_x0020_TYPE>
+    <NOTES>Rich said he  will buy 2 ENS-P on the first week of February                                                                                                                                                                                                                                                                                                                                                                                                                                                        </NOTES>
+    <SCHEDULED_x0020_DATE>01/30/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-02-20T15:19:20.103+08:00</DATE>
+    <CREATED_x0020_BY>SILVADE   </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>Provided $10.00 discount approved by TL Eena. RFX615TY                                                                                                                                                                                                                                                                                                                                                                                                                                                              </NOTES>
+    <SCHEDULED_x0020_DATE>02/20/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-02-20T15:19:24.523+08:00</DATE>
+    <CREATED_x0020_BY>ONGPA     </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>provided $10 discount
+approved by TL EENA
+RFX615Ty                                                                                                                                                                                                                                                                                                                                                                                                                                                                </NOTES>
+    <SCHEDULED_x0020_DATE>02/20/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-02-20T15:19:03.423+08:00</DATE>
+    <CREATED_x0020_BY>HURICKRO  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>provided $10 discount approved by tl eena rfx615t4                                                                                                                                                                                                                                                                                                                                                                                                                                                                  </NOTES>
+    <SCHEDULED_x0020_DATE>02/20/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-02-20T15:19:20.747+08:00</DATE>
+    <CREATED_x0020_BY>PASTRAFR  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>Provided $10 discount approved by TL EENA RFX615TY                                                                                                                                                                                                                                                                                                                                                                                                                                                                  </NOTES>
+    <SCHEDULED_x0020_DATE>02/20/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-01-23T15:59:11+08:00</DATE>
+    <CREATED_x0020_BY>ABIERARI  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>DISCOUNT OF $10                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     </NOTES>
+    <SCHEDULED_x0020_DATE>01/23/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-01-23T15:59:56+08:00</DATE>
+    <CREATED_x0020_BY>SAPASASC  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>A DISCOUNT PROVIDED TO THE CUSTOMER RFG1230S                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </NOTES>
+    <SCHEDULED_x0020_DATE>01/23/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-01-23T16:00:42+08:00</DATE>
+    <CREATED_x0020_BY>SAJISEMA  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>DISCOUNT OF $10 APPROVED BY TL EENA RFG1230S                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </NOTES>
+    <SCHEDULED_x0020_DATE>01/24/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-01-23T16:00:44+08:00</DATE>
+    <CREATED_x0020_BY>MALACAJE  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>A DISCOUNT OF $10 APPROVED BY TL EENA
+RFG1230S                                                                                                                                                                                                                                                                                                                                                                                                                                                                      </NOTES>
+    <SCHEDULED_x0020_DATE>01/24/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-01-23T15:59:01+08:00</DATE>
+    <CREATED_x0020_BY>MAGNORY   </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>DISC OF $10 DISCOUNT TO THE TL.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     </NOTES>
+    <SCHEDULED_x0020_DATE>01/23/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-01-23T16:00:22+08:00</DATE>
+    <CREATED_x0020_BY>PADEROMA  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>A DISCOUNT OF $10 IS PPROVED BY TL EENA RFG1230S                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </NOTES>
+    <SCHEDULED_x0020_DATE>01/23/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-01-23T16:00:32+08:00</DATE>
+    <CREATED_x0020_BY>ABIERARI  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>DISCOUNT OF $10 APPROVED BY TL EENA RFY                                                                                                                                                                                                                                                                                                                                                                                                                                                                             </NOTES>
+    <SCHEDULED_x0020_DATE>01/23/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-03-04T06:07:53+08:00</DATE>
+    <CREATED_x0020_BY>PORRASJO  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>FOLLOW UP</NOTE_x0020_TYPE>
+    <NOTES>JOMAR TEST 2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </NOTES>
+    <SCHEDULED_x0020_DATE>03/04/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-03-04T06:25:48+08:00</DATE>
+    <CREATED_x0020_BY>ONGRA     </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>REMINDER</NOTE_x0020_TYPE>
+    <NOTES>TESTING                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             </NOTES>
+    <SCHEDULED_x0020_DATE>03/04/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-03-04T20:05:42+08:00</DATE>
+    <CREATED_x0020_BY>PORRASJO  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>FOLLOW UP</NOTE_x0020_TYPE>
+    <NOTES>JOMAR TEST                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </NOTES>
+    <SCHEDULED_x0020_DATE>03/04/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2012-10-16T09:25:38.07+08:00</DATE>
+    <CREATED_x0020_BY>ONGRA     </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>FOLLOW UP</NOTE_x0020_TYPE>
+    <NOTES>Testing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             </NOTES>
+    <SCHEDULED_x0020_DATE>10/16/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2012-02-16T13:09:02.687+08:00</DATE>
+    <CREATED_x0020_BY>ESCANOAI  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>REMINDER</NOTE_x0020_TYPE>
+    <NOTES>look for Jane because ricky died                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </NOTES>
+    <SCHEDULED_x0020_DATE>02/16/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2011-11-30T11:15:07.94+08:00</DATE>
+    <CREATED_x0020_BY>BAUMGAME  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>REMINDER</NOTE_x0020_TYPE>
+    <NOTES>call back customer after Christmas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  </NOTES>
+    <SCHEDULED_x0020_DATE>11/30/2011</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2012-12-20T15:08:49.36+08:00</DATE>
+    <CREATED_x0020_BY>BANAGAMA  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>Discount of $10 approved by TL Jones code RJDFG                                                                                                                                                                                                                                                                                                                                                                                                                                                                     </NOTES>
+    <SCHEDULED_x0020_DATE>12/20/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2012-12-20T15:08:35.86+08:00</DATE>
+    <CREATED_x0020_BY>LEALMI    </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>Discount of $10 approved by TL Jones, code RJDFG                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </NOTES>
+    <SCHEDULED_x0020_DATE>12/20/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2012-12-20T15:08:28.18+08:00</DATE>
+    <CREATED_x0020_BY>DIZONLE   </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>Discount of $10 approved by TL Jones, code RJDFG                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </NOTES>
+    <SCHEDULED_x0020_DATE>12/20/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2012-12-20T15:08:33.27+08:00</DATE>
+    <CREATED_x0020_BY>GRIMALRO  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>Discount of $10 Approved by TL Jones, code                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </NOTES>
+    <SCHEDULED_x0020_DATE>12/20/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2012-12-20T15:08:39.957+08:00</DATE>
+    <CREATED_x0020_BY>EVANGERH  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>Discount of $10 approved by TL Jones, code RJDFG                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </NOTES>
+    <SCHEDULED_x0020_DATE>12/20/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-10-16T05:51:41+08:00</DATE>
+    <CREATED_x0020_BY>PORRASJO  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>FOLLOW UP</NOTE_x0020_TYPE>
+    <NOTES>TEST JOMAR                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </NOTES>
+    <SCHEDULED_x0020_DATE>10/16/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2014-02-19T05:31:00+08:00</DATE>
+    <CREATED_x0020_BY>ONGRA     </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>CAMPAIGN CALL</NOTE_x0020_TYPE>
+    <NOTES>testing 02/19/2014                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  </NOTES>
+    <SCHEDULED_x0020_DATE>02/19/2014</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-12-11T08:54:59+08:00</DATE>
+    <CREATED_x0020_BY>GUEVARTI  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>FOLLOW UP</NOTE_x0020_TYPE>
+    <NOTES>system test                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         </NOTES>
+    <SCHEDULED_x0020_DATE>12/11/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-12-11T08:55:01+08:00</DATE>
+    <CREATED_x0020_BY>FERNANJ1  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>FOLLOW UP</NOTE_x0020_TYPE>
+    <NOTES>System test                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         </NOTES>
+    <SCHEDULED_x0020_DATE>12/11/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-12-11T08:55:12+08:00</DATE>
+    <CREATED_x0020_BY>CLAVELNI  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>FOLLOW UP</NOTE_x0020_TYPE>
+    <NOTES>system test.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </NOTES>
+    <SCHEDULED_x0020_DATE>12/11/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-12-11T08:55:38+08:00</DATE>
+    <CREATED_x0020_BY>CHUALE    </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>FOLLOW UP</NOTE_x0020_TYPE>
+    <NOTES>call back                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           </NOTES>
+    <SCHEDULED_x0020_DATE>12/11/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-12-11T08:55:42+08:00</DATE>
+    <CREATED_x0020_BY>REYESJ2   </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>FOLLOW UP</NOTE_x0020_TYPE>
+    <NOTES>system test.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </NOTES>
+    <SCHEDULED_x0020_DATE>12/11/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2014-05-28T14:07:35+08:00</DATE>
+    <CREATED_x0020_BY>CRISOSNI  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>FOLLOW UP</NOTE_x0020_TYPE>
+    <NOTES>Nino Crisostomo
+Wave 125
+Test                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     </NOTES>
+    <SCHEDULED_x0020_DATE>05/28/2014</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2014-05-28T14:08:09+08:00</DATE>
+    <CREATED_x0020_BY>RANESEJA  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>FOLLOW UP</NOTE_x0020_TYPE>
+    <NOTES>Jann test Wave 125                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  </NOTES>
+    <SCHEDULED_x0020_DATE>05/28/2014</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2014-05-28T14:08:12+08:00</DATE>
+    <CREATED_x0020_BY>ADELANGA  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>FOLLOW UP</NOTE_x0020_TYPE>
+    <NOTES>Gee Agnarsson
+Test Wave 125                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </NOTES>
+    <SCHEDULED_x0020_DATE>05/28/2014</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2014-05-28T14:08:28+08:00</DATE>
+    <CREATED_x0020_BY>GUEVARTI  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>FOLLOW UP</NOTE_x0020_TYPE>
+    <NOTES>Joan Jett / Test / Wave 125                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         </NOTES>
+    <SCHEDULED_x0020_DATE>05/29/2014</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2014-05-28T14:08:28+08:00</DATE>
+    <CREATED_x0020_BY>ILROAJE   </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>FOLLOW UP</NOTE_x0020_TYPE>
+    <NOTES>Jed Roa / Test / Wave 125
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         </NOTES>
+    <SCHEDULED_x0020_DATE>05/28/2014</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2014-05-28T14:08:29+08:00</DATE>
+    <CREATED_x0020_BY>STACRUPA  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>FOLLOW UP</NOTE_x0020_TYPE>
+    <NOTES>Paulo Sta.Cruz TEST - wave 125                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      </NOTES>
+    <SCHEDULED_x0020_DATE>05/28/2014</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2014-05-28T14:08:29+08:00</DATE>
+    <CREATED_x0020_BY>PAGALME   </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>FOLLOW UP</NOTE_x0020_TYPE>
+    <NOTES>Lizzie/test/wave 125                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </NOTES>
+    <SCHEDULED_x0020_DATE>05/28/2014</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2014-05-28T14:08:30+08:00</DATE>
+    <CREATED_x0020_BY>SIBOBOAM  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>FOLLOW UP</NOTE_x0020_TYPE>
+    <NOTES>AJ/ test/ wave 125                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  </NOTES>
+    <SCHEDULED_x0020_DATE>05/28/2014</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-01-23T16:00:39+08:00</DATE>
+    <CREATED_x0020_BY>FELICIHE  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>DISCOUNT OF $10 APPROVED BY TL EENA PW: RFG123OS                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </NOTES>
+    <SCHEDULED_x0020_DATE>01/23/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-01-23T16:00:48+08:00</DATE>
+    <CREATED_x0020_BY>KINGSO    </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>DISCOUNT OF $10 APPROVED BY TL EENA RFG1230S                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </NOTES>
+    <SCHEDULED_x0020_DATE>01/23/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2014-02-25T23:34:33+08:00</DATE>
+    <CREATED_x0020_BY>ONGRA     </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>CAMPAIGN CALL</NOTE_x0020_TYPE>
+    <NOTES>Testing 1 PC                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </NOTES>
+    <SCHEDULED_x0020_DATE>02/26/2014</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2015-01-14T02:19:31+08:00</DATE>
+    <CREATED_x0020_BY>ONGRA     </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>Testing 01/14/2015.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 </NOTES>
+    <SCHEDULED_x0020_DATE>01/14/2015</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2012-11-27T03:31:47.887+08:00</DATE>
+    <CREATED_x0020_BY>ONGRA     </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>Testing Rafael Ong - PC Desktop                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     </NOTES>
+    <SCHEDULED_x0020_DATE>11/27/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2012-12-05T14:46:13.81+08:00</DATE>
+    <CREATED_x0020_BY>ESCANOAI  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>Discount of $10 approved by TL Jones, code RJDFG                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </NOTES>
+    <SCHEDULED_x0020_DATE>12/05/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2013-08-28T08:01:49.65+08:00</DATE>
+    <CREATED_x0020_BY>ONGRA     </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>test                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </NOTES>
+    <SCHEDULED_x0020_DATE>08/28/2013</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2012-09-06T13:04:35.263+08:00</DATE>
+    <CREATED_x0020_BY>PACHECJU  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>dead                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </NOTES>
+    <SCHEDULED_x0020_DATE>09/06/2012</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2011-11-28T11:28:58.703+08:00</DATE>
+    <CREATED_x0020_BY>ENAJEMA   </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>REMINDER</NOTE_x0020_TYPE>
+    <NOTES>Mr.Lobo is asking for a callback after a day to purchase the updated panel for NLRA.                                                                                                                                                                                                                                                                                                                                                                                                                                </NOTES>
+    <SCHEDULED_x0020_DATE>11/28/2011</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2011-11-24T12:41:14.057+08:00</DATE>
+    <CREATED_x0020_BY>ENAJEMA   </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>REMINDER</NOTE_x0020_TYPE>
+    <NOTES>training purposes only                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              </NOTES>
+    <SCHEDULED_x0020_DATE>11/24/2011</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2014-02-11T04:11:54+08:00</DATE>
+    <CREATED_x0020_BY>ONGRA     </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>CAMPAIGN CALL</NOTE_x0020_TYPE>
+    <NOTES>Testing Note                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </NOTES>
+    <SCHEDULED_x0020_DATE>02/11/2014</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2014-02-11T04:13:29.71+08:00</DATE>
+    <CREATED_x0020_BY>ONGRA     </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>FOLLOW UP</NOTE_x0020_TYPE>
+    <NOTES>testing 2/11/2014                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   </NOTES>
+    <SCHEDULED_x0020_DATE>02/11/2014</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NUMBER>0</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2014-02-19T05:34:42+08:00</DATE>
+    <CREATED_x0020_BY>ONGRA     </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>CAMPAIGN CALL</NOTE_x0020_TYPE>
+    <NOTES>02/19/2014                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </NOTES>
+    <SCHEDULED_x0020_DATE>02/19/2014</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2014-02-19T05:59:11+08:00</DATE>
+    <CREATED_x0020_BY>ONGRA     </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>FOLLOW UP</NOTE_x0020_TYPE>
+    <NOTES>sadfsdaf                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </NOTES>
+    <SCHEDULED_x0020_DATE>02/19/2014</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2014-11-21T08:10:27+08:00</DATE>
+    <CREATED_x0020_BY>ORDIALGE  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>FOLLOW UP</NOTE_x0020_TYPE>
+    <NOTES>Gwen Test Wave 134                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  </NOTES>
+    <SCHEDULED_x0020_DATE>11/21/2014</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2014-12-18T21:50:52+08:00</DATE>
+    <CREATED_x0020_BY>ONGRA     </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>CAMPAIGN CALL</NOTE_x0020_TYPE>
+    <NOTES>Test 12-19-2014                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     </NOTES>
+    <SCHEDULED_x0020_DATE>12/19/2014</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2014-12-18T21:51:31+08:00</DATE>
+    <CREATED_x0020_BY>ONGRA     </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>FOLLOW UP</NOTE_x0020_TYPE>
+    <NOTES>Test 12-19-2014                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     </NOTES>
+    <SCHEDULED_x0020_DATE>12/19/2014</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2015-01-13T20:58:26+08:00</DATE>
+    <CREATED_x0020_BY>ONGRA     </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>CAMPAIGN CALL</NOTE_x0020_TYPE>
+    <NOTES>Testing 01/13/2015.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 </NOTES>
+    <SCHEDULED_x0020_DATE>01/13/2015</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2015-01-19T14:32:08+08:00</DATE>
+    <CREATED_x0020_BY>ONGRA     </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>CAMPAIGN CALL</NOTE_x0020_TYPE>
+    <NOTES>Testing for 01-19-2015.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             </NOTES>
+    <SCHEDULED_x0020_DATE>01/19/2015</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2015-01-19T14:32:30+08:00</DATE>
+    <CREATED_x0020_BY>ONGRA     </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>CAMPAIGN CALL</NOTE_x0020_TYPE>
+    <NOTES>Testing for 01-20-2015.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             </NOTES>
+    <SCHEDULED_x0020_DATE>01/20/2015</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2014-05-28T14:08:31+08:00</DATE>
+    <CREATED_x0020_BY>TORRESDA  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>FOLLOW UP</NOTE_x0020_TYPE>
+    <NOTES>Danny Torres / Test / Wave 125                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      </NOTES>
+    <SCHEDULED_x0020_DATE>05/29/2014</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2014-05-28T14:08:42.417+08:00</DATE>
+    <CREATED_x0020_BY>DELACRJ2  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>FOLLOW UP</NOTE_x0020_TYPE>
+    <NOTES>Yesa dela Cruz/ test/ wave 125/ manager approved 10% discount                                                                                                                                                                                                                                                                                                                                                                                                                                                       </NOTES>
+    <SCHEDULED_x0020_DATE>05/28/2014</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME>FRASIER, JOHN</CONTACT_x0020_NAME>
+    <CONTACT_x0020_NUMBER>12298954</CONTACT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2014-09-19T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>SiddiqHa                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC DNC Buyers 2 to 18 Mo Subs Sept T32126                       </NOTES>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>NIG             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Not Interested - General</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Haroon Siddiq                                                   </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2014-11-03T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>HoyuelRa                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC DNC Buyers 2 to 18 Mo Subs Nov T32255                        </NOTES>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>NIG             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Not Interested - General</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Ramses Hoyuela                                                  </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2011-12-23T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>JotojoEd                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Buyers 1-2x SS1 Dec T30296                                   </NOTES>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>BNA             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Busy</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Eddie Jotojot                                                   </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2011-12-28T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>ChewRe                          </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Buyers 1-2x SS1 Dec T30296                                   </NOTES>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>BNA             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Busy</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Reynalyn Chew                                                   </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2012-01-04T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>SantosAp                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Buyers 1-2x SS1 Jan T30325                                   </NOTES>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>BNA             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Busy</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>April Santos                                                    </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2012-01-05T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>SolianAd                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Buyers 1-2x SS1 Jan T30325                                   </NOTES>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>BNA             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Busy</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Adjayzen Solian                                                 </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2012-01-06T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>SolianAd                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Buyers 1-2x SS1 Jan T30325                                   </NOTES>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>BNA             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Busy</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Adjayzen Solian                                                 </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2012-01-06T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>DumalaDa                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Buyers 1-2x SS1 Jan T30325                                   </NOTES>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>BNA             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Busy</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Dann Dumalay                                                    </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2012-01-09T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>DumalaDa                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Buyers 1-2x SS1 Jan T30325                                   </NOTES>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>BNA             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Busy</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Dann Dumalay                                                    </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2011-10-03T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>GempesJo                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Buyers 1-2x SS1 Oct T30235                                   </NOTES>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>BNA             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Busy</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>John Gempesaw                                                   </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2011-10-13T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>NepomoJa                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Buyers 1-2x SS1 Oct T30235                                   </NOTES>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>BNA             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Busy</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Jaystone Nepomuceno                                             </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2011-10-18T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>LindoVi                         </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Buyers 1-2x SS1 Oct T30235                                   </NOTES>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>BNA             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Busy</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Vienna Lindo                                                    </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2011-10-19T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>RoblesJo                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Buyers 1-2x SS1 Oct T30235                                   </NOTES>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>BNA             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Busy</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Joemar Robles                                                   </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2012-07-02T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>GalanoJe                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Buyers 3 Plus July T30482 B                                  </NOTES>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>VMN             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>DM Not Available</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Jeferson Galano                                                 </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2012-07-03T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>talisado                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Buyers 3 Plus July T30482 B                                  </NOTES>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>VMN             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>DM Not Available</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Don Talisaysay                                                  </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2012-03-07T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>NamocoJo                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Buyers 3 Plus Mar T30375 A                                   </NOTES>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>BNA             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Busy</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>John Namoco                                                     </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2012-04-04T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>GamoroRo                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC SS1 Renewal Campaign April                                   </NOTES>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>BNA             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Busy</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Rolando Gamorot                                                 </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2012-04-05T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>SifontSh                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC SS1 Renewal Campaign April                                   </NOTES>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>VMN             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>DM Not Available</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Sheila Sifontes                                                 </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2012-04-12T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>MotaJo                          </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC SS1 Renewal Campaign April                                   </NOTES>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>BNA             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Busy</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Jonathan Mota                                                   </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2012-04-13T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>MotaJo                          </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC SS1 Renewal Campaign April                                   </NOTES>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>DDR             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Dead Record</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Jonathan Mota                                                   </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2011-06-02T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>LopezLe                         </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC 2 Mo SS1 June T30126                                         </NOTES>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>BNA             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Busy</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Ledoven Lopez                                                   </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2011-06-28T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>PartosJo                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC 2 Mo SS1 June T30126                                         </NOTES>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>BNA             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Busy</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Jowen Partosan                                                  </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2011-07-20T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>RoquidMa                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Buyers 1-2x July T30145 B                                    </NOTES>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>VMN             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>DM Not Available</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Marlon Roquid                                                   </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2011-07-25T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>BelloSh                         </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Buyers 1-2x July T30145 B                                    </NOTES>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>LB              </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Language Barrier</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>SheilaMarie Bello                                               </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2011-08-01T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>CamusRo                         </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Buyers 1-2x SS1 Aug T30174                                   </NOTES>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>BNA             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Busy</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Roxanne Camus                                                   </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2011-12-01T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>QuimaKa                         </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Buyers 1-2x SS1 Dec T30296                                   </NOTES>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>BNA             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Busy</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Karen Quima                                                     </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2011-12-01T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>LindoVi                         </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Buyers 1-2x SS1 Dec T30296                                   </NOTES>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>VMN             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>DM Not Available</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Vienna Lindo                                                    </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2011-12-22T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>QuimaKa                         </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Buyers 1-2x SS1 Dec T30296                                   </NOTES>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>BNA             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Busy</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Karen Quima                                                     </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2011-12-27T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>JovellKa                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Buyers 1-2x SS1 Dec T30296                                   </NOTES>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>BNA             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Busy</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Karen Jovellano                                                 </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2012-01-03T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>SantosAp                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Buyers 1-2x SS1 Jan T30325                                   </NOTES>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>BNA             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Busy</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>April Santos                                                    </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2011-10-19T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>LindoVi                         </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Buyers 1-2x SS1 Oct T30235                                   </NOTES>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>NIG             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Not Interested - General</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Vienna Lindo                                                    </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2011-09-02T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>CanutoPa                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Buyers 1-2x SS1 Sep T30203                                   </NOTES>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>BNA             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Busy</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Patrick Canuto                                                  </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2012-07-05T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>sanchesh                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Buyers 3 Plus July T30482 B                                  </NOTES>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>BNA             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Busy</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Sharlene Mae Sanchez                                            </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2012-07-06T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>NamocoJo                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Buyers 3 Plus July T30482 B                                  </NOTES>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>DDR             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Dead Record</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>John Namoco                                                     </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2012-03-08T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>empleojo                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Buyers 3 Plus Mar T30375 A                                   </NOTES>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>NIG             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Not Interested - General</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Joy Empleo                                                      </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2012-11-14T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>SandovCo                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Customer Service DNC                                         </NOTES>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>LM3             </DISPOSITION_x0020_CODE>
+    <AGENT_x0020_NAME>Concepcion Sandoval                                             </AGENT_x0020_NAME>
+  </Table>
+  <Table>
+    <DATE>2012-06-14T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>BellenFr                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC SS1 Renewal No Upsell Campaign June B                        </NOTES>
+    <ACCOUNT_x0020_NUMBER>123123</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>DDR             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Dead Record</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Franklin Bellen                                                 </AGENT_x0020_NAME>
+  </Table>
+</NewDataSet>

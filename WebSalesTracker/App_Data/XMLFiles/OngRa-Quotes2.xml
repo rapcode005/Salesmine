@@ -1,0 +1,44 @@
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table1">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Quote_Doc_No" type="xs:string" minOccurs="0" />
+                <xs:element name="Quote_Line" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Quote_Date" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="Quote_PO_Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Quote_PO_Type_Desc" type="xs:string" minOccurs="0" />
+                <xs:element name="Quote_Item_Categ_Desc" type="xs:string" minOccurs="0" />
+                <xs:element name="Quote_SlsTeamIN" type="xs:string" minOccurs="0" />
+                <xs:element name="Quote_Mat_Entrd" type="xs:string" minOccurs="0" />
+                <xs:element name="Quote_Mat_Entrd_Desc" type="xs:string" minOccurs="0" />
+                <xs:element name="Quote_Discount" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Quote_Net_Sales" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Quote_Cost" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DM_Product_Line_Desc" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table1>
+    <Quote_Doc_No>0024345984</Quote_Doc_No>
+    <Quote_Line>10</Quote_Line>
+    <Quote_Date>2016-02-09T00:00:00+08:00</Quote_Date>
+    <Quote_PO_Type>IC</Quote_PO_Type>
+    <Quote_PO_Type_Desc>Inbound Call</Quote_PO_Type_Desc>
+    <Quote_Item_Categ_Desc>Config.at mat.level</Quote_Item_Categ_Desc>
+    <Quote_SlsTeamIN>EMEDQT018</Quote_SlsTeamIN>
+    <Quote_Mat_Entrd>CDAPMD04PLYSTD</Quote_Mat_Entrd>
+    <Quote_Mat_Entrd_Desc>CUSTOM DECAL-PERM ADH 11-30 SQ</Quote_Mat_Entrd_Desc>
+    <Quote_Discount>0.00</Quote_Discount>
+    <Quote_Net_Sales>178.14</Quote_Net_Sales>
+    <Quote_Cost>1.68</Quote_Cost>
+    <DM_Product_Line_Desc>DM LABELS</DM_Product_Line_Desc>
+  </Table1>
+</NewDataSet>

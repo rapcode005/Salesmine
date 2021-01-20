@@ -1,0 +1,147 @@
+
+/* CSS Document */
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	font: Arial, Helvetica, sans-serif;
+	background-color:#1a5192;
+	/*background: url(../Images/bg_01.jpg) repeat;*/
+	height: 100%;
+}
+
+/*body {
+	font: Arial, Helvetica, sans-serif;
+	background: url(../Images/bg_01_log.jpg) no-repeat;
+	height: 100%;
+}*/
+
+
+
+.clear { 	clear: both; }
+#wrapper {
+	width: 100%;
+	height: 100%;
+	min-height: 100%;
+	position: absolute;
+	background:White url(../Images/bg-white-glow_02.png) no-repeat top center;
+}
+
+#login {
+
+	width: 100%;
+	height: 50%;
+	
+	background: url(../Images/login_gradient_bg.png) repeat top center;
+	/*background: url(../Images/bg-login_03.png) no-repeat top center;*/
+	
+}
+
+
+
+.bottomblue {
+
+	width: 100%;
+	
+	/*margin-top: 10%;*/
+	background: #1a5192; /*url(../Images/login_blue_bg.png) repeat top center;*/
+	/*background: url(../Images/bg-login_03.png) no-repeat top center;*/
+	position:absolute;
+    top: 472px;
+    left: 512px;
+}
+
+/*#logo-salesMine.login {
+	width: 403px;
+	height: 130px;
+	margin: auto;
+	background: url(../Images/logo-salesmine-lg_03.png) no-repeat center;
+  }*/
+
+
+#logo-salesMine {
+	width: 403px;
+	height: 130px;
+	margin: auto;	
+	background: url(../Images/logo-salesmine-lg_03.png) no-repeat center;  
+}
+
+
+#logo-brady {
+	width: 223px;
+	height: 65px;
+	text-align:center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color:#333;
+	margin: 25px auto;
+	line-height: 30px;
+}
+#welcome-message {
+	height: 22px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	font-style: italic;
+	color:#666666;
+	text-align: center;
+	margin: 0px auto 60px;
+	text-shadow: 0px 1px 0px #FFF;
+}
+.logintextbox {
+	width: 330px;
+	min-width: 250px;
+	margin: 5px auto;
+	border: solid 1px #ccc;
+	padding: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color:#333333;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	/*background: url(../Images/bg-txtbox_03.jpg) no-repeat center;*/
+	
+}
+/*#loginbutton {
+	
+	background: url(../Images/bg-loginbutton_07_2.jpg) repeat-x top;
+    width: 100px;
+	height: 40px;
+	text-align: center;
+	color:#FFFFFF;
+	margin: 20px auto 1px;
+	border: #23a4c7 solid 1px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	line-height: 38px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	text-shadow: 0px -1px 0px rgba(0,0,0,0.35);
+	
+}*/
+
+/*#loginbutton:hover { 
+	
+	background: #1fb3dc url(images/bg-loginbuttonHover_07_2.jpg) repeat-x top;
+	cursor: pointer;
+
+
+}*/
+/*#loginbutton:active { 
+	margin-top: 21px;
+	margin-bottom: 0px;
+}*/
+
+.classLabel
+{
+ height : 16px;
+	font-family: Arial;
+	font-size: 16px;
+	color:White;
+	font-weight:bold;
+	text-align: left;
+	margin: 0px auto 60px;
+	/*text-shadow: 0px 1px 0px #FFF;*/
+}

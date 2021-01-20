@@ -1,0 +1,393 @@
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="DATE" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="CREATED_x0020_BY" type="xs:string" minOccurs="0" />
+                <xs:element name="NOTE_x0020_TYPE" type="xs:string" minOccurs="0" />
+                <xs:element name="NOTES" type="xs:string" minOccurs="0" />
+                <xs:element name="SCHEDULED_x0020_DATE" type="xs:string" minOccurs="0" />
+                <xs:element name="ACCOUNT_x0020_NUMBER" type="xs:double" minOccurs="0" />
+                <xs:element name="CONTACT_x0020_NAME" type="xs:string" minOccurs="0" />
+                <xs:element name="CONTACT_x0020_NUMBER" type="xs:double" minOccurs="0" />
+                <xs:element name="DISPOSITION_x0020_CODE" type="xs:string" minOccurs="0" />
+                <xs:element name="DISPOSITION_x0020_DESCRIPTION" type="xs:string" minOccurs="0" />
+                <xs:element name="AGENT_x0020_NAME" type="xs:string" minOccurs="0" />
+                <xs:element name="PHONE_x0020_NUMBER" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <DATE>2017-01-30T07:36:53+08:00</DATE>
+    <CREATED_x0020_BY>ROYOLRY   </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>REMINDER</NOTE_x0020_TYPE>
+    <NOTES>Do not call this Tel No 8146354120. This is a residential tel no.                                                                                                                                                                                                                                                                                                                                                                                                                                                   </NOTES>
+    <SCHEDULED_x0020_DATE>01/30/2017</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>4669858</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2017-01-31T12:04:49+08:00</DATE>
+    <CREATED_x0020_BY>ONGRA     </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>CAMPAIGN CALL</NOTE_x0020_TYPE>
+    <NOTES>Testing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             </NOTES>
+    <SCHEDULED_x0020_DATE>01/31/2017</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>4669858</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2017-01-20T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>CaguinRo                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC_Buyers_2_18_Months_Subs_SE_Feb_T34601_A                      </NOTES>
+    <ACCOUNT_x0020_NUMBER>4669858</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>LVM             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Recall Next Day</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Roselle Caguindagan                                             </AGENT_x0020_NAME>
+    <PHONE_x0020_NUMBER>8146354120                      </PHONE_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2012-07-18T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>RobertRi                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Buyers 1x SS1 July T30487                                    </NOTES>
+    <ACCOUNT_x0020_NUMBER>4669858</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>DDR             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Dead Record</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Richelle Roberto                                                </AGENT_x0020_NAME>
+    <PHONE_x0020_NUMBER>8146354120                      </PHONE_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2016-08-24T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>CorpuzEv                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Upsell Prospect Fresh                                        </NOTES>
+    <ACCOUNT_x0020_NUMBER>4669858</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>NDM             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Decision Maker Specific Callback</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Evelyn Corpuz                                                   </AGENT_x0020_NAME>
+    <PHONE_x0020_NUMBER>8146354120                      </PHONE_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2012-10-02T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>AmiDi                           </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Buyers 1x SS1 7 to 10 Mo October T30622                      </NOTES>
+    <ACCOUNT_x0020_NUMBER>4669858</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>VMN             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>DM Not Available</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Dicell Ami                                                      </AGENT_x0020_NAME>
+    <PHONE_x0020_NUMBER>5146352495                      </PHONE_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2016-10-11T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>PelleRo                         </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC_Buyers_1x_Subs_2_to_5_Mo_Oct_T34220_A                        </NOTES>
+    <ACCOUNT_x0020_NUMBER>4669858</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>LVM             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Recall Next Day</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Rommel Pelle                                                    </AGENT_x0020_NAME>
+    <PHONE_x0020_NUMBER>8146354120                      </PHONE_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2012-10-12T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>TanM1                           </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Buyers 1x SS1 7 to 10 Mo October T30622                      </NOTES>
+    <ACCOUNT_x0020_NUMBER>4669858</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>DDR             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Dead Record</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Maria Tan                                                       </AGENT_x0020_NAME>
+    <PHONE_x0020_NUMBER>5146352495                      </PHONE_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2016-10-13T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>ricahuan                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC_Buyers_1x_Subs_2_to_5_Mo_Oct_T34220_A                        </NOTES>
+    <ACCOUNT_x0020_NUMBER>4669858</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>LVM             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Recall Next Day</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Ana Ricahuerta                                                  </AGENT_x0020_NAME>
+    <PHONE_x0020_NUMBER>8146354120                      </PHONE_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2016-10-14T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>PelleRo                         </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC_Buyers_1x_Subs_2_to_5_Mo_Oct_T34220_A                        </NOTES>
+    <ACCOUNT_x0020_NUMBER>4669858</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>LVM             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Recall Next Day</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Rommel Pelle                                                    </AGENT_x0020_NAME>
+    <PHONE_x0020_NUMBER>8146354120                      </PHONE_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2016-10-27T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>AllasMa                         </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC_Buyers_1x_Subs_2_to_5_Mo_Oct_T34220_A                        </NOTES>
+    <ACCOUNT_x0020_NUMBER>4669858</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>DDR             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Dead Record</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Maria Allas                                                     </AGENT_x0020_NAME>
+    <PHONE_x0020_NUMBER>8146354120                      </PHONE_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2016-11-29T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>RoyolRy                         </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC_Buyers_2_18_Months_Subs_SE_Nov_T34337_A                      </NOTES>
+    <ACCOUNT_x0020_NUMBER>4669858</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>LVM             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Recall Next Day</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Ryan Roy Royol                                                  </AGENT_x0020_NAME>
+    <PHONE_x0020_NUMBER>8146354120                      </PHONE_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2016-12-01T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY xml:space="preserve">                                </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC_Buyers_2_18_Months_Subs_SE_Nov_T34337_A                      </NOTES>
+    <ACCOUNT_x0020_NUMBER>4669858</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>RF              </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Filter Excluded</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME xml:space="preserve">                                                                </AGENT_x0020_NAME>
+    <PHONE_x0020_NUMBER>8146354120                      </PHONE_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2016-12-14T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>RoyolRy                         </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC_Buyers_2_18_Months_Subs_SE_Dec_T34407_A                      </NOTES>
+    <ACCOUNT_x0020_NUMBER>4669858</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>LVM             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Recall Next Day</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Ryan Roy Royol                                                  </AGENT_x0020_NAME>
+    <PHONE_x0020_NUMBER>8146354120                      </PHONE_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2016-12-28T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>AlvareEr                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Upsell Customer                                              </NOTES>
+    <ACCOUNT_x0020_NUMBER>4669858</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>DTC             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Do Not Call - DNC</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Ernesto Alvarez                                                 </AGENT_x0020_NAME>
+    <PHONE_x0020_NUMBER>8146354120                      </PHONE_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2017-01-04T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY xml:space="preserve">                                </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC_Buyers_2_18_Months_Subs_SE_Jan_T34503_A                      </NOTES>
+    <ACCOUNT_x0020_NUMBER>4669858</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>RR              </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Record Restricted</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME xml:space="preserve">                                                                </AGENT_x0020_NAME>
+    <PHONE_x0020_NUMBER>8146354120                      </PHONE_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2017-01-27T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>RoyolRy                         </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC_Buyers_2_18_Months_Subs_SE_Feb_T34601_A                      </NOTES>
+    <ACCOUNT_x0020_NUMBER>4669858</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>LVM             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Recall Next Day</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Ryan Roy Royol                                                  </AGENT_x0020_NAME>
+    <PHONE_x0020_NUMBER>8146354120                      </PHONE_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2012-06-20T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>HolmanMa                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Buyers 1x SS1 June T30459 B                                  </NOTES>
+    <ACCOUNT_x0020_NUMBER>4669858</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>DDR             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Dead Record</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Mark Holman                                                     </AGENT_x0020_NAME>
+    <PHONE_x0020_NUMBER>5146352495                      </PHONE_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2012-06-20T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>MangulLy                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Buyers 1x SS1 June T30459 B                                  </NOTES>
+    <ACCOUNT_x0020_NUMBER>4669858</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>BNA             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Line Busy - No Answer</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Lynden Mangulad                                                 </AGENT_x0020_NAME>
+    <PHONE_x0020_NUMBER>5146352495                      </PHONE_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2012-07-18T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>SagerAn                         </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Buyers 1x SS1 July T30487                                    </NOTES>
+    <ACCOUNT_x0020_NUMBER>4669858</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>BNA             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Line Busy - No Answer</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Anthody Sager                                                   </AGENT_x0020_NAME>
+    <PHONE_x0020_NUMBER>8146354120                      </PHONE_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2016-08-25T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>HattarHi                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Upsell Prospect                                              </NOTES>
+    <ACCOUNT_x0020_NUMBER>4669858</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>LVM             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Recall Next Day</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Hiam Hattar                                                     </AGENT_x0020_NAME>
+    <PHONE_x0020_NUMBER>8146354120                      </PHONE_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2016-08-29T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>WetzorCr                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Upsell Prospect                                              </NOTES>
+    <ACCOUNT_x0020_NUMBER>4669858</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>SAL             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Made A Sale</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Crystal Wetzork                                                 </AGENT_x0020_NAME>
+    <PHONE_x0020_NUMBER>8146354120                      </PHONE_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2012-10-02T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>BravoJo                         </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Buyers 1x SS1 7 to 10 Mo October T30622                      </NOTES>
+    <ACCOUNT_x0020_NUMBER>4669858</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>BNA             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Line Busy - No Answer</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Joanna Bravo                                                    </AGENT_x0020_NAME>
+    <PHONE_x0020_NUMBER>5146352495                      </PHONE_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2016-10-12T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>otazuan                         </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC_Buyers_1x_Subs_2_to_5_Mo_Oct_T34220_A                        </NOTES>
+    <ACCOUNT_x0020_NUMBER>4669858</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>LVM             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Recall Next Day</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Ann Raissa Otazu                                                </AGENT_x0020_NAME>
+    <PHONE_x0020_NUMBER>8146354120                      </PHONE_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2016-10-24T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>KomoriSh                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC_Buyers_1x_Subs_2_to_5_Mo_Oct_T34220_A                        </NOTES>
+    <ACCOUNT_x0020_NUMBER>4669858</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>LVM             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Recall Next Day</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Sho Komori                                                      </AGENT_x0020_NAME>
+    <PHONE_x0020_NUMBER>8146354120                      </PHONE_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2016-11-28T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>AllasMa                         </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC_Buyers_2_18_Months_Subs_SE_Nov_T34337_A                      </NOTES>
+    <ACCOUNT_x0020_NUMBER>4669858</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>LVM             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Recall Next Day</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Maria Allas                                                     </AGENT_x0020_NAME>
+    <PHONE_x0020_NUMBER>8146354120                      </PHONE_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2016-11-30T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>KomoriSh                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC_Buyers_2_18_Months_Subs_SE_Nov_T34337_A                      </NOTES>
+    <ACCOUNT_x0020_NUMBER>4669858</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>LVM             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Recall Next Day</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Sho Komori                                                      </AGENT_x0020_NAME>
+    <PHONE_x0020_NUMBER>8146354120                      </PHONE_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2016-12-12T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>OgadMa                          </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC_Buyers_2_18_Months_Subs_SE_Dec_T34407_A                      </NOTES>
+    <ACCOUNT_x0020_NUMBER>4669858</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>LVM             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Recall Next Day</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Mar Francis Ogad                                                </AGENT_x0020_NAME>
+    <PHONE_x0020_NUMBER>8146354120                      </PHONE_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2016-12-16T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>EscoteIa                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC_Buyers_2_18_Months_Subs_SE_Dec_T34407_A                      </NOTES>
+    <ACCOUNT_x0020_NUMBER>4669858</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>LVM             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Recall Next Day</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Ian Jeff Escote                                                 </AGENT_x0020_NAME>
+    <PHONE_x0020_NUMBER>8146354120                      </PHONE_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2016-12-28T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY xml:space="preserve">                                </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC_Buyers_2_18_Months_Subs_SE_Dec_T34407_A                      </NOTES>
+    <ACCOUNT_x0020_NUMBER>4669858</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>RR              </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Record Restricted</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME xml:space="preserve">                                                                </AGENT_x0020_NAME>
+    <PHONE_x0020_NUMBER>8146354120                      </PHONE_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2017-01-31T12:21:40.6142386+08:00</DATE>
+    <CREATED_x0020_BY>ROYOLRY</CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>testing</NOTES>
+    <SCHEDULED_x0020_DATE>01/31/2017</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>4669858</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE />
+    <DISPOSITION_x0020_DESCRIPTION />
+    <AGENT_x0020_NAME />
+    <PHONE_x0020_NUMBER />
+  </Table>
+</NewDataSet>

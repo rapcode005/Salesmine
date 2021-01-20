@@ -1,0 +1,114 @@
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\DataAccess\bin\DataAccess.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\DataAccess\bin\DataAccess.pdb
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\DataAccess\bin\LoggerLibrary.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\DataAccess\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\DataAccess\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\DataAccess\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\DataAccess\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\DataAccess\bin\Microsoft.Practices.Unity.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\DataAccess\bin\LoggerLibrary.pdb
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\DataAccess\bin\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\DataAccess\bin\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\DataAccess\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\DataAccess\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\DataAccess\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\DataAccess\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\DataAccess\bin\Microsoft.Practices.Unity.pdb
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\DataAccess\bin\DataAccess.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\DataAccess\bin\DataAccess.pdb
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\DataAccess\bin\LoggerLibrary.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\DataAccess\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\DataAccess\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\DataAccess\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\DataAccess\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\DataAccess\bin\Microsoft.Practices.Unity.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\DataAccess\bin\LoggerLibrary.pdb
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\DataAccess\bin\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\DataAccess\bin\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\DataAccess\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\DataAccess\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\DataAccess\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\DataAccess\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\DataAccess\bin\Microsoft.Practices.Unity.pdb
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\OngRa\Documents\Web Salesmine\DataAccess\bin\DataAccess.dll
+C:\Users\OngRa\Documents\Web Salesmine\DataAccess\bin\DataAccess.pdb
+C:\Users\OngRa\Documents\Web Salesmine\DataAccess\bin\LoggerLibrary.dll
+C:\Users\OngRa\Documents\Web Salesmine\DataAccess\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\OngRa\Documents\Web Salesmine\DataAccess\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\OngRa\Documents\Web Salesmine\DataAccess\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\OngRa\Documents\Web Salesmine\DataAccess\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\OngRa\Documents\Web Salesmine\DataAccess\bin\Microsoft.Practices.Unity.dll
+C:\Users\OngRa\Documents\Web Salesmine\DataAccess\bin\LoggerLibrary.pdb
+C:\Users\OngRa\Documents\Web Salesmine\DataAccess\bin\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+C:\Users\OngRa\Documents\Web Salesmine\DataAccess\bin\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\OngRa\Documents\Web Salesmine\DataAccess\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\OngRa\Documents\Web Salesmine\DataAccess\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\OngRa\Documents\Web Salesmine\DataAccess\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\OngRa\Documents\Web Salesmine\DataAccess\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\OngRa\Documents\Web Salesmine\DataAccess\bin\Microsoft.Practices.Unity.pdb
+C:\Users\OngRa\Documents\Web Salesmine\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\OngRa\Documents\Web Salesmine\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\OngRa\Documents\Web Salesmine\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\DataAccess\bin\DataAccess.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\DataAccess\bin\DataAccess.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\DataAccess\bin\LoggerLibrary.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\DataAccess\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\DataAccess\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\DataAccess\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\DataAccess\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\DataAccess\bin\Microsoft.Practices.Unity.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\DataAccess\bin\LoggerLibrary.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\DataAccess\bin\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\DataAccess\bin\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\DataAccess\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\DataAccess\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\DataAccess\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\DataAccess\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\DataAccess\bin\Microsoft.Practices.Unity.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\DataAccess\bin\DataAccess.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\DataAccess\bin\DataAccess.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\DataAccess\bin\LoggerLibrary.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\DataAccess\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\DataAccess\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\DataAccess\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\DataAccess\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\DataAccess\bin\Microsoft.Practices.Unity.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\DataAccess\bin\LoggerLibrary.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\DataAccess\bin\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\DataAccess\bin\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\DataAccess\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\DataAccess\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\DataAccess\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\DataAccess\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\DataAccess\bin\Microsoft.Practices.Unity.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\DataAccess\bin\DataAccess.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\DataAccess\bin\DataAccess.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\DataAccess\bin\LoggerLibrary.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\DataAccess\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\DataAccess\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\DataAccess\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\DataAccess\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\DataAccess\bin\Microsoft.Practices.Unity.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\DataAccess\bin\LoggerLibrary.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\DataAccess\bin\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\DataAccess\bin\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\DataAccess\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\DataAccess\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\DataAccess\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\DataAccess\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\DataAccess\bin\Microsoft.Practices.Unity.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\DataAccess\obj\Debug\DataAccess.pdb

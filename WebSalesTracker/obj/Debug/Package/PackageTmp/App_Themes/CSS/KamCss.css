@@ -1,0 +1,76 @@
+﻿#header-fixed
+{
+    position: fixed;
+    height: 30px;
+    background-color: #D6E0EC;
+    white-space: nowrap;
+    top: 92px;
+    vertical-align: middle;
+    border: 2px solid white;
+    bottom: 0px;
+    left: 0px;
+}
+#header-fixed th
+{
+    white-space: nowrap;
+}
+.SelectedRowStyle
+{
+    background-color: #ffeb95;
+    font-size: 12px;
+    font-family: Arial;
+    text-decoration: none;
+    color: #5a5a5a;
+    height: 20px;
+    padding-left: 10px;
+    border: solid 1px #d7d8f0;
+}
+.NormalRowStyle
+{
+    font-size: 12px;
+    font-family: Arial;
+    text-decoration: none;
+    color: #5a5a5a;
+    height: 20px;
+    padding-left: 10px;
+    border: solid 1px #d7d8f0;
+}
+.headerRow
+{
+    background-color: #458B74;
+    color: White;
+    font-weight: bold;
+}
+.style2
+{
+    width: 156px;
+}
+.style3
+{
+    width: 166px;
+}
+
+.tablesorter tbody tr:nth-child(even)
+{
+    background-color: #e5e5e5;
+}
+
+.tablesorter tbody tr:nth-child(odd)
+{
+    background-color: White;
+}
+
+.VisibilityHidden
+{
+    visibility: hidden;
+}
+
+.FixedPostionTest
+{
+    position: fixed !important;
+}
+
+.DisplayNone
+{
+    visibility:hidden;
+}

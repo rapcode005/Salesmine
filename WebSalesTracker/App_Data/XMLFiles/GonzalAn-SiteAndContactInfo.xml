@@ -1,0 +1,110 @@
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Contact_x0020_Number" type="xs:double" minOccurs="0" />
+                <xs:element name="First_x0020_Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Last_x0020_Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Contact_x0020_Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Contact_x0020_Status" type="xs:string" minOccurs="0" />
+                <xs:element name="Repdata_x0020_Contact_x0020_Status" type="xs:string" minOccurs="0" />
+                <xs:element name="Repdata_x0020_Function" type="xs:string" minOccurs="0" />
+                <xs:element name="q4" type="xs:string" minOccurs="0" />
+                <xs:element name="UPDATEDBY" type="xs:string" minOccurs="0" />
+                <xs:element name="VALID_FROM" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="VALID_TO" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="Recency" type="xs:double" minOccurs="0" />
+                <xs:element name="Department" type="xs:string" minOccurs="0" />
+                <xs:element name="Job_x0020_Function" type="xs:string" minOccurs="0" />
+                <xs:element name="Title" type="xs:string" minOccurs="0" />
+                <xs:element name="Direct_x0020_Phone" type="xs:string" minOccurs="0" />
+                <xs:element name="Site_x0020_Phone" type="xs:string" minOccurs="0" />
+                <xs:element name="Email_x0020_Address" type="xs:string" minOccurs="0" />
+                <xs:element name="Do_x0020_Not_x0020_Mail" type="xs:string" minOccurs="0" />
+                <xs:element name="Do_x0020_Not_x0020_Fax" type="xs:string" minOccurs="0" />
+                <xs:element name="Do_x0020_Not_x0020_Email" type="xs:string" minOccurs="0" />
+                <xs:element name="Do_x0020_Not_x0020_Call" type="xs:string" minOccurs="0" />
+                <xs:element name="Lifetime_x0020_Sales" type="xs:double" minOccurs="0" />
+                <xs:element name="Last_x0020_12M_x0020_Sales" type="xs:double" minOccurs="0" />
+                <xs:element name="Lifetime_x0020_Orders" type="xs:double" minOccurs="0" />
+                <xs:element name="last_x0020_12M_x0020_Orders" type="xs:double" minOccurs="0" />
+                <xs:element name="Last_x0020_Purchased_x0020_Date" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="OHIE" type="xs:string" minOccurs="0" />
+                <xs:element name="HSE" type="xs:string" minOccurs="0" />
+                <xs:element name="ES" type="xs:string" minOccurs="0" />
+                <xs:element name="PC_update_by" type="xs:string" minOccurs="0" />
+                <xs:element name="PC_update_on" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="new_contact_key" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Phone_x0020_Extension" type="xs:string" minOccurs="0" />
+                <xs:element name="cusmerge" type="xs:string" minOccurs="0" />
+                <xs:element name="Row" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="1" type="xs:int" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <Contact_x0020_Number>11460165</Contact_x0020_Number>
+    <First_x0020_Name>TINA</First_x0020_Name>
+    <Last_x0020_Name>ZAPRAZNY</Last_x0020_Name>
+    <Contact_x0020_Type>NO ACTIVITY</Contact_x0020_Type>
+    <Contact_x0020_Status>ACTIVE</Contact_x0020_Status>
+    <Repdata_x0020_Contact_x0020_Status>No Longer there</Repdata_x0020_Contact_x0020_Status>
+    <Repdata_x0020_Function />
+    <q4 />
+    <UPDATEDBY>CepeBe      </UPDATEDBY>
+    <VALID_FROM>2014-04-16T00:00:00+08:00</VALID_FROM>
+    <VALID_TO>9999-12-31T00:00:00+08:00</VALID_TO>
+    <Recency>48</Recency>
+    <Direct_x0020_Phone>804-843-3131</Direct_x0020_Phone>
+    <Site_x0020_Phone>757-232-8777</Site_x0020_Phone>
+    <Do_x0020_Not_x0020_Mail>REGULAR</Do_x0020_Not_x0020_Mail>
+    <Do_x0020_Not_x0020_Fax>REGULAR</Do_x0020_Not_x0020_Fax>
+    <Do_x0020_Not_x0020_Email>REGULAR</Do_x0020_Not_x0020_Email>
+    <Do_x0020_Not_x0020_Call>REGULAR</Do_x0020_Not_x0020_Call>
+    <OHIE xml:space="preserve">                                </OHIE>
+    <HSE xml:space="preserve">                                </HSE>
+    <ES xml:space="preserve">                                </ES>
+    <PC_update_by>CepeBe      </PC_update_by>
+    <PC_update_on>2014-04-16T00:00:00+08:00</PC_update_on>
+    <cusmerge>0006638731</cusmerge>
+  </Table>
+  <Table>
+    <Contact_x0020_Number>11467955</Contact_x0020_Number>
+    <First_x0020_Name>ELIZABETH</First_x0020_Name>
+    <Last_x0020_Name>HOGGE</Last_x0020_Name>
+    <Contact_x0020_Type>BUYER</Contact_x0020_Type>
+    <Contact_x0020_Status>ACTIVE</Contact_x0020_Status>
+    <Repdata_x0020_Contact_x0020_Status>No Longer there</Repdata_x0020_Contact_x0020_Status>
+    <Repdata_x0020_Function />
+    <q4 />
+    <UPDATEDBY>CepeBe      </UPDATEDBY>
+    <VALID_FROM>2014-04-16T00:00:00+08:00</VALID_FROM>
+    <VALID_TO>9999-12-31T00:00:00+08:00</VALID_TO>
+    <Recency>48</Recency>
+    <Job_x0020_Function>Office Manager</Job_x0020_Function>
+    <Direct_x0020_Phone>804-843-3131</Direct_x0020_Phone>
+    <Site_x0020_Phone>757-232-8777</Site_x0020_Phone>
+    <Email_x0020_Address>ELIZABETH.HOFGGE@TPMGPC.COM</Email_x0020_Address>
+    <Do_x0020_Not_x0020_Mail>REGULAR</Do_x0020_Not_x0020_Mail>
+    <Do_x0020_Not_x0020_Fax>REGULAR</Do_x0020_Not_x0020_Fax>
+    <Do_x0020_Not_x0020_Email>REGULAR</Do_x0020_Not_x0020_Email>
+    <Do_x0020_Not_x0020_Call>REGULAR</Do_x0020_Not_x0020_Call>
+    <Lifetime_x0020_Sales>179.85</Lifetime_x0020_Sales>
+    <Lifetime_x0020_Orders>1</Lifetime_x0020_Orders>
+    <last_x0020_12M_x0020_Orders>0</last_x0020_12M_x0020_Orders>
+    <Last_x0020_Purchased_x0020_Date>2012-12-18T00:00:00+08:00</Last_x0020_Purchased_x0020_Date>
+    <OHIE xml:space="preserve">                                </OHIE>
+    <HSE xml:space="preserve">                                </HSE>
+    <ES xml:space="preserve">                                </ES>
+    <PC_update_by>CepeBe      </PC_update_by>
+    <PC_update_on>2014-04-16T00:00:00+08:00</PC_update_on>
+    <cusmerge>0006638731</cusmerge>
+  </Table>
+</NewDataSet>

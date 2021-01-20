@@ -1,0 +1,374 @@
+﻿
+/* Common */
+body {
+}
+
+.lblMsg_Common
+{
+	font-family: Arial, Verdana;
+	font-size: 12px;
+	color: #064287;
+	font-weight: normal;
+}
+
+.pageData_Common
+{
+	width: 50%;
+	float: left;
+	margin-left: 13px;
+}
+
+/*Start GridresultTable css*/
+
+.GridresultTable_Common
+{
+	border-left: 0px solid #c0c3c4;
+	border-right: 0px solid #c0c3c4;
+	border-top: 0px solid #c0c3c4; 
+	width: 100%;
+	margin: 0;
+}
+
+.GridresultTable_Common th
+{
+	background: #93B7DB url( '../images/table-header-bg.gif' ) repeat-x top;
+	height: 22px;
+	color: White;
+	text-transform: uppercase;
+	font-size: 11px;
+	font-weight: bold;
+	border: 1px;
+	padding: 0px 5px 0px 5px;
+	
+}
+
+.GridExpensesTable_Common th
+{
+	background: #5EAEE1 repeat-x top;
+	height: 25px;
+	color: White;
+	text-transform:none;
+	font-size: 11px;
+	font-weight: bold;
+	border: 1px;
+	padding: 0px 5px 0px 5px;
+	border-color:  #AAC5E2;  
+	font-family: Arial, Helvetica, sans-serif;
+	
+}
+
+.GridExpensesTable_Common .ExpgreyBg
+{
+	height: 10px;
+	border-color: #AAC5E2;
+	padding: 0px 0px 0px 5px;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+	
+}
+
+.GridProfExpensesTable_Common th
+{
+	background: #5EAEE1 url( '../images/table-header-bg.gif' ) repeat-x top;
+	height: 22px;
+	color: White;
+	text-transform: uppercase;
+	font-size: 11px;
+	font-weight: bold;
+	border: 1px;
+	padding: 0px 5px 0px 5px;
+	
+}
+
+.GridProfExpensesTable_Common td
+{
+	height: 22px;
+	padding: 0px 5px 0px 5px;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.GridProfExpensesTable_Common .profExpenesesGreyBg
+{
+	height: 22px;
+	background-color: #f3f3f3;
+	padding: 0px 0px 0px 5px;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.GridresultTable_Common td
+{
+	height: 22px;
+	padding: 0px 5px 0px 5px;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+	border-collapse:collapse;
+}
+
+
+.GridresultTable_Common .greyBg
+{
+	height: 22px;
+	background-color: #93B7DB;
+	padding: 0px 0px 0px 0px;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.GridresultTable_Common .rateAmtDetails_Common
+{
+	text-align: right;
+	padding: 0 70px 0 0;
+}
+
+/* Budget img Start */
+.HypBudget .BudgetImg
+{
+	src:"../images/AllocateBudget.gif";
+}
+
+/*End GridresultTable css*/
+
+/*Start NestedGridresultTable css*/
+
+.NestedGridresultTable_Common
+{
+	border-left: 0px solid #c0c3c4;
+	border-right: 0px solid #c0c3c4;
+	border-top: 0px solid #c0c3c4; 
+	width: 100%;
+	margin: 0;
+}
+
+.NestedGridresultTable_Common th
+{
+	background: #c4c7c7 url( '../images/table-header-bg.gif' ) repeat-x top;
+	height: 22px;
+	color: White;
+	text-transform: uppercase;
+	font-size: 11px;
+	font-weight: bold;
+	border: 1px;
+	padding: 0px 5px 0px 5px;
+	
+}
+
+.NestedGridExpensesTable_Common th
+{
+	background: #5EAEE1 repeat-x top;
+	height: 25px;
+	color: White;
+	text-transform:none;
+	font-size: 11px;
+	font-weight: bold;
+	border: 1px;
+	padding: 0px 5px 0px 5px;
+	border-color: Gray;  
+	font-family: Arial, Helvetica, sans-serif;
+	
+}
+
+.NestedGridExpensesTable_Common .ExpgreyBg
+{
+	height: 10px;
+	border-color: Gray;
+	padding: 0px 0px 0px 5px;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+	
+}
+
+.NestedGridProfExpensesTable_Common th
+{
+	background: #c4c7c7 url( '../images/table-header-bg.gif' ) repeat-x top;
+	height: 22px;
+	color: White;
+	text-transform: uppercase;
+	font-size: 11px;
+	font-weight: bold;
+	border: 1px;
+	padding: 0px 5px 0px 5px;
+	
+}
+
+.NestedGridProfExpensesTable_Common td
+{
+	height: 22px;
+	padding: 0px 5px 0px 5px;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.NestedGridProfExpensesTable_Common .profExpenesesGreyBg
+{
+	height: 22px;
+	background-color: #f3f3f3;
+	padding: 0px 0px 0px 5px;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.NestedGridresultTable_Common td
+{
+	height: 22px;
+	padding: 0px 0px 0px 0px;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+	border-collapse:collapse;
+}
+
+.NestedGridresultTable_Common .greyBg
+{
+	height: 22px;
+	background-color: #f3f3f3;
+	padding: 0px 0px 0px 0px;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.NestedGridresultTable_Common .rateAmtDetails_Common
+{
+	text-align: right;
+	padding: 0 70px 0 0;
+}
+
+/* Budget img Start */
+.HypBudget .BudgetImg
+{
+	src:"../images/AllocateBudget.gif";
+}
+
+/*End NestedGridresultTable css*/
+
+/*Start addDel css*/
+.addDel_Common
+{
+	text-align: right;
+	padding: 0 0 0 0;
+}
+
+.addDel_Common img
+{
+	margin: 0 5px 0 0;
+}
+/*End addDel css*/
+
+/*Start checkDel css*/
+.checkDel_Common
+{
+	font-size: 12px;
+	padding: 12px 0 0 13px;
+	text-align: left;
+}
+
+.checkDel_Common .checkDelInput
+{
+	margin: 0 5px 0 0;
+}
+/*End checkDel css*/
+
+.InformationText_Common
+{
+  font-family: Arial;
+  font-size: 7pt;
+  text-align: left;
+  color: #000000;
+  text-decoration: none;
+}
+
+.HandCursor
+{
+	cursor:hand;
+}
+
+.DefaultCursor
+{
+	cursor:default;
+}
+
+.headerStyle
+{
+	font-size: 12px;
+	font-weight: normal;
+}
+
+.TBDisable
+{  
+  height:19px;
+  color: #000000; 
+  border-style: solid;
+  border-width: 1px;  
+  border-color:#C9C7BA; 
+  font-family:Arial;    
+}
+
+.ValPopupMsg
+{
+	color:#ff0000;
+	font-family:Verdana;
+	font-size:10px;
+	font-weight:bolder;
+}
+
+.GridLabelLeftPadding
+{
+	padding-left :6px;
+}
+
+.GridLabelRightPadding
+{
+	padding-right :6px;
+}
+
+.ProjectTableBackGround
+{
+  background-image: url('../Images/TableBackground.gif' );
+  
+  width: 100%;
+  background-repeat: repeat-x;
+  border: 1px solid #dddddd;
+  border-width: 0px 1px 1px 1px;
+}
+
+.GridTableBorder
+{
+	border: 1px solid #dddddd;
+	border-width: 0px 1px 1px 1px;
+}
+
+.LableWithBold
+{
+  padding-top: 3px;
+  font-family: Arial;
+  font-size: 10pt;
+  text-align: right;
+  color: #000000;
+  text-decoration: none;
+}
+
+.MultilineTextBox
+{
+  padding-top: 3px;
+  font-family: Arial;
+  font-size: 10pt;
+  color: #000000;
+  text-decoration: none;
+}
+
+.SiteMapLink
+{
+	color:#5D7B9D;
+	font-weight:bold;
+	font-size:10pt;
+	font-family:Verdana;
+}
+
+.SiteMapLinkDis
+{
+	color:#333333;
+	font-weight:bold;
+	font-size:10pt;
+	font-family:Verdana;
+}

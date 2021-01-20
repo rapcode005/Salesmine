@@ -1,0 +1,359 @@
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\WebSalesTracker\bin\WebSalesMine.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\WebSalesTracker\bin\WebSalesMine.pdb
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\WebSalesTracker\bin\AjaxControlToolkit.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\WebSalesTracker\bin\AppLogic.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\WebSalesTracker\bin\FunctionVB.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\WebSalesTracker\bin\LoggerLibrary.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\WebSalesTracker\bin\Microsoft.Web.Preview.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\WebSalesTracker\bin\Utilities.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\WebSalesTracker\bin\Visualization.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\WebSalesTracker\bin\DataAccess.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\WebSalesTracker\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\WebSalesTracker\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\WebSalesTracker\bin\Microsoft.Practices.Unity.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\WebSalesTracker\bin\AppLogic.pdb
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\WebSalesTracker\bin\LoggerLibrary.pdb
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\WebSalesTracker\bin\AjaxControlToolkit.pdb
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\WebSalesTracker\bin\DataAccess.pdb
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\WebSalesTracker\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\WebSalesTracker\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\WebSalesTracker\bin\Microsoft.Practices.Unity.pdb
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\WebSalesTracker\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\WebSalesTracker\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\WebSalesTracker\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\WebSalesTracker\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\WebSalesTracker\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\WebSalesTracker\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\WebSalesTracker\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\WebSalesTracker\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\WebSalesTracker\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\WebSalesTracker\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\WebSalesTracker\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\WebSalesTracker\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\WebSalesTracker\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\WebSalesTracker\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\WebSalesTracker\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\WebSalesTracker\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\WebSalesTracker\obj\Debug\WebSalesMine.csprojResolveAssemblyReference.cache
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\WebSalesTracker\obj\Debug\WebSalesMine.dll
+C:\Users\OngRa\Documents\WebSalesMine\Project-SourceCode\WebSalesTracker\obj\Debug\WebSalesMine.pdb
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\WebSalesTracker\bin\WebSalesMine.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\WebSalesTracker\bin\WebSalesMine.pdb
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\WebSalesTracker\bin\AjaxControlToolkit.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\WebSalesTracker\bin\AppLogic.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\WebSalesTracker\bin\FunctionVB.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\WebSalesTracker\bin\LoggerLibrary.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\WebSalesTracker\bin\Microsoft.Web.Preview.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\WebSalesTracker\bin\Utilities.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\WebSalesTracker\bin\Visualization.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\WebSalesTracker\bin\DataAccess.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\WebSalesTracker\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\WebSalesTracker\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\WebSalesTracker\bin\Microsoft.Practices.Unity.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\WebSalesTracker\bin\AppLogic.pdb
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\WebSalesTracker\bin\LoggerLibrary.pdb
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\WebSalesTracker\bin\AjaxControlToolkit.pdb
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\WebSalesTracker\bin\DataAccess.pdb
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\WebSalesTracker\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\WebSalesTracker\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\WebSalesTracker\bin\Microsoft.Practices.Unity.pdb
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\WebSalesTracker\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\WebSalesTracker\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\WebSalesTracker\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\WebSalesTracker\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\WebSalesTracker\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\WebSalesTracker\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\WebSalesTracker\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\WebSalesTracker\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\WebSalesTracker\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\WebSalesTracker\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\WebSalesTracker\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\WebSalesTracker\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\WebSalesTracker\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\WebSalesTracker\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\WebSalesTracker\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\WebSalesTracker\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\WebSalesTracker\obj\Debug\WebSalesMine.csprojResolveAssemblyReference.cache
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\WebSalesTracker\obj\Debug\WebSalesMine.dll
+C:\Users\OngRa\Documents\2017-01-30b Bug Fixing\WebSalesTracker\obj\Debug\WebSalesMine.pdb
+C:\Users\OngRa\Documents\Web Salesmine\WebSalesTracker\bin\WebSalesMine.dll
+C:\Users\OngRa\Documents\Web Salesmine\WebSalesTracker\bin\WebSalesMine.pdb
+C:\Users\OngRa\Documents\Web Salesmine\WebSalesTracker\bin\AjaxControlToolkit.dll
+C:\Users\OngRa\Documents\Web Salesmine\WebSalesTracker\bin\AppLogic.dll
+C:\Users\OngRa\Documents\Web Salesmine\WebSalesTracker\bin\FunctionVB.dll
+C:\Users\OngRa\Documents\Web Salesmine\WebSalesTracker\bin\LoggerLibrary.dll
+C:\Users\OngRa\Documents\Web Salesmine\WebSalesTracker\bin\Microsoft.Web.Preview.dll
+C:\Users\OngRa\Documents\Web Salesmine\WebSalesTracker\bin\Utilities.dll
+C:\Users\OngRa\Documents\Web Salesmine\WebSalesTracker\bin\Visualization.dll
+C:\Users\OngRa\Documents\Web Salesmine\WebSalesTracker\bin\DataAccess.dll
+C:\Users\OngRa\Documents\Web Salesmine\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\OngRa\Documents\Web Salesmine\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\OngRa\Documents\Web Salesmine\WebSalesTracker\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\OngRa\Documents\Web Salesmine\WebSalesTracker\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\OngRa\Documents\Web Salesmine\WebSalesTracker\bin\Microsoft.Practices.Unity.dll
+C:\Users\OngRa\Documents\Web Salesmine\WebSalesTracker\bin\AppLogic.pdb
+C:\Users\OngRa\Documents\Web Salesmine\WebSalesTracker\bin\LoggerLibrary.pdb
+C:\Users\OngRa\Documents\Web Salesmine\WebSalesTracker\bin\AjaxControlToolkit.pdb
+C:\Users\OngRa\Documents\Web Salesmine\WebSalesTracker\bin\DataAccess.pdb
+C:\Users\OngRa\Documents\Web Salesmine\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+C:\Users\OngRa\Documents\Web Salesmine\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\OngRa\Documents\Web Salesmine\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\OngRa\Documents\Web Salesmine\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\OngRa\Documents\Web Salesmine\WebSalesTracker\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\OngRa\Documents\Web Salesmine\WebSalesTracker\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\OngRa\Documents\Web Salesmine\WebSalesTracker\bin\Microsoft.Practices.Unity.pdb
+C:\Users\OngRa\Documents\Web Salesmine\WebSalesTracker\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Web Salesmine\WebSalesTracker\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Web Salesmine\WebSalesTracker\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Web Salesmine\WebSalesTracker\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Web Salesmine\WebSalesTracker\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Web Salesmine\WebSalesTracker\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Web Salesmine\WebSalesTracker\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Web Salesmine\WebSalesTracker\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Web Salesmine\WebSalesTracker\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Web Salesmine\WebSalesTracker\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Web Salesmine\WebSalesTracker\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Web Salesmine\WebSalesTracker\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Web Salesmine\WebSalesTracker\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Web Salesmine\WebSalesTracker\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Web Salesmine\WebSalesTracker\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Web Salesmine\WebSalesTracker\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Web Salesmine\WebSalesTracker\obj\Debug\WebSalesMine.csprojResolveAssemblyReference.cache
+C:\Users\OngRa\Documents\Web Salesmine\WebSalesTracker\obj\Debug\WebSalesMine.dll
+C:\Users\OngRa\Documents\Web Salesmine\WebSalesTracker\obj\Debug\WebSalesMine.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\WebSalesTracker\bin\WebSalesMine.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\WebSalesTracker\bin\WebSalesMine.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\WebSalesTracker\bin\AjaxControlToolkit.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\WebSalesTracker\bin\AppLogic.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\WebSalesTracker\bin\FunctionVB.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\WebSalesTracker\bin\LoggerLibrary.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\WebSalesTracker\bin\Microsoft.Web.Preview.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\WebSalesTracker\bin\Utilities.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\WebSalesTracker\bin\Visualization.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\WebSalesTracker\bin\DataAccess.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\WebSalesTracker\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\WebSalesTracker\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\WebSalesTracker\bin\Microsoft.Practices.Unity.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\WebSalesTracker\bin\AppLogic.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\WebSalesTracker\bin\LoggerLibrary.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\WebSalesTracker\bin\AjaxControlToolkit.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\WebSalesTracker\bin\DataAccess.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\WebSalesTracker\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\WebSalesTracker\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\WebSalesTracker\bin\Microsoft.Practices.Unity.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\WebSalesTracker\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\WebSalesTracker\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\WebSalesTracker\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\WebSalesTracker\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\WebSalesTracker\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\WebSalesTracker\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\WebSalesTracker\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\WebSalesTracker\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\WebSalesTracker\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\WebSalesTracker\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\WebSalesTracker\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\WebSalesTracker\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\WebSalesTracker\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\WebSalesTracker\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\WebSalesTracker\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\WebSalesTracker\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\WebSalesTracker\obj\Debug\WebSalesMine.csprojResolveAssemblyReference.cache
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\WebSalesTracker\obj\Debug\WebSalesMine.dll
+C:\Users\OngRa\Documents\Salesmine\2017-02-08 Stable Version\WebSalesTracker\obj\Debug\WebSalesMine.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-05-25 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\WebSalesMine.dll
+C:\Users\OngRa\Documents\Salesmine\2017-05-25 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\WebSalesMine.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-05-25 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\AjaxControlToolkit.dll
+C:\Users\OngRa\Documents\Salesmine\2017-05-25 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\AppLogic.dll
+C:\Users\OngRa\Documents\Salesmine\2017-05-25 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\FunctionVB.dll
+C:\Users\OngRa\Documents\Salesmine\2017-05-25 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\LoggerLibrary.dll
+C:\Users\OngRa\Documents\Salesmine\2017-05-25 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\Microsoft.Web.Preview.dll
+C:\Users\OngRa\Documents\Salesmine\2017-05-25 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\Utilities.dll
+C:\Users\OngRa\Documents\Salesmine\2017-05-25 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\Visualization.dll
+C:\Users\OngRa\Documents\Salesmine\2017-05-25 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\DataAccess.dll
+C:\Users\OngRa\Documents\Salesmine\2017-05-25 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\OngRa\Documents\Salesmine\2017-05-25 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\OngRa\Documents\Salesmine\2017-05-25 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\OngRa\Documents\Salesmine\2017-05-25 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\OngRa\Documents\Salesmine\2017-05-25 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\Microsoft.Practices.Unity.dll
+C:\Users\OngRa\Documents\Salesmine\2017-05-25 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\AppLogic.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-05-25 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\LoggerLibrary.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-05-25 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\AjaxControlToolkit.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-05-25 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\DataAccess.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-05-25 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-05-25 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\OngRa\Documents\Salesmine\2017-05-25 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-05-25 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\OngRa\Documents\Salesmine\2017-05-25 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-05-25 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-05-25 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\Microsoft.Practices.Unity.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-05-25 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-05-25 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-05-25 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-05-25 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-05-25 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-05-25 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-05-25 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-05-25 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-05-25 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-05-25 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-05-25 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-05-25 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-05-25 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-05-25 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-05-25 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-05-25 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-05-25 Kam Window Upgrade\Salesmine\WebSalesTracker\obj\Debug\WebSalesMine.csprojResolveAssemblyReference.cache
+C:\Users\OngRa\Documents\Salesmine\2017-05-25 Kam Window Upgrade\Salesmine\WebSalesTracker\obj\Debug\WebSalesMine.dll
+C:\Users\OngRa\Documents\Salesmine\2017-05-25 Kam Window Upgrade\Salesmine\WebSalesTracker\obj\Debug\WebSalesMine.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-06 Kam Window Upgrade Testing\Salesmine\WebSalesTracker\bin\WebSalesMine.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-06 Kam Window Upgrade Testing\Salesmine\WebSalesTracker\bin\WebSalesMine.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-06 Kam Window Upgrade Testing\Salesmine\WebSalesTracker\bin\AjaxControlToolkit.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-06 Kam Window Upgrade Testing\Salesmine\WebSalesTracker\bin\AppLogic.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-06 Kam Window Upgrade Testing\Salesmine\WebSalesTracker\bin\FunctionVB.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-06 Kam Window Upgrade Testing\Salesmine\WebSalesTracker\bin\LoggerLibrary.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-06 Kam Window Upgrade Testing\Salesmine\WebSalesTracker\bin\Microsoft.Web.Preview.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-06 Kam Window Upgrade Testing\Salesmine\WebSalesTracker\bin\Utilities.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-06 Kam Window Upgrade Testing\Salesmine\WebSalesTracker\bin\Visualization.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-06 Kam Window Upgrade Testing\Salesmine\WebSalesTracker\bin\DataAccess.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-06 Kam Window Upgrade Testing\Salesmine\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-06 Kam Window Upgrade Testing\Salesmine\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-06 Kam Window Upgrade Testing\Salesmine\WebSalesTracker\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-06 Kam Window Upgrade Testing\Salesmine\WebSalesTracker\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-06 Kam Window Upgrade Testing\Salesmine\WebSalesTracker\bin\Microsoft.Practices.Unity.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-06 Kam Window Upgrade Testing\Salesmine\WebSalesTracker\bin\AppLogic.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-06 Kam Window Upgrade Testing\Salesmine\WebSalesTracker\bin\LoggerLibrary.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-06 Kam Window Upgrade Testing\Salesmine\WebSalesTracker\bin\AjaxControlToolkit.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-06 Kam Window Upgrade Testing\Salesmine\WebSalesTracker\bin\DataAccess.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-06 Kam Window Upgrade Testing\Salesmine\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-06 Kam Window Upgrade Testing\Salesmine\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\OngRa\Documents\Salesmine\2017-06-06 Kam Window Upgrade Testing\Salesmine\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-06 Kam Window Upgrade Testing\Salesmine\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\OngRa\Documents\Salesmine\2017-06-06 Kam Window Upgrade Testing\Salesmine\WebSalesTracker\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-06 Kam Window Upgrade Testing\Salesmine\WebSalesTracker\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-06 Kam Window Upgrade Testing\Salesmine\WebSalesTracker\bin\Microsoft.Practices.Unity.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-06 Kam Window Upgrade Testing\Salesmine\WebSalesTracker\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-06 Kam Window Upgrade Testing\Salesmine\WebSalesTracker\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-06 Kam Window Upgrade Testing\Salesmine\WebSalesTracker\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-06 Kam Window Upgrade Testing\Salesmine\WebSalesTracker\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-06 Kam Window Upgrade Testing\Salesmine\WebSalesTracker\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-06 Kam Window Upgrade Testing\Salesmine\WebSalesTracker\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-06 Kam Window Upgrade Testing\Salesmine\WebSalesTracker\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-06 Kam Window Upgrade Testing\Salesmine\WebSalesTracker\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-06 Kam Window Upgrade Testing\Salesmine\WebSalesTracker\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-06 Kam Window Upgrade Testing\Salesmine\WebSalesTracker\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-06 Kam Window Upgrade Testing\Salesmine\WebSalesTracker\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-06 Kam Window Upgrade Testing\Salesmine\WebSalesTracker\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-06 Kam Window Upgrade Testing\Salesmine\WebSalesTracker\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-06 Kam Window Upgrade Testing\Salesmine\WebSalesTracker\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-06 Kam Window Upgrade Testing\Salesmine\WebSalesTracker\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-06 Kam Window Upgrade Testing\Salesmine\WebSalesTracker\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-06 Kam Window Upgrade Testing\Salesmine\WebSalesTracker\obj\Debug\WebSalesMine.csprojResolveAssemblyReference.cache
+C:\Users\OngRa\Documents\Salesmine\2017-06-06 Kam Window Upgrade Testing\Salesmine\WebSalesTracker\obj\Debug\WebSalesMine.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-06 Kam Window Upgrade Testing\Salesmine\WebSalesTracker\obj\Debug\WebSalesMine.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\WebSalesMine.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\WebSalesMine.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\AjaxControlToolkit.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\AppLogic.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\FunctionVB.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\LoggerLibrary.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\Microsoft.Web.Preview.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\Utilities.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\Visualization.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\DataAccess.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\Microsoft.Practices.Unity.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\AppLogic.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\LoggerLibrary.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\AjaxControlToolkit.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\DataAccess.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\Microsoft.Practices.Unity.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\WebSalesTracker\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\WebSalesTracker\obj\Debug\WebSalesMine.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-08 Kam Window Upgrade\Salesmine\WebSalesTracker\obj\Debug\WebSalesMine.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\WebSalesTracker\bin\WebSalesMine.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\WebSalesTracker\bin\WebSalesMine.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\WebSalesTracker\bin\AjaxControlToolkit.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\WebSalesTracker\bin\AppLogic.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\WebSalesTracker\bin\FunctionVB.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\WebSalesTracker\bin\LoggerLibrary.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\WebSalesTracker\bin\Microsoft.Web.Preview.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\WebSalesTracker\bin\Utilities.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\WebSalesTracker\bin\Visualization.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\WebSalesTracker\bin\DataAccess.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\WebSalesTracker\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\WebSalesTracker\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\WebSalesTracker\bin\Microsoft.Practices.Unity.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\WebSalesTracker\bin\AppLogic.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\WebSalesTracker\bin\LoggerLibrary.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\WebSalesTracker\bin\AjaxControlToolkit.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\WebSalesTracker\bin\DataAccess.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\WebSalesTracker\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\WebSalesTracker\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\WebSalesTracker\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\WebSalesTracker\bin\Microsoft.Practices.Unity.pdb
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\WebSalesTracker\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\WebSalesTracker\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\WebSalesTracker\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\WebSalesTracker\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\WebSalesTracker\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\WebSalesTracker\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\WebSalesTracker\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\WebSalesTracker\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\WebSalesTracker\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\WebSalesTracker\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\WebSalesTracker\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\WebSalesTracker\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\WebSalesTracker\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\WebSalesTracker\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\WebSalesTracker\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\WebSalesTracker\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\WebSalesTracker\obj\Debug\WebSalesMine.csprojResolveAssemblyReference.cache
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\WebSalesTracker\obj\Debug\WebSalesMine.dll
+C:\Users\OngRa\Documents\Salesmine\2017-06-19 Testing\Salesmine\WebSalesTracker\obj\Debug\WebSalesMine.pdb

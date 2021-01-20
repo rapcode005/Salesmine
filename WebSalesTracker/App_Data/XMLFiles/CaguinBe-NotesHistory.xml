@@ -1,0 +1,108 @@
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="DATE" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="CREATED_x0020_BY" type="xs:string" minOccurs="0" />
+                <xs:element name="NOTE_x0020_TYPE" type="xs:string" minOccurs="0" />
+                <xs:element name="NOTES" type="xs:string" minOccurs="0" />
+                <xs:element name="SCHEDULED_x0020_DATE" type="xs:string" minOccurs="0" />
+                <xs:element name="ACCOUNT_x0020_NUMBER" type="xs:double" minOccurs="0" />
+                <xs:element name="CONTACT_x0020_NAME" type="xs:string" minOccurs="0" />
+                <xs:element name="CONTACT_x0020_NUMBER" type="xs:double" minOccurs="0" />
+                <xs:element name="DISPOSITION_x0020_CODE" type="xs:string" minOccurs="0" />
+                <xs:element name="DISPOSITION_x0020_DESCRIPTION" type="xs:string" minOccurs="0" />
+                <xs:element name="AGENT_x0020_NAME" type="xs:string" minOccurs="0" />
+                <xs:element name="PHONE_x0020_NUMBER" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <DATE>2017-01-31T16:22:20+08:00</DATE>
+    <CREATED_x0020_BY>CAGUINBE  </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>OTHER</NOTE_x0020_TYPE>
+    <NOTES>Sent an email (ens-i) callback for follow up                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </NOTES>
+    <SCHEDULED_x0020_DATE>01/31/2017</SCHEDULED_x0020_DATE>
+    <ACCOUNT_x0020_NUMBER>7858331</ACCOUNT_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2017-01-10T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY xml:space="preserve">                                </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC_Buyers_2_18_Months_Non_Subs_SE_Jan_T34505_A                  </NOTES>
+    <ACCOUNT_x0020_NUMBER>7858331</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>RF              </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Filter Excluded</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME xml:space="preserve">                                                                </AGENT_x0020_NAME>
+    <PHONE_x0020_NUMBER>8586435555                      </PHONE_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2017-01-18T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY xml:space="preserve">                                </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC_12_Mo_SS1_Ren_With_Upsell_Multi_Feb_T34598_A                 </NOTES>
+    <ACCOUNT_x0020_NUMBER>7858331</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>TZ              </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Time zone attempted but time expired</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME xml:space="preserve">                                                                </AGENT_x0020_NAME>
+    <PHONE_x0020_NUMBER>8586435555                      </PHONE_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2016-03-30T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>BeringEr                        </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC_CA_Employer_Update_Kit_C_Mar_T33583                          </NOTES>
+    <ACCOUNT_x0020_NUMBER>7858331</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>SAL             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Made A Sale</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Erika Beringuel                                                 </AGENT_x0020_NAME>
+    <PHONE_x0020_NUMBER>8586435555                      </PHONE_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2016-01-05T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>HaleMa                          </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC Upsell Prospect Fresh                                        </NOTES>
+    <ACCOUNT_x0020_NUMBER>7858331</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>NIG             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Not Interested</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Mark Hale                                                       </AGENT_x0020_NAME>
+    <PHONE_x0020_NUMBER>8586435555                      </PHONE_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2017-01-05T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>MagatFe                         </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC_Buyers_2_18_Months_Non_Subs_SE_Jan_T34505_A                  </NOTES>
+    <ACCOUNT_x0020_NUMBER>7858331</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>LVM             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Recall Next Day</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Federico Magat                                                  </AGENT_x0020_NAME>
+    <PHONE_x0020_NUMBER>8586435555                      </PHONE_x0020_NUMBER>
+  </Table>
+  <Table>
+    <DATE>2016-12-01T00:00:00+08:00</DATE>
+    <CREATED_x0020_BY>WirtKa                          </CREATED_x0020_BY>
+    <NOTE_x0020_TYPE>DIALER</NOTE_x0020_TYPE>
+    <NOTES>PC_Buyers_2_18_Months_Non_Subs_SE_Nov_T34339_A                  </NOTES>
+    <ACCOUNT_x0020_NUMBER>7858331</ACCOUNT_x0020_NUMBER>
+    <CONTACT_x0020_NAME />
+    <DISPOSITION_x0020_CODE>LVM             </DISPOSITION_x0020_CODE>
+    <DISPOSITION_x0020_DESCRIPTION>Recall Next Day</DISPOSITION_x0020_DESCRIPTION>
+    <AGENT_x0020_NAME>Katelynn Wirt                                                   </AGENT_x0020_NAME>
+    <PHONE_x0020_NUMBER>8586435555                      </PHONE_x0020_NUMBER>
+  </Table>
+</NewDataSet>

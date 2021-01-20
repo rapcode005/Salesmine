@@ -1,0 +1,46 @@
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Sold_to" type="xs:string" minOccurs="0" />
+                <xs:element name="Createdby" type="xs:string" minOccurs="0" />
+                <xs:element name="Createdon" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="Buyerct" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Firstname" type="xs:string" minOccurs="0" />
+                <xs:element name="Lastname" type="xs:string" minOccurs="0" />
+                <xs:element name="Status" type="xs:string" minOccurs="0" />
+                <xs:element name="Function" type="xs:string" minOccurs="0" />
+                <xs:element name="Title" type="xs:string" minOccurs="0" />
+                <xs:element name="Phone" type="xs:string" minOccurs="0" />
+                <xs:element name="PhoneExt" type="xs:string" minOccurs="0" />
+                <xs:element name="Department" type="xs:string" minOccurs="0" />
+                <xs:element name="Email_Address" type="xs:string" minOccurs="0" />
+                <xs:element name="comment" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <Sold_to>0006638731</Sold_to>
+    <Createdby>URENACR</Createdby>
+    <Createdon>2013-12-26T11:35:01.993+08:00</Createdon>
+    <Buyerct>11467955</Buyerct>
+    <Firstname>Rachel</Firstname>
+    <Lastname>.</Lastname>
+    <Status />
+    <Function />
+    <Title />
+    <Phone />
+    <PhoneExt />
+    <Department />
+    <Email_Address />
+    <comment />
+  </Table>
+</NewDataSet>

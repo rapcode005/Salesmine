@@ -1,0 +1,84 @@
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="campaignName" type="xs:string" minOccurs="0" />
+                <xs:element name="campaignValue" type="xs:string" minOccurs="0" />
+                <xs:element name="Currency" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <campaignName>Clement</campaignName>
+    <campaignValue>CL</campaignValue>
+    <Currency>USD</Currency>
+  </Table>
+  <Table>
+    <campaignName>Emedco</campaignName>
+    <campaignValue>EMED</campaignValue>
+    <Currency>USD</Currency>
+  </Table>
+  <Table>
+    <campaignName>Personnel Concepts</campaignName>
+    <campaignValue>PC</campaignValue>
+    <Currency>USD</Currency>
+  </Table>
+  <Table>
+    <campaignName>Safetyshop UK</campaignName>
+    <campaignValue>SUK</campaignValue>
+    <Currency>GBP</Currency>
+  </Table>
+  <Table>
+    <campaignName>Seton Austria</campaignName>
+    <campaignValue>AT</campaignValue>
+    <Currency>EUR</Currency>
+  </Table>
+  <Table>
+    <campaignName>Seton Belgium</campaignName>
+    <campaignValue>BE</campaignValue>
+    <Currency>EUR</Currency>
+  </Table>
+  <Table>
+    <campaignName>Seton Canada</campaignName>
+    <campaignValue>CA</campaignValue>
+    <Currency>USD</Currency>
+  </Table>
+  <Table>
+    <campaignName>Seton France</campaignName>
+    <campaignValue>FR</campaignValue>
+    <Currency>EUR</Currency>
+  </Table>
+  <Table>
+    <campaignName>Seton Germany</campaignName>
+    <campaignValue>DE</campaignValue>
+    <Currency>EUR</Currency>
+  </Table>
+  <Table>
+    <campaignName>Seton Netherlands</campaignName>
+    <campaignValue>NL</campaignValue>
+    <Currency>EUR</Currency>
+  </Table>
+  <Table>
+    <campaignName>Seton Switzerland</campaignName>
+    <campaignValue>CH</campaignValue>
+    <Currency>CHF</Currency>
+  </Table>
+  <Table>
+    <campaignName>Seton UK</campaignName>
+    <campaignValue>UK</campaignValue>
+    <Currency>GBP</Currency>
+  </Table>
+  <Table>
+    <campaignName>Seton US</campaignName>
+    <campaignValue>US</campaignValue>
+    <Currency>USD</Currency>
+  </Table>
+</NewDataSet>
